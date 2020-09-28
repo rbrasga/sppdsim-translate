@@ -1,27 +1,6 @@
-# translate.py
-# Created 04/14/20
-# Updated 04/15/20
-# Current Version: 0.10
-'''
-LANGUAGES=[
-	"English",
-	"Русский",		#Russian, ru
-	"Deutsch",		#German, de
-	"Français",		#French, fr
-	"Italiano",		#Italian, it
-	"Español",		#Spanish, es
-	"한국어",			#Korean, ko
-	"繁體中文(台灣)",	#Chinese Taiwan, zh-tw
-	"中文（简体）",		#Chinese Simplified, zh-cn
-	"Português",	#Brazilian, pt
-	"Polski",		#Polish, pl
-	"Türkçe",		#Turkish, tr
-	"日本語",			#Japanese, ja
-	#"Dutch",		#Netherlands, nl
-]
-'''
+# Русский, Russian, ru
+
 WORDS={}
-#WORDS[<word>] = { <key1> : <translation1>, <key2> : <translation2>, ... }
 
 #Card Names
 WORDS["A.W.E.S.O.M.-O 4000"]={1:"Ш.И.К.А.Р.Н.-O 4000"}
@@ -276,3 +255,186 @@ WORDS["Spell"]={1:"Заклинание"}
 WORDS["Trap"]={1:"Ловушка"}
 
 #From Google Translate
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Maybe even a custom card builder (I've got the files I need thanks to PichuZapper#8383)
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={1:'''** Добро пожаловать на сайт SPPDReplay **
+
+Мы основываемся на концепциях Hearthstone от HearthSim и их веб-сайта [hsreplay.net] (http://hsreplay.net)
+
+Наша цель та же: предоставить игрокам расширенную игровую аналитику и инструменты.
+
+У нас есть этот веб-сайт, [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) и [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Особенности сайта:
+* Отчет о мета-колоде - Темы и карты
+* Возможность фильтрации по ряду параметров.
+* Разбивка по аренам (от 0-300 до 8500+)
+* Обновляется каждые 24 часа.
+* Команды (Топ 2000)
+* Лучшие 2000 команд
+* Возможность фильтрации по ряду параметров.
+* Лучший способ поиска новой команды.
+* Обновляется каждую неделю.
+* Все игроки (в команде 2000 лучших)
+* Каждый задавался вопросом, есть ли у вас больше всего побед в FF, побед в испытаниях или даже пожертвований?
+* Обновляется каждые 24 часа.
+* Управление командой
+* Как только вы привяжете свою учетную запись SPPD, ваша команда будет назначена автоматически.
+* Если он не назначен автоматически, найдите свою команду и нажмите «ОБНОВИТЬ» под вкладкой участника.
+* Каждый игрок (или лидер команды / соруководители этого игрока) может вводить уровни карт
+* Выбор карт командных войн автоматически обновляется, когда они становятся доступными
+* Подробные прогнозы командных войн
+* включая средневзвешенный уровень (WAL) на основе уровней карт команды
+
+[Менеджер команды] (https://github.com/rbrasga/SPPD-Team-Manager) Возможности:
+* Полная интеграция с сайтом
+* Запускать его на моем облачном сервере за 2 доллара в месяц.
+* ИЛИ на вашем собственном ПК с Windows. Никакой настройки, просто скачайте и запустите. Требуется только адрес электронной почты / пароль Google Play.
+* TVT Bracket Analytics
+* Включая обновления по электронной почте каждый раз, когда меняется оценка
+* Отслеживайте, кто где тратил кепки | кто что просил | кто что пожертвовал | очки выходного дня | история командных войн
+* Автоматическое принятие / отклонение членов команды на основе белого / черного списка
+* И автоматически назначить им назначенную роль
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Особенности:
+* Играйте как профессионал! Следите за картами, которые играете вы и ваш оппонент, с помощью внутриигрового оверлея.
+* Следите за контентом, который вы собираете через шкафчики и пакеты
+* (Необязательно) Автоматически загружать данные на сайт SPPDReplay
+* Загруженные матчи включают в себя истинные уровни карт оппонента, помощь с мета-отчетами о испытаниях и многое другое.
+
+Ожидаемые функции:
+* SPPD Deck Tracker в качестве мобильного приложения (установка не требуется) - включая универсальный вход (android <-> ios)
+* В конечном итоге поддержка дополнительной загрузки пакетов / шкафчиков для поддержки расширенной аналитики по эпическим / легендарным шансам выпадения для каждого типа пакетов по уровням
+* Может быть, даже собственный конструктор карт (у меня есть нужные файлы благодаря PichuZapper # 8383)
+* Конструктор колод
+
+** Присоединяйтесь к [SPPD Sim Discord] (https://discord.gg/j4Wchza) для получения более подробной информации. **'''}
+WORDS[" Themes"]={1:"Темы"}
+WORDS[" Decks"]={1:"Колоды"}
+WORDS[" Cards"]={1:"Карты"}
+WORDS[" Team-Wars"]={1:"Командные войны"}
+WORDS[" Build-A-Card"]={1:"Build-A-Card"}
+WORDS[" Players"]={1:"Игроки"}
+WORDS[" Teams"]={1:"Команды"}
+WORDS[" Brackets"]={1:"Кронштейны"}
+WORDS[" Matches"]={1:"совпадения"}
+WORDS[" Events"]={1:"События"}
+WORDS[" Challenge"]={1:"Вызов"}
+WORDS[" Downloads"]={1:"Загрузки"}
+WORDS[" Donate"]={1:"Пожертвовать"}
+WORDS[" About"]={1:"Около"}
+WORDS[" Articles"]={1:"Статьи"}
+WORDS[" Login"]={1:"Авторизоваться"}
+WORDS[" My Data"]={1:"Мои данные"}
+WORDS["My Profile"]={1:"Мой профиль"}
+WORDS["My Team"]={1:"Моя команда"}
+WORDS["My Cards"]={1:"Мои карты"}
+WORDS["My Matches"]={1:"Мои матчи"}
+WORDS["My Data"]={1:"Мои данные"}
+WORDS["Team-Wars"]={1:"Командные войны"}
+WORDS["Build-A-Card"]={1:"Build-A-Card"}
+WORDS["Matches"]={1:"совпадения"}
+WORDS["Events"]={1:"События"}
+WORDS["Challenge"]={1:"Вызов"}
+WORDS["Articles"]={1:"Статьи"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={1:'''Вот комбинации метатем по уровням и временным рамкам.
+
+* В зависимости от временного интервала на отчет могут влиять режим вызова или события использования карты.
+* Фильтр по широкому спектру вариантов!
+* Обновляется каждый день.'''}
+WORDS["mys,sci"]={1:"мы, наука"}
+WORDS["adv,mys"]={1:"adv, mys"}
+WORDS["adv,sci"]={1:"адвокация, наука"}
+WORDS["adv,fan"]={1:"нарек, фан"}
+WORDS["fan,sci"]={1:"фанат, наука"}
+WORDS["fan,mys"]={1:"вентилятор, мы"}
+WORDS["mys,sup"]={1:"мы, sup"}
+WORDS["adv,sup"]={1:"adv, sup"}
+WORDS["sci,sup"]={1:"sci, sup"}
+WORDS["fan,sup"]={1:"вентилятор, суп"}
+WORDS["sup,neu"]={1:"sup, neu"}
+WORDS["Last Refresh"]={1:"Последнее обновление"}
+WORDS["Total Decks"]={1:"Всего колод"}
+WORDS["Time Frame"]={1:"Временные рамки"}
+WORDS['''
+	
+		Here are the meta cards by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={1:'''Вот мета-карты по уровням и временным рамкам.
+
+* В зависимости от временного интервала на отчет могут влиять режим вызова или события использования карты.
+* Фильтр по широкому спектру вариантов!
+* Обновляется каждый день.'''}
+WORDS["link"]={1:"ссылка"}
+WORDS["id"]={1:"Я бы"}
+WORDS["DARK ANGEL RED"]={1:"ТЕМНЫЙ АНГЕЛ КРАСНЫЙ"}
+WORDS["FRONTIER BRADLEY"]={1:"ФРОНЬЕР БРЭДЛИ"}
+WORDS["SPACE PILOT BRADLEY"]={1:"КОСМИЧЕСКИЙ ПИЛОТ БРЭДЛИ"}
+WORDS["CHAOS HAMSTERS"]={1:"ХАОС ХОМУЧИКИ"}
+WORDS["CITY WOK GUY"]={1:"CITY WOK ПАРЕНЬ"}
+WORDS["GENERAL DISARRAY"]={1:"ОБЩАЯ НЕПОЛАДКА"}
+WORDS["Top 250"]={1:"Топ 250"}
+WORDS["Last 14 days"]={1:"Последние 14 дней"}

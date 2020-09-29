@@ -23,13 +23,13 @@ LANGUAGES=[
 	"Français",		#French, fr
 	"Italiano",		#Italian, it
 	"Español",		#Spanish, es
-	"한국어",		#Korean, ko
+	"한국어",			#Korean, ko
 	"繁體中文(台灣)",	#Chinese Taiwan, zh-tw
 	"中文（简体）",		#Chinese Simplified, zh-cn
 	"Português",	#Brazilian, pt
 	"Polski",		#Polish, pl
 	"Türkçe",		#Turkish, tr
-	"日本語",		#Japanese, ja
+	"日本語",			#Japanese, ja
 	#"Dutch",		#Netherlands, nl
 ]
 

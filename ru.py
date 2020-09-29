@@ -917,3 +917,5 @@ WORDS["warcry"]={1:"боевой клич"}
 WORDS["deathwish"]={1:"желание смерти"}
 WORDS["charge"]={1:"обвинять"}
 WORDS["flying"]={1:"летающий"}
+WORDS["Settings"]={1:"Настройки"}
+WORDS["Logout"]={1:"Выйти"}

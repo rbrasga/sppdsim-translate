@@ -318,3 +318,269 @@ WORDS["deathwish"]={5:"deseo de muerte"}
 WORDS["charge"]={5:"cargar"}
 WORDS["flying"]={5:"volador"}
 WORDS["Filter"]={5:"Filtrar"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Maybe even a custom card builder (I've got the files I need thanks to PichuZapper#8383)
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={5:'''** Bienvenido al sitio web de SPPDReplay **
+
+Estamos construyendo a partir de los conceptos de Hearthstone de HearthSim y su sitio web [hsreplay.net] (http://hsreplay.net)
+
+Nuestro objetivo es el mismo: llevar analíticas y herramientas de juego avanzadas a los jugadores
+
+Tenemos este sitio web, el [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) y el [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Características del sitio web:
+* Informe de Meta Deck - Temas y Tarjetas
+* Se puede filtrar por una variedad de opciones.
+* Desglose por arena (desde 0-300 hasta 8500+)
+* Actualizado cada 24 horas.
+* Equipos (Top 2000)
+* Top 2000 equipos
+* Se puede filtrar por una variedad de opciones.
+* La mejor forma de buscar un nuevo equipo.
+* Actualizado cada semana.
+* Todos los jugadores (en un equipo Top 2000)
+* ¿Todos se preguntaron si tiene la mayor cantidad de victorias de FF o victorias de desafíos, o incluso donaciones?
+* Actualizado cada 24 horas.
+* Gestión de equipos
+* Una vez que vincule su cuenta SPPD, su equipo se asignará automáticamente.
+* Si no está asignado automáticamente, busque su equipo y haga clic en "ACTUALIZAR" en la pestaña de Miembros
+* Cada jugador (o el líder / colíder del equipo de ese jugador) puede ingresar niveles de cartas
+* Las opciones de cartas de Team Wars se actualizan automáticamente cuando están disponibles
+* Proyecciones detalladas de Team Wars Caps
+* incluido el nivel promedio ponderado (WAL) basado en los niveles de tarjeta del equipo
+
+[Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) Características:
+* Totalmente integrado con el sitio web
+* Ejecútelo en mi servidor en la nube por 2 $ al mes.
+* O en su propia PC con Windows. Sin configuración, solo descarga y ejecuta. Solo se requiere correo electrónico / contraseña de Google Play.
+* Análisis de soporte TVT
+* Incluyendo actualizaciones por correo electrónico cada vez que cambia una puntuación
+* Seguimiento de quién gastó mayúsculas y dónde | quién pidió qué | quién donó qué | puntos de eventos de fin de semana | historia de teamwar
+* Aceptar / rechazar automáticamente a los miembros del equipo según la lista blanca / lista negra
+* Y asignarles automáticamente su función designada
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Características:
+* ¡Juega como un profesional! Lleve un registro de las cartas que usted y su oponente juegan con una superposición en el juego.
+* Mantenga un registro del contenido que recopila a través de casilleros y paquetes
+* (Opcional) Cargue automáticamente sus datos en el sitio web de SPPDReplay
+* Las partidas subidas incluyen los niveles de cartas reales del oponente, ayuda con los metainformes de desafío y más.
+
+Funciones pendientes:
+* SPPD Deck Tracker como aplicación móvil (no se requiere configuración), incluido el inicio de sesión universal (android <-> ios)
+* Con el tiempo, admitir la carga opcional de paquetes / casilleros para admitir análisis avanzados sobre tasas de caída épicas / legendarias para cada tipo de paquete por nivel
+* Tal vez incluso un creador de tarjetas personalizado (tengo los archivos que necesito gracias a PichuZapper # 8383)
+* Constructor de mazos
+
+** Únase a la [SPPD Sim Discord] (https://discord.gg/j4Wchza) para obtener más detalles. **'''}
+WORDS['''
+	
+		Here are (up to) the top 1000 global team leaderboard.
+		
+		* Looking for a new team? There's no better way to search.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={5:'''Aquí están (hasta) la tabla de clasificación de los 1000 mejores equipos globales.
+
+* Buscando un nuevo equipo? No hay mejor forma de buscar.
+* ¡Filtra por una amplia gama de opciones!
+* Refrescado todos los días.'''}
+WORDS["TEAMS"]={5:"EQUIPOS"}
+WORDS["Top 50"]={5:"Top 50"}
+WORDS["1000 to 2000"]={5:"1000 hasta 2000"}
+WORDS[">2000"]={5:"> 2000"}
+WORDS["Max Members"]={5:"Miembros máximos"}
+WORDS["Min NK Level"]={5:"Nivel mínimo de NK"}
+WORDS["Status"]={5:"Estado"}
+WORDS["Moderated"]={5:"Moderado"}
+WORDS["Open"]={5:"Abierto"}
+WORDS["Closed"]={5:"Cerrado"}
+WORDS["Trend"]={5:"Tendencia"}
+WORDS["Score"]={5:"Puntuación"}
+WORDS["Country"]={5:"País"}
+WORDS["Members"]={5:"Miembros"}
+WORDS["Gold"]={5:"Oro"}
+WORDS["League"]={5:"Liga"}
+WORDS["Min New Kid Level"]={5:"Nivel de niño nuevo mínimo"}
+WORDS["Description"]={5:"Descripción"}
+WORDS["Team Details"]={5:"Detalles del equipo"}
+WORDS["Team Events"]={5:"Eventos de equipo"}
+WORDS["Requests"]={5:"Peticiones"}
+WORDS["Applications"]={5:"Aplicaciones"}
+WORDS["PLAYERS"]={5:"JUGADORES"}
+WORDS["Search by Name Only"]={5:"Buscar solo por nombre"}
+WORDS["<at least five letters>"]={5:"<al menos cinco letras>"}
+WORDS["Search"]={5:"Buscar"}
+WORDS["8400-8500"]={5:"8400-8500"}
+WORDS["8300-8400"]={5:"8300-8400"}
+WORDS["8200-8300"]={5:"8200-8300"}
+WORDS["8100-8200"]={5:"8100-8200"}
+WORDS["8000-8100"]={5:"8000-8100"}
+WORDS["7900-8000"]={5:"7900-8000"}
+WORDS["7800-7900"]={5:"7800-7900"}
+WORDS["7700-7800"]={5:"7700-7800"}
+WORDS["7600-7700"]={5:"7600-7700"}
+WORDS["7500-7600"]={5:"7500-7600"}
+WORDS["7400-7500"]={5:"7400-7500"}
+WORDS["7300-7400"]={5:"7300-7400"}
+WORDS["7200-7300"]={5:"7200-7300"}
+WORDS["7100-7200"]={5:"7100-7200"}
+WORDS["7000-7100"]={5:"7000-7100"}
+WORDS["6900-7000"]={5:"6900-7000"}
+WORDS["6800-6900"]={5:"6800-6900"}
+WORDS["6700-6800"]={5:"6700-6800"}
+WORDS["6600-6700"]={5:"6600-6700"}
+WORDS["6500-6600"]={5:"6500-6600"}
+WORDS["6400-6500"]={5:"6400-6500"}
+WORDS["6300-6400"]={5:"6300-6400"}
+WORDS["6200-6300"]={5:"6200-6300"}
+WORDS["6100-6200"]={5:"6100-6200"}
+WORDS["6000-6100"]={5:"6000-6100"}
+WORDS["5900-6000"]={5:"5900-6000"}
+WORDS["5800-5900"]={5:"5800-5900"}
+WORDS["5700-5800"]={5:"5700-5800"}
+WORDS["5600-5700"]={5:"5600-5700"}
+WORDS["5500-5600"]={5:"5500-5600"}
+WORDS["5400-5500"]={5:"5400-5500"}
+WORDS["5300-5400"]={5:"5300-5400"}
+WORDS["5200-5300"]={5:"5200-5300"}
+WORDS["5100-5200"]={5:"5100-5200"}
+WORDS["5000-5100"]={5:"5000-5100"}
+WORDS["4900-5000"]={5:"4900-5000"}
+WORDS["4800-4900"]={5:"4800-4900"}
+WORDS["4700-4800"]={5:"4700-4800"}
+WORDS["4600-4700"]={5:"4600-4700"}
+WORDS["4500-4600"]={5:"4500-4600"}
+WORDS["4400-4500"]={5:"4400-4500"}
+WORDS["4300-4400"]={5:"4300-4400"}
+WORDS["4200-4300"]={5:"4200-4300"}
+WORDS["4100-4200"]={5:"4100-4200"}
+WORDS["4000-4100"]={5:"4000-4100"}
+WORDS["3900-4000"]={5:"3900-4000"}
+WORDS["3800-3900"]={5:"3800-3900"}
+WORDS["3700-3800"]={5:"3700-3800"}
+WORDS["3600-3700"]={5:"3600-3700"}
+WORDS["3500-3600"]={5:"3500-3600"}
+WORDS["3400-3500"]={5:"3400-3500"}
+WORDS["3300-3400"]={5:"3300-3400"}
+WORDS["3200-3300"]={5:"3200-3300"}
+WORDS["3100-3200"]={5:"3100-3200"}
+WORDS["3000-3100"]={5:"3000-3100"}
+WORDS["2900-3000"]={5:"2900-3000"}
+WORDS["2800-2900"]={5:"2800-2900"}
+WORDS["2700-2800"]={5:"2700-2800"}
+WORDS["2600-2700"]={5:"2600-2700"}
+WORDS["2500-2600"]={5:"2500-2600"}
+WORDS["2400-2500"]={5:"2400-2500"}
+WORDS["2300-2400"]={5:"2300-2400"}
+WORDS["2200-2300"]={5:"2200-2300"}
+WORDS["2100-2200"]={5:"2100-2200"}
+WORDS["2000-2100"]={5:"2000-2100"}
+WORDS["1900-2000"]={5:"1900-2000"}
+WORDS["1800-1900"]={5:"1800-1900"}
+WORDS["1700-1800"]={5:"1700-1800"}
+WORDS["1600-1700"]={5:"1600-1700"}
+WORDS["1500-1600"]={5:"1500-1600"}
+WORDS["1400-1500"]={5:"1400-1500"}
+WORDS["1300-1400"]={5:"1300-1400"}
+WORDS["1200-1300"]={5:"1200-1300"}
+WORDS["1100-1200"]={5:"1100-1200"}
+WORDS["1000-1100"]={5:"1000-1100"}
+WORDS["900-1000"]={5:"900-1000"}
+WORDS["800-900"]={5:"800-900"}
+WORDS["700-800"]={5:"700-800"}
+WORDS["600-700"]={5:"600-700"}
+WORDS["500-600"]={5:"500-600"}
+WORDS["400-500"]={5:"400-500"}
+WORDS["300-400"]={5:"300-400"}
+WORDS["200-300"]={5:"200-300"}
+WORDS["100-200"]={5:"100-200"}
+WORDS["0-100"]={5:"0-100"}
+WORDS["Sort By"]={5:"Ordenar por"}
+WORDS["RANK"]={5:"RANGO"}
+WORDS["DONATED"]={5:"DONADO"}
+WORDS["TW CAPS"]={5:"TW CAPS"}
+WORDS["PVP WINS"]={5:"PVP gana"}
+WORDS["PVP WINS PERFECT"]={5:"PVP GANA PERFECTO"}
+WORDS["CHLG WINS"]={5:"GANANCIAS DE CHLG"}
+WORDS["TW WINS"]={5:"GEMELOS"}
+WORDS["FF WINS"]={5:"FF gana"}
+WORDS["FF WINS PERFECT"]={5:"FF GANA PERFECTO"}
+WORDS['''
+	
+		Here is the player leader, including all active players on a top 2000 team.
+		
+		* Top 1000 Players Refreshed every day.
+		* Others are Refreshed every month or so.
+		* Search by name (must be 5 characters minimum)
+		
+	''']={5:'''Aquí está el jugador líder, incluidos todos los jugadores activos en un equipo de 2000 mejores.
+
+* Los 1000 mejores jugadores actualizados todos los días.
+* Otros se actualizan cada mes aproximadamente.
+* Buscar por nombre (debe tener un mínimo de 5 caracteres)'''}
+WORDS["Team"]={5:"Equipo"}
+WORDS["MMR"]={5:"MMR"}
+WORDS["NK"]={5:"NK"}
+WORDS["Donated"]={5:"Donado"}
+WORDS["TW Caps"]={5:"TW Gorras"}
+WORDS["WINS"]={5:"Gana"}
+WORDS["PVP"]={5:"PVP"}
+WORDS["PVP Perfect"]={5:"PVP perfecto"}
+WORDS["CHLG"]={5:"CHLG"}
+WORDS["TW"]={5:"TW"}
+WORDS["FF"]={5:"FF"}
+WORDS["FF Perfect"]={5:"FF perfecto"}
+WORDS["Percent"]={5:"Por ciento"}
+WORDS["New Kid Level"]={5:"Nuevo nivel de niño"}

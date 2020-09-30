@@ -584,3 +584,7 @@ WORDS["FF"]={5:"FF"}
 WORDS["FF Perfect"]={5:"FF perfecto"}
 WORDS["Percent"]={5:"Por ciento"}
 WORDS["New Kid Level"]={5:"Nuevo nivel de niño"}
+WORDS["Settings"]={5:"Configuraciones"}
+WORDS["Logout"]={5:"Cerrar sesión"}
+WORDS["Wooden"]={5:"De madera"}
+WORDS["Bronze"]={5:"Bronce"}

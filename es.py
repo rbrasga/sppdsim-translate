@@ -588,3 +588,4 @@ WORDS["Settings"]={5:"Configuraciones"}
 WORDS["Logout"]={5:"Cerrar sesión"}
 WORDS["Wooden"]={5:"De madera"}
 WORDS["Bronze"]={5:"Bronce"}
+WORDS["Silver"]={5:"Plata"}

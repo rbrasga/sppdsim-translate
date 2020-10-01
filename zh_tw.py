@@ -333,3 +333,5 @@ WORDS['''
 *甲板建造者
 
 **加入[SPPD Sim Discord]（https://discord.gg/j4Wchza）了解更多信息。**'''}
+WORDS["POSEIDON STAN"]={7:"波塞冬斯坦"}
+WORDS["FRIAR JIMMY"]={7:"朋友吉米"}

@@ -477,3 +477,105 @@ WORDS["CHLG WINS"]={4:"CHLG VINCE"}
 WORDS["TW WINS"]={4:"TW VINCE"}
 WORDS["FF WINS"]={4:"FF VINCE"}
 WORDS["FF WINS PERFECT"]={4:"FF VINCE PERFETTO"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={4:'''Ecco i meta mazzi costruiti utilizzando un algoritmo che trova le combinazioni di carte più abbinate per tema.
+
+* Nessuno potrebbe usare questo mazzo esatto.
+* La migliore ipotesi su cosa aspettarsi se il tuo avversario eseguisse queste combinazioni di temi.
+* Fortemente influenzato dalla modalità sfida e dagli eventi di utilizzo delle carte, quindi controlla qui ogni giorno.
+* Rinfrescato ogni giorno.'''}
+WORDS["mys,sci"]={4:"mys, sci"}
+WORDS["adv,sci"]={4:"adv, sci"}
+WORDS["adv,mys"]={4:"adv, mys"}
+WORDS["adv,fan"]={4:"adv, fan"}
+WORDS["fan,sci"]={4:"fan, sci"}
+WORDS["fan,mys"]={4:"fan, mys"}
+WORDS["mys,sup"]={4:"mys, sup"}
+WORDS["adv,sup"]={4:"adv, sup"}
+WORDS["sci,sup"]={4:"sci, sup"}
+WORDS["fan,sup"]={4:"ventilatore, sup"}
+WORDS["Average Deck Cost"]={4:"Costo medio del mazzo"}
+WORDS["Energy"]={4:"Energia"}
+WORDS["Theme"]={4:"Tema"}
+WORDS["Percent"]={4:"Per cento"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={4:'''Ecco le combinazioni di meta temi per livello e periodo di tempo.
+
+* A seconda dell'intervallo di tempo, il rapporto potrebbe essere influenzato dalla modalità sfida o da eventi di utilizzo della carta.
+* Filtra per un'ampia gamma di scelte!
+* Rinfrescato ogni giorno.'''}
+WORDS["THEMES"]={4:"TEMI"}
+WORDS["sup,neu"]={4:"sup, neu"}
+WORDS['''
+	
+		Here is the player leader, including all active players on a top 2000 team.
+		
+		* Top 1000 Players Refreshed every day.
+		* Others are Refreshed every month or so.
+		* Search by name (must be 5 characters minimum)
+		
+	''']={4:'''Ecco il leader del giocatore, inclusi tutti i giocatori attivi in ​​una delle prime 2000 squadre.
+
+* I migliori 1000 giocatori vengono aggiornati ogni giorno.
+* Altri vengono aggiornati ogni mese circa.
+* Cerca per nome (deve contenere almeno 5 caratteri)'''}
+WORDS["Team"]={4:"Squadra"}
+WORDS["Trend"]={4:"Tendenza"}
+WORDS["MMR"]={4:"MMR"}
+WORDS["NK"]={4:"NK"}
+WORDS["Donated"]={4:"Donato"}
+WORDS["TW Caps"]={4:"Cappellini TW"}
+WORDS["WINS"]={4:"VINCE"}
+WORDS["PVP"]={4:"PVP"}
+WORDS["PVP Perfect"]={4:"PVP perfetto"}
+WORDS["CHLG"]={4:"CHLG"}
+WORDS["TW"]={4:"TW"}
+WORDS["FF"]={4:"FF"}
+WORDS["FF Perfect"]={4:"FF Perfetto"}
+WORDS["New Kid Level"]={4:"Nuovo livello bambino"}
+WORDS['''
+	
+		Here are the most recent Challenges (Chaos Mode).
+		
+		* Meta Report updated every hour if new matches were uploaded.
+		
+	''']={4:'''Ecco le sfide più recenti (modalità Chaos).
+
+* Meta report aggiornato ogni ora se sono state caricate nuove corrispondenze.'''}
+WORDS["CHALLENGE"]={4:"SFIDA"}
+WORDS['''
+	
+		Here are (up to) the top 1000 global team leaderboard.
+		
+		* Looking for a new team? There's no better way to search.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={4:'''Ecco (fino a) la classifica dei primi 1000 team globali.
+
+* Cerchi una nuova squadra? Non c'è modo migliore per cercare.
+* Filtra per un'ampia gamma di scelte!
+* Rinfrescato ogni giorno.'''}
+WORDS["TEAMS"]={4:"SQUADRE"}
+WORDS["1000 to 2000"]={4:"Da 1000 a 2000"}
+WORDS[">2000"]={4:"> 2000"}
+WORDS["Max Members"]={4:"Max membri"}
+WORDS["Min NK Level"]={4:"Livello Min NK"}
+WORDS["Open"]={4:"Aperto"}
+WORDS["Closed"]={4:"Chiuso"}
+WORDS["Wooden"]={4:"Legno"}

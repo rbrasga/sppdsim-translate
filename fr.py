@@ -464,3 +464,44 @@ WORDS["CHLG WINS"]={3:"CHLG GAGNE"}
 WORDS["TW WINS"]={3:"TW GAGNE"}
 WORDS["FF WINS"]={3:"FF GAGNE"}
 WORDS["FF WINS PERFECT"]={3:"FF GAGNE PARFAIT"}
+WORDS["Closed"]={3:"Fermé"}
+WORDS['''
+	
+		Here are (up to) the top 1000 global team leaderboard.
+		
+		* Looking for a new team? There's no better way to search.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={3:'''Voici (jusqu'à) le top 1000 du classement mondial des équipes.
+
+* Vous cherchez une nouvelle équipe? Il n'y a pas de meilleure façon de rechercher.
+* Filtrer par large éventail de choix!
+* Actualisé tous les jours.'''}
+WORDS["TEAMS"]={3:"ÉQUIPES"}
+WORDS["Trend"]={3:"Tendance"}
+WORDS["1000 to 2000"]={3:"1000 à 2000"}
+WORDS["Min NK Level"]={3:"Niveau NK minimum"}
+WORDS[">2000"]={3:"> 2000"}
+WORDS["Max Members"]={3:"Membres max"}
+WORDS["TEAMWARS"]={3:"GUERRE D'ÉQUIPE"}
+WORDS["SUMMARY"]={3:"RÉSUMÉ"}
+WORDS["GOLD"]={3:"OR"}
+WORDS["SILVER"]={3:"ARGENT"}
+WORDS["BRONZE"]={3:"BRONZE"}
+WORDS["Upgrade Days"]={3:"Jours de mise à niveau"}
+WORDS["Jours de mise à niveau"]={3:"Jours de mise à niveau"}
+WORDS["Nom"]={3:"Nom"}
+WORDS["You need to log in to view this page"]={3:"Vous devez vous connecter pour voir cette page"}
+WORDS['''
+	
+		Here are your matches.
+		
+		* The SPPD Deck Tracker can optionally upload your matches.
+		* Your matches with other players are listed here, if they uploaded the match with the SPPD Deck Tracker.
+		
+	''']={3:'''Voici vos matchs.
+
+* Le Deck Tracker SPPD peut éventuellement télécharger vos matchs.
+* Vos matchs avec d'autres joueurs sont répertoriés ici, s'ils ont téléchargé le match avec le SPPD Deck Tracker.'''}
+WORDS["MY MATCHES"]={3:"MES MATCHS"}

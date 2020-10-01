@@ -919,3 +919,68 @@ WORDS["charge"]={1:"обвинять"}
 WORDS["flying"]={1:"летающий"}
 WORDS["Settings"]={1:"Настройки"}
 WORDS["Logout"]={1:"Выйти"}
+WORDS["Solo+Team"]={1:"Соло + Команда"}
+WORDS["Solo"]={1:"Соло"}
+WORDS["Solo/Team"]={1:"Соло / Команда"}
+WORDS["Start"]={1:"Начало"}
+WORDS["End"]={1:"Конец"}
+WORDS["Total Packs"]={1:"Всего пакетов"}
+WORDS["Points Required For Pack"]={1:"Очки, необходимые для набора"}
+WORDS["1"]={1:"1"}
+WORDS["2"]={1:"2"}
+WORDS["3"]={1:"3"}
+WORDS["4"]={1:"4"}
+WORDS["5"]={1:"5"}
+WORDS["6"]={1:"6"}
+WORDS["7"]={1:"7"}
+WORDS["8"]={1:"8"}
+WORDS["Today's Events"]={1:"Сегодняшние события"}
+WORDS["Events History - 1 Month"]={1:"История событий - 1 месяц"}
+WORDS["Mary Jane Randy"]={1:"Мэри Джейн Рэнди"}
+WORDS["The Marsh Family"]={1:"Семья Марш"}
+WORDS["Team War - Week 89 - SCIFANSUP"]={1:"Командная война - 89-я неделя - SCIFANSUP"}
+WORDS["Crafting Table"]={1:"Верстак"}
+WORDS["City Wok Guy"]={1:"Городской Wok Guy"}
+WORDS["Showdown 2020!"]={1:"Разборки 2020!"}
+WORDS["Coins Galore!"]={1:"Монет в изобилии!"}
+WORDS["Team War - Week 88 - ADVMYS"]={1:"Командная война - 88-я неделя - ADVMYS"}
+WORDS["The Thunderbird"]={1:"Громовая птица"}
+WORDS["Draw Your Bows!"]={1:"Нарисуйте луки!"}
+WORDS["Upgrade Frenzy!"]={1:"Обновите безумие!"}
+WORDS["Team War - Week 87 - ADVSCIMYS"]={1:"Командная война - 87 неделя - ADVSCIMYS"}
+WORDS["Heavy Butters"]={1:"Жирные масла"}
+WORDS["Team War - Week 86 - SCIFAN"]={1:"Командная война - 86-я неделя - SCIFAN"}
+WORDS["Flying Higher"]={1:"Полет выше"}
+WORDS["Team War - Week 85 - ADVFANSUP"]={1:"Командная война - 85-я неделя - ADVFANSUP"}
+WORDS['''
+	
+		Here are the most recent Challenges (Chaos Mode).
+		
+		* Meta Report updated every hour if new matches were uploaded.
+		
+	''']={1:'''Вот самые последние испытания (режим хаоса).
+
+* Мета-отчет обновляется каждый час, если были загружены новые совпадения.'''}
+WORDS["CHALLENGE"]={1:"ВЫЗОВ"}
+WORDS["Card Usage"]={1:"Использование карты"}
+WORDS["Packs details: Guaranteed (chance for one extra)"]={1:"Детали пакетов: Гарантированно (есть шанс получить один дополнительный)"}
+WORDS["Number"]={1:"Число"}
+WORDS["Currency"]={1:"валюта"}
+WORDS["Coins"]={1:"Монеты"}
+WORDS["Cash"]={1:"Наличные"}
+WORDS["PVP Tickets"]={1:"Билеты на PVP"}
+WORDS["Materials"]={1:"Материалы"}
+WORDS["Details"]={1:"Детали"}
+WORDS["Chaos: The Marsh Family"]={1:"Хаос: Семья Марш"}
+WORDS["Chaos: Showdown 2020"]={1:"Хаос: Противостояние 2020"}
+WORDS["Chaos: Draw Your Bows!"]={1:"Хаос: натяните луки!"}
+WORDS["Chaos: Heavy Butters"]={1:"Хаос: тяжелые масла"}
+WORDS["Chaos: Flying Higher"]={1:"Хаос: полет выше"}
+WORDS["Chaos: Ultra Speed Crew"]={1:"Хаос: Ультраскоростной экипаж"}
+WORDS["Chaos: Witches & Healers"]={1:"Хаос: ведьмы и целители"}
+WORDS["Chaos: Come on Down to South Park"]={1:"Хаос: спускайся в Южный парк"}
+WORDS["Chaos: Elves vs Aliens"]={1:"Хаос: Эльфы против пришельцев"}
+WORDS["Chaos: Chaos Critters"]={1:"Хаос: Существа Хаоса"}
+WORDS["Chaos: Tornado"]={1:"Хаос: Торнадо"}
+WORDS["Chaos: Adventurous Heroes"]={1:"Хаос: приключенческие герои"}
+WORDS["Chaos: The Dark Angel's Gift"]={1:"Хаос: Дар Темного Ангела"}

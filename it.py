@@ -579,3 +579,4 @@ WORDS["Min NK Level"]={4:"Livello Min NK"}
 WORDS["Open"]={4:"Aperto"}
 WORDS["Closed"]={4:"Chiuso"}
 WORDS["Wooden"]={4:"Legno"}
+WORDS["Cards DPS"]={4:"Carte DPS"}

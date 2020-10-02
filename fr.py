@@ -505,3 +505,4 @@ WORDS['''
 * Le Deck Tracker SPPD peut éventuellement télécharger vos matchs.
 * Vos matchs avec d'autres joueurs sont répertoriés ici, s'ils ont téléchargé le match avec le SPPD Deck Tracker.'''}
 WORDS["MY MATCHES"]={3:"MES MATCHS"}
+WORDS["Cards DPS"]={3:"Cartes DPS"}

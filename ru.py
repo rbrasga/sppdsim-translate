@@ -985,3 +985,4 @@ WORDS["Chaos: Tornado"]={1:"Хаос: Торнадо"}
 WORDS["Chaos: Adventurous Heroes"]={1:"Хаос: приключенческие герои"}
 WORDS["Chaos: The Dark Angel's Gift"]={1:"Хаос: Дар Темного Ангела"}
 WORDS["<at least five letters>"]={1:"<минимум пять букв>"}
+WORDS["Cards DPS"]={1:"Карты ДПС"}

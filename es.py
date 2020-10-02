@@ -589,3 +589,51 @@ WORDS["Logout"]={5:"Cerrar sesión"}
 WORDS["Wooden"]={5:"De madera"}
 WORDS["Bronze"]={5:"Bronce"}
 WORDS["Silver"]={5:"Plata"}
+WORDS["Cards DPS"]={5:"Tarjetas DPS"}
+WORDS["Mary Jane Randy"]={5:"Mary Jane Randy"}
+WORDS["Solo+Team"]={5:"Solo + Equipo"}
+WORDS["Team War - Week 89 - SCIFANSUP"]={5:"Team War - Semana 89 - SCIFANSUP"}
+WORDS["Solo"]={5:"Solo"}
+WORDS["The Marsh Family"]={5:"La familia Marsh"}
+WORDS["Crafting Table"]={5:"Mesa de artesanía"}
+WORDS["City Wok Guy"]={5:"Chico City Wok"}
+WORDS["Showdown 2020!"]={5:"¡Duelo 2020!"}
+WORDS["Coins Galore!"]={5:"Monedas en abundancia!"}
+WORDS["Team War - Week 88 - ADVMYS"]={5:"Team War - Semana 88 - ADVMYS"}
+WORDS["The Thunderbird"]={5:"El Thunderbird"}
+WORDS["Draw Your Bows!"]={5:"¡Dibuja tus arcos!"}
+WORDS["Upgrade Frenzy!"]={5:"¡Actualiza Frenzy!"}
+WORDS["Team War - Week 87 - ADVSCIMYS"]={5:"Team War - Semana 87 - ADVSCIMYS"}
+WORDS["Choirboy Butters"]={5:"Mantequillas de niño de coro"}
+WORDS["Heavy Butters"]={5:"Mantequillas espesas"}
+WORDS["Team War - Week 86 - SCIFAN"]={5:"Team War - Semana 86 - SCIFAN"}
+WORDS["Sizzler Stuart"]={5:"Sizzler Stuart"}
+WORDS["Flying Higher"]={5:"Volando más alto"}
+WORDS["Team War - Week 85 - ADVFANSUP"]={5:"Team War - Semana 85 - ADVFANSUP"}
+WORDS["Solo/Team"]={5:"Solo / Equipo"}
+WORDS["Start"]={5:"comienzo"}
+WORDS["End"]={5:"Fin"}
+WORDS["Total Packs"]={5:"Paquetes totales"}
+WORDS["Points Required For Pack"]={5:"Puntos necesarios para el paquete"}
+WORDS["1"]={5:"1"}
+WORDS["2"]={5:"2"}
+WORDS["3"]={5:"3"}
+WORDS["4"]={5:"4"}
+WORDS["5"]={5:"5"}
+WORDS["6"]={5:"6"}
+WORDS["7"]={5:"7"}
+WORDS["8"]={5:"8"}
+WORDS["Today's Events"]={5:"Eventos de hoy"}
+WORDS["Events History - 1 Month"]={5:"Historial de eventos - 1 mes"}
+WORDS['''
+	
+		Here are your matches.
+		
+		* The SPPD Deck Tracker can optionally upload your matches.
+		* Your matches with other players are listed here, if they uploaded the match with the SPPD Deck Tracker.
+		
+	''']={5:'''Aquí están tus coincidencias.
+
+* El SPPD Deck Tracker puede cargar tus partidas opcionalmente.
+* Tus partidos con otros jugadores se enumeran aquí, si cargaron el partido con SPPD Deck Tracker.'''}
+WORDS["MY MATCHES"]={5:"MIS PARTIDOS"}

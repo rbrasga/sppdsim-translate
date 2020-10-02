@@ -333,3 +333,189 @@ WORDS["Name"]={9:"Nome"}
 WORDS["Last Refresh"]={9:"Última atualização"}
 WORDS["Total Decks"]={9:"Total de baralhos"}
 WORDS["Rank"]={9:"Classificação"}
+WORDS["adv,mys"]={9:"adv, meu"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={9:'''Aqui estão as combinações de meta tema por camada e período de tempo.
+
+* Dependendo do período de tempo, o relatório pode ser afetado pelo modo de desafio ou eventos de uso do cartão.
+* Filtre por uma ampla gama de opções!
+* Atualizado todos os dias.'''}
+WORDS["mys,sci"]={9:"mys, sci"}
+WORDS["adv,sci"]={9:"adv, sci"}
+WORDS["THEMES"]={9:"TEMAS"}
+WORDS["adv,fan"]={9:"adv, fã"}
+WORDS["fan,mys"]={9:"fã, meu"}
+WORDS["fan,sci"]={9:"fã, sci"}
+WORDS["mys,sup"]={9:"meu Deus"}
+WORDS["adv,sup"]={9:"adv, sup"}
+WORDS["adv,sup"]={9:"adv, sup"}
+WORDS["sci,sup"]={9:"sci sup"}
+WORDS["sci,sup"]={9:"sci sup"}
+WORDS["fan,sup"]={9:"fã, ei"}
+WORDS["fan,sup"]={9:"fã, e aí"}
+WORDS["Unknown,adv,sup"]={9:"Desconhecido, adv, sup"}
+WORDS["Unknown,adv,sup"]={9:"Desconhecido, adv, sup"}
+WORDS["Unknown,mys,sup"]={9:"Desconhecido, meu, sup"}
+WORDS["Unknown,mys,sup"]={9:"Desconhecido, meu, sup"}
+WORDS["Unknown,sci,sup"]={9:"Desconhecido, sci, sup"}
+WORDS["Unknown,sci,sup"]={9:"Desconhecido, sci, sup"}
+WORDS["sup,neu"]={9:"sup, neu"}
+WORDS["sup,neu"]={9:"sup, neu"}
+WORDS["Unknown,sup"]={9:"Desconhecido, sup"}
+WORDS["Unknown,sup"]={9:"Desconhecido, sup"}
+WORDS["Unknown,fan,sup"]={9:"Desconhecido, fã, sup"}
+WORDS["Unknown,fan,sup"]={9:"Desconhecido, fã, sup"}
+WORDS['''
+	
+		Here is the player leader, including all active players on a top 2000 team.
+		
+		* Top 1000 Players Refreshed every day.
+		* Others are Refreshed every month or so.
+		* Search by name (must be 5 characters minimum)
+		
+	''']={9:'''Aqui está o líder do jogador, incluindo todos os jogadores ativos em uma equipe de 2.000 principais.
+
+* Os 1000 melhores jogadores atualizados todos os dias.
+* Outros são atualizados a cada mês ou assim.
+* Pesquisa por nome (deve ter no mínimo 5 caracteres)'''}
+WORDS["PLAYERS"]={9:"JOGADORAS"}
+WORDS["Search by Name Only"]={9:"Pesquisar apenas por nome"}
+WORDS["<at least five letters>"]={9:"<pelo menos cinco letras>"}
+WORDS["Search"]={9:"Pesquisa"}
+WORDS["Top 50"]={9:"50 principais"}
+WORDS["8400-8500"]={9:"8400-8500"}
+WORDS["8300-8400"]={9:"8300-8400"}
+WORDS["8200-8300"]={9:"8200-8300"}
+WORDS["8100-8200"]={9:"8100-8200"}
+WORDS["8000-8100"]={9:"8000-8100"}
+WORDS["7900-8000"]={9:"7900-8000"}
+WORDS["7800-7900"]={9:"7800-7900"}
+WORDS["7700-7800"]={9:"7700-7800"}
+WORDS["7600-7700"]={9:"7600-7700"}
+WORDS["7500-7600"]={9:"7500-7600"}
+WORDS["7400-7500"]={9:"7400-7500"}
+WORDS["7300-7400"]={9:"7300-7400"}
+WORDS["7200-7300"]={9:"7200-7300"}
+WORDS["7100-7200"]={9:"7100-7200"}
+WORDS["7000-7100"]={9:"7000-7100"}
+WORDS["6900-7000"]={9:"6900-7000"}
+WORDS["6800-6900"]={9:"6800-6900"}
+WORDS["6700-6800"]={9:"6700-6800"}
+WORDS["6600-6700"]={9:"6600-6700"}
+WORDS["6500-6600"]={9:"6500-6600"}
+WORDS["6400-6500"]={9:"6400-6500"}
+WORDS["6300-6400"]={9:"6300-6400"}
+WORDS["6200-6300"]={9:"6200-6300"}
+WORDS["6100-6200"]={9:"6100-6200"}
+WORDS["6000-6100"]={9:"6000-6100"}
+WORDS["5900-6000"]={9:"5900-6000"}
+WORDS["5800-5900"]={9:"5800-5900"}
+WORDS["5700-5800"]={9:"5700-5800"}
+WORDS["5600-5700"]={9:"5600-5700"}
+WORDS["5500-5600"]={9:"5500-5600"}
+WORDS["5400-5500"]={9:"5400-5500"}
+WORDS["5300-5400"]={9:"5300-5400"}
+WORDS["5200-5300"]={9:"5200-5300"}
+WORDS["5100-5200"]={9:"5100-5200"}
+WORDS["5000-5100"]={9:"5000-5100"}
+WORDS["4900-5000"]={9:"4900-5000"}
+WORDS["4800-4900"]={9:"4800-4900"}
+WORDS["4700-4800"]={9:"4700-4800"}
+WORDS["4600-4700"]={9:"4600-4700"}
+WORDS["4500-4600"]={9:"4500-4600"}
+WORDS["4400-4500"]={9:"4400-4500"}
+WORDS["4300-4400"]={9:"4300-4400"}
+WORDS["4200-4300"]={9:"4200-4300"}
+WORDS["4100-4200"]={9:"4100-4200"}
+WORDS["4000-4100"]={9:"4000-4100"}
+WORDS["3900-4000"]={9:"3900-4000"}
+WORDS["3800-3900"]={9:"3800-3900"}
+WORDS["3700-3800"]={9:"3700-3800"}
+WORDS["3600-3700"]={9:"3600-3700"}
+WORDS["3500-3600"]={9:"3500-3600"}
+WORDS["3400-3500"]={9:"3400-3500"}
+WORDS["3300-3400"]={9:"3300-3400"}
+WORDS["3200-3300"]={9:"3200-3300"}
+WORDS["3100-3200"]={9:"3100-3200"}
+WORDS["3000-3100"]={9:"3000-3100"}
+WORDS["2900-3000"]={9:"2900-3000"}
+WORDS["2800-2900"]={9:"2800-2900"}
+WORDS["2700-2800"]={9:"2700-2800"}
+WORDS["2600-2700"]={9:"2600-2700"}
+WORDS["2500-2600"]={9:"2500-2600"}
+WORDS["2400-2500"]={9:"2400-2500"}
+WORDS["2300-2400"]={9:"2300-2400"}
+WORDS["2200-2300"]={9:"2200-2300"}
+WORDS["2100-2200"]={9:"2100-2200"}
+WORDS["2000-2100"]={9:"2000-2100"}
+WORDS["1900-2000"]={9:"1900-2000"}
+WORDS["1800-1900"]={9:"1800-1900"}
+WORDS["1700-1800"]={9:"1700-1800"}
+WORDS["1600-1700"]={9:"1600-1700"}
+WORDS["1500-1600"]={9:"1500-1600"}
+WORDS["1400-1500"]={9:"1400-1500"}
+WORDS["1300-1400"]={9:"1300-1400"}
+WORDS["1200-1300"]={9:"1200-1300"}
+WORDS["1100-1200"]={9:"1100-1200"}
+WORDS["1000-1100"]={9:"1000-1100"}
+WORDS["900-1000"]={9:"900-1000"}
+WORDS["800-900"]={9:"800-900"}
+WORDS["700-800"]={9:"700-800"}
+WORDS["600-700"]={9:"600-700"}
+WORDS["500-600"]={9:"500-600"}
+WORDS["400-500"]={9:"400-500"}
+WORDS["300-400"]={9:"300-400"}
+WORDS["200-300"]={9:"200-300"}
+WORDS["100-200"]={9:"100-200"}
+WORDS["0-100"]={9:"0-100"}
+WORDS["Sort By"]={9:"Ordenar por"}
+WORDS["RANK"]={9:"CLASSIFICAÇÃO"}
+WORDS["DONATED"]={9:"DOADO"}
+WORDS["TW CAPS"]={9:"TW CAPS"}
+WORDS["PVP WINS"]={9:"PVP WINS"}
+WORDS['''
+	
+		Here are (up to) the top 1000 global team leaderboard.
+		
+		* Looking for a new team? There's no better way to search.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={9:'''Aqui estão (até) as 1000 melhores equipes globais.
+
+* Procurando por uma nova equipe? Não há melhor maneira de pesquisar.
+* Filtre por uma ampla gama de opções!
+* Atualizado todos os dias.'''}
+WORDS["TEAMS"]={9:"EQUIPES"}
+WORDS["PVP WINS PERFECT"]={9:"PVP WINS PERFECT"}
+WORDS["CHLG WINS"]={9:"CHLG WINS"}
+WORDS["1000 to 2000"]={9:"1000 a 2000"}
+WORDS["TW WINS"]={9:"TW WINS"}
+WORDS["FF WINS"]={9:"FF WINS"}
+WORDS["FF WINS PERFECT"]={9:"FF WINS PERFECT"}
+WORDS[">2000"]={9:"> 2000"}
+WORDS["Max Members"]={9:"Máximo de membros"}
+WORDS["Min NK Level"]={9:"Nível mínimo de NK"}
+WORDS["Status"]={9:"Status"}
+WORDS["Team"]={9:"Equipe"}
+WORDS["Trend"]={9:"Tendência"}
+WORDS["MMR"]={9:"MMR"}
+WORDS["NK"]={9:"NK"}
+WORDS["Donated"]={9:"Doou"}
+WORDS["TW Caps"]={9:"TW Caps"}
+WORDS["WINS"]={9:"WINS"}
+WORDS["PVP"]={9:"PVP"}
+WORDS["PVP Perfect"]={9:"PVP Perfeito"}
+WORDS["CHLG"]={9:"CHLG"}
+WORDS["TW"]={9:"TW"}
+WORDS["FF"]={9:"FF"}
+WORDS["FF Perfect"]={9:"FF Perfeito"}
+WORDS["Percent"]={9:"Por cento"}
+WORDS["New Kid Level"]={9:"Novo nível infantil"}

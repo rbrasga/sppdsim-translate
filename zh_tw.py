@@ -335,3 +335,112 @@ WORDS['''
 **加入[SPPD Sim Discord]（https://discord.gg/j4Wchza）了解更多信息。**'''}
 WORDS["POSEIDON STAN"]={7:"波塞冬斯坦"}
 WORDS["FRIAR JIMMY"]={7:"朋友吉米"}
+WORDS["Settings"]={7:"設定值"}
+WORDS["Logout"]={7:"登出"}
+WORDS["Deck Builder"]={7:"甲板建造者"}
+WORDS["Cards DPS"]={7:"卡DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={7:'''**歡迎來到SPPDReplay網站**
+
+我們正在基於HearthSim及其網站[hsreplay.net]（http://hsreplay.net）的《爐石傳說》概念構建。
+
+我們的目標是相同的：為玩家帶來先進的遊戲分析和工具
+
+我們有這個網站[Deck Tracker]（https://github.com/rbrasga/SPPD-Deck-Tracker）和[Team Manager]（https://github.com/rbrasga/SPPD-Team-Manager） ）。
+
+網站功能：
+* Meta Deck報告-主題和卡片
+*可通過一系列選項進行過濾。
+*按競技場細分（從0-300到8500+）
+*每24小時更新一次。
+*團隊（2000強）
+*前2000名球隊
+*可通過一系列選項進行過濾。
+*搜尋新團隊的最佳方法。
+*每週更新。
+*所有玩家（在2000強團隊中）
+*每個人都想知道您是否擁有最多的FF勝利或挑戰勝利，甚至是捐贈？
+*每24小時更新一次。
+* 團隊管理
+*一旦您鏈接了SPPD帳戶，您的團隊就會自動分配。
+*如果未自動分配，請找到您的團隊，然後點擊“成員”標籤下的“刷新”
+*每個玩家（或該玩家的團隊負責人/共同領導者）可以輸入卡級別
+*團隊戰爭卡選擇在可用時會自動更新
+*詳細的團隊戰爭上限預測
+*包括基於球隊卡牌級別的加權平均級別（WAL）
+*自定義卡生成器
+
+[團隊管理器]（https://github.com/rbrasga/SPPD-Team-Manager）功能：
+*與網站完全集成
+*在我的雲服務器上以每月2美元的價格運行它。
+*或在您自己的Windows PC上。無需設置，只需下載並運行。僅需要Google Play電子郵件/密碼。
+* TVT支架分析
+*包括每次分數變化時的電子郵件更新
+*跟踪誰在哪里花了帽子|誰要求什麼誰捐贈了什麼？週末活動積分|團隊戰爭的歷史
+*根據白名單/黑名單自動接受/拒絕團隊成員
+*並自動為其分配指定角色
+
+[Deck Tracker]（https://github.com/rbrasga/SPPD-Deck-Tracker）功能：
+*像專業人士一樣玩！使用遊戲內疊加跟踪您和您的對手玩的紙牌。
+*跟踪您通過儲物櫃和背包收集的內容
+*（可選）自動將您的數據上傳到SPPDReplay網站
+*上載的比賽包括對手的真實卡牌級別，挑戰元報告幫助等等。
+
+待處理功能：
+* SPPD Deck Tracker作為移動應用程序（無需進行設置）-包括通用登錄名（android <-> ios）
+*最終支持包/儲物櫃的可選上傳，以支持按等級對每種包類型的史詩/傳奇掉落率進行高級分析
+*甲板建造者
+
+**加入[SPPD Sim Discord]（https://discord.gg/j4Wchza）了解更多信息。**'''}

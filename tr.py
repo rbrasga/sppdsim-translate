@@ -333,3 +333,112 @@ WORDS["Name"]={11:"İsim"}
 WORDS["Last Refresh"]={11:"Son Yenileme"}
 WORDS["Total Decks"]={11:"Toplam Desteler"}
 WORDS["Rank"]={11:"Sıra"}
+WORDS["Settings"]={11:"Ayarlar"}
+WORDS["Logout"]={11:"Çıkış Yap"}
+WORDS["Deck Builder"]={11:"Güverte hazırlayıcı"}
+WORDS["Cards DPS"]={11:"Kartlar DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={11:'''** SPPDReplay Web Sitesine Hoş Geldiniz **
+
+Hearthstone by HearthSim ve web sitesi [hsreplay.net] (http://hsreplay.net) için konseptleri geliştiriyoruz
+
+Amacımız aynı: Oyunculara gelişmiş oyun analitiği ve araçları getirin
+
+Bu web sitesine sahibiz, [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) ve [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Web Sitesi Özellikleri:
+* Meta Deste Raporu - Temalar ve Kartlar
+* Çeşitli seçeneklere göre filtrelenebilir.
+* Arenaya Göre Dağılım (0-300 - 8500+ arası)
+* 24 saatte bir güncellenir.
+* Takımlar (İlk 2000)
+* En İyi 2000 Takım
+* Çeşitli seçeneklere göre filtrelenebilir.
+* Yeni bir takım bulmanın en iyi yolu.
+* Her hafta güncellenir.
+* Tüm Oyuncular (En İyi 2000 Takımında)
+* Herkes, en çok FF galibiyetine sahip olup olmadığınızı veya mücadelenin galibiyetini ve hatta bağışları alıp almadığınızı merak ettiniz mi?
+* 24 saatte bir güncellenir.
+* Takım yönetimi
+* SPPD hesabınızı bağladığınızda, ekibiniz otomatik olarak atanır.
+* Otomatik olarak atanmamışsa, ekibinizi bulun ve Üyenin Sekmesi altındaki 'YENİLE'ye tıklayın
+* Her oyuncu (veya o oyuncunun takım lideri / yardımcı liderleri) kart seviyelerini girebilir
+* Takım Savaşları Kart Seçenekleri, kullanıma sunulduğunda otomatik olarak güncellenir
+* Ayrıntılı Takım Savaşları Şapkası Projeksiyonları
+* Takımın kart seviyelerine göre Ağırlıklı Ortalama Seviye (WAL) dahil
+* Özel Kart Oluşturucu
+
+[Takım Yöneticisi] (https://github.com/rbrasga/SPPD-Team-Manager) Özellikler:
+* Web sitesi ile tam entegre
+* Bulut sunucumda ayda 2 $ 'a çalıştırın.
+* VEYA kendi Windows PC'nizde. Kurulum yok, sadece indirin ve çalıştırın. Yalnızca Google Play e-postası / şifresi gereklidir.
+* TVT Bracket Analytics
+* Her puan değiştiğinde e-posta güncellemelerini içerir
+* Kimin nerede şapka harcadığını izleyin | kim ne istedi | kim neyi bağışladı | hafta sonu etkinlik noktaları | takım savaşı tarihi
+* Beyaz liste / kara listeye göre ekip üyelerini otomatik olarak kabul et / reddet
+* Ve onlara belirlenen rolleri otomatik olarak atayın
+
+[Deste İzleyici] (https://github.com/rbrasga/SPPD-Deck-Tracker) Özellikler:
+* Bir profesyonel gibi oynayın! Oyun içi yer paylaşımıyla sizin ve rakibinizin oynadığı kartları takip edin.
+* Dolaplar ve paketler aracılığıyla topladığınız içeriği takip edin
+* (İsteğe bağlı) Verilerinizi SPPDReplay web sitesine otomatik olarak yükleyin
+* Yüklenen Maçlar, rakibin gerçek kart seviyelerini, Mücadele Meta Raporlarında yardımı ve daha fazlasını içerir.
+
+Bekleyen Özellikler:
+* Mobil uygulama olarak SPPD Deck Tracker (kurulum gerektirmez) - evrensel oturum açma dahil (android <-> ios)
+* Sonunda, kademeye göre her paket türü için destansı / efsanevi düşme oranları hakkında gelişmiş analizleri desteklemek için paketler / dolaplar için isteğe bağlı yüklemeyi destekleyin
+* Güverte hazırlayıcı
+
+** Daha fazla ayrıntı için [SPPD Sim Discord] 'a (https://discord.gg/j4Wchza) katılın. **'''}

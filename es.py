@@ -637,3 +637,152 @@ WORDS['''
 * El SPPD Deck Tracker puede cargar tus partidas opcionalmente.
 * Tus partidos con otros jugadores se enumeran aquí, si cargaron el partido con SPPD Deck Tracker.'''}
 WORDS["MY MATCHES"]={5:"MIS PARTIDOS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={5:'''** Bienvenido al sitio web de SPPDReplay **
+
+Estamos construyendo a partir de los conceptos de Hearthstone de HearthSim y su sitio web [hsreplay.net] (http://hsreplay.net)
+
+Nuestro objetivo es el mismo: llevar analíticas y herramientas de juego avanzadas a los jugadores
+
+Tenemos este sitio web, el [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) y el [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Características del sitio web:
+* Informe de Meta Deck - Temas y Tarjetas
+* Se puede filtrar por una variedad de opciones.
+* Desglose por arena (desde 0-300 hasta 8500+)
+* Actualizado cada 24 horas.
+* Equipos (Top 2000)
+* Top 2000 equipos
+* Se puede filtrar por una variedad de opciones.
+* La mejor forma de buscar un nuevo equipo.
+* Actualizado cada semana.
+* Todos los jugadores (en un equipo Top 2000)
+* ¿Todos se preguntaron si tiene la mayor cantidad de victorias de FF o de desafíos, o incluso donaciones?
+* Actualizado cada 24 horas.
+* Gestión de equipos
+* Una vez que vincule su cuenta SPPD, su equipo se asignará automáticamente.
+* Si no está asignado automáticamente, busque su equipo y haga clic en "ACTUALIZAR" en la pestaña de Miembros
+* Cada jugador (o el líder / colíder del equipo de ese jugador) puede ingresar niveles de cartas
+* Las opciones de cartas de Team Wars se actualizan automáticamente cuando están disponibles
+* Proyecciones detalladas de Team Wars Caps
+* incluido el nivel medio ponderado (WAL) basado en los niveles de tarjeta del equipo
+* Creador de tarjetas personalizadas
+
+[Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) Características:
+* Totalmente integrado con el sitio web
+* Ejecútelo en mi servidor en la nube por 2 $ al mes.
+* O en su propia PC con Windows. Sin configuración, solo descarga y ejecuta. Solo se requiere correo electrónico / contraseña de Google Play.
+* Análisis de soporte TVT
+* Incluyendo actualizaciones por correo electrónico cada vez que cambia una puntuación
+* Seguimiento de quién gastó mayúsculas dónde | quién pidió qué | quién donó qué | puntos de eventos de fin de semana | historia de teamwar
+* Aceptar / rechazar automáticamente a los miembros del equipo según la lista blanca / lista negra
+* Y asignarles automáticamente su función designada
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Características:
+* ¡Juega como un profesional! Lleve un registro de las cartas que usted y su oponente juegan con una superposición en el juego.
+* Mantenga un registro del contenido que recopila a través de casilleros y paquetes
+* (Opcional) Cargue automáticamente sus datos en el sitio web de SPPDReplay
+* Las partidas subidas incluyen los niveles reales de las cartas del oponente, ayuda con los metainformes de desafíos y más.
+
+Funciones pendientes:
+* SPPD Deck Tracker como aplicación móvil (no se requiere configuración), incluido el inicio de sesión universal (android <-> ios)
+* Con el tiempo, admite la carga opcional de paquetes / casilleros para admitir análisis avanzados sobre tasas de caída épicas / legendarias para cada tipo de paquete por nivel
+* Constructor de mazos
+
+** Únase a [SPPD Sim Discord] (https://discord.gg/j4Wchza) para obtener más detalles. **'''}
+WORDS["Deck Builder"]={5:"Constructor de mazos"}
+WORDS["CARD BUILDER"]={5:"CONSTRUCTOR DE TARJETAS"}
+WORDS["Theme"]={5:"Tema"}
+WORDS["Adventure"]={5:"Aventuras"}
+WORDS["Fantasy"]={5:"Fantasía"}
+WORDS["Mystical"]={5:"Místico"}
+WORDS["Neutral"]={5:"Neutral"}
+WORDS["Sci-Fi"]={5:"Ciencia ficción"}
+WORDS["Superheros"]={5:"Superhéroes"}
+WORDS["Common"]={5:"Común"}
+WORDS["Rare"]={5:"Raro"}
+WORDS["Epic"]={5:"Épico"}
+WORDS["Legendary"]={5:"Legendario"}
+WORDS["Legendary"]={5:"Legendario"}
+WORDS["Assassin"]={5:"Asesino"}
+WORDS["Assassin"]={5:"Asesino"}
+WORDS["Fighter"]={5:"Combatiente"}
+WORDS["Fighter"]={5:"Combatiente"}
+WORDS["Ranged"]={5:"A distancia"}
+WORDS["Ranged"]={5:"A distancia"}
+WORDS["Spell"]={5:"Deletrear"}
+WORDS["Spell"]={5:"Deletrear"}
+WORDS["Tank"]={5:"Tanque"}
+WORDS["Tank"]={5:"Tanque"}
+WORDS["Totem"]={5:"Tótem"}
+WORDS["Totem"]={5:"Tótem"}
+WORDS["Trap"]={5:"Trampa"}
+WORDS["Trap"]={5:"Trampa"}
+WORDS["Level"]={5:"Nivel"}
+WORDS["Level"]={5:"Nivel"}
+WORDS["Health"]={5:"Salud"}
+WORDS["Health"]={5:"Salud"}
+WORDS["Attack"]={5:"Ataque"}
+WORDS["Attack"]={5:"Ataque"}
+WORDS["Drag and Drop or "]={5:"Arrastrar y soltar o"}
+WORDS["Drag and Drop or "]={5:"Arrastrar y soltar o"}
+WORDS["Select a File"]={5:"Seleccione un archivo"}
+WORDS["Select a File"]={5:"Seleccione un archivo"}
+WORDS["Apply"]={5:"Aplicar"}
+WORDS["Apply"]={5:"Aplicar"}
+WORDS["Please allow up to 30 seconds to generate the image."]={5:"Espere hasta 30 segundos para generar la imagen."}
+WORDS["Please allow up to 30 seconds to generate the image."]={5:"Espere hasta 30 segundos para generar la imagen."}
+WORDS["Thanks to PichuZapper#8383 for the materials"]={5:"Gracias a PichuZapper # 8383 por los materiales"}
+WORDS["Thanks to PichuZapper#8383 for the materials"]={5:"Gracias a PichuZapper # 8383 por los materiales"}

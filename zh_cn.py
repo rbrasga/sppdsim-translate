@@ -348,3 +348,156 @@ WORDS["Team Details"]={8:"团队详情"}
 WORDS["Team Events"]={8:"团队活动"}
 WORDS["Requests"]={8:"要求"}
 WORDS["Applications"]={8:"应用领域"}
+WORDS["Cards DPS"]={8:"卡DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={8:'''**欢迎来到SPPDReplay网站**
+
+我们正在基于HearthSim及其网站[hsreplay.net]（http://hsreplay.net）的《炉石传说》概念构建。
+
+我们的目标是相同的：为玩家带来先进的游戏分析和工具
+
+我们有这个网站[Deck Tracker]（https://github.com/rbrasga/SPPD-Deck-Tracker）和[Team Manager]（https://github.com/rbrasga/SPPD-Team-Manager） ）。
+
+网站功能：
+* Meta Deck报告-主题和卡片
+*可通过一系列选项进行过滤。
+*按竞技场细分（从0-300到8500+）
+*每24小时更新一次。
+*团队（2000强）
+*前2000名球队
+*可通过一系列选项进行过滤。
+*搜寻新团队的最佳方法。
+*每周更新。
+*所有玩家（在2000强团队中）
+*每个人都想知道您是否拥有最多的FF胜利或挑战胜利，甚至是捐赠？
+*每24小时更新一次。
+* 团队管理
+*链接您的SPPD帐户后，您的团队将自动分配。
+*如果未自动分配，请找到您的团队，然后点击“成员”标签下的“刷新”
+*每个玩家（或该玩家的团队负责人/共同领导者）可以输入卡级别
+*团队战争卡选择在可用时会自动更新
+*详细的团队战争上限预测
+*包括基于球队卡牌级别的加权平均级别（WAL）
+*自定义卡生成器
+
+[团队管理器]（https://github.com/rbrasga/SPPD-Team-Manager）功能：
+*与网站完全集成
+*在我的云服务器上以每月2美元的价格运行它。
+*或在您自己的Windows PC上。无需安装，只需下载并运行。仅需要Google Play电子邮件/密码。
+* TVT支架分析
+*包括每次分数变化时的电子邮件更新
+*跟踪谁在哪里花了帽子|谁要求什么谁捐赠了什么？周末活动积分|团队战争的历史
+*根据白名单/黑名单自动接受/拒绝团队成员
+*并自动为其分配指定角色
+
+[Deck Tracker]（https://github.com/rbrasga/SPPD-Deck-Tracker）功能：
+*像专业人士一样玩！使用游戏内叠加跟踪您和您的对手玩的纸牌。
+*跟踪您通过储物柜和背包收集的内容
+*（可选）自动将您的数据上传到SPPDReplay网站
+*上载的比赛包括对手的真实卡牌级别，挑战元报告帮助等等。
+
+待处理功能：
+* SPPD Deck Tracker作为移动应用程序（无需进行设置）-包括通用登录（android <-> ios）
+*最终支持包/储物柜的可选上传，以支持按等级对每种包类型的史诗/传奇掉落率进行高级分析
+*甲板建造者
+
+**加入[SPPD Sim Discord]（https://discord.gg/j4Wchza）了解更多信息。**'''}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={8:'''这是基于每秒伤害（DPS）的卡。
+
+*按主题，成本，稀有度过滤。
+*此数据归功于“ Da_Lemming＃6110”'''}
+WORDS["CARD STATS"]={8:"卡状态"}
+WORDS["Adventure"]={8:"冒险"}
+WORDS["Sci-Fi"]={8:"科幻"}
+WORDS["Mystical"]={8:"神秘"}
+WORDS["Fantasy"]={8:"幻想"}
+WORDS["Superheroes"]={8:"超级英雄"}
+WORDS["Neutral"]={8:"中性"}
+WORDS["Legendary"]={8:"传奇的"}
+WORDS["Epic"]={8:"史诗"}
+WORDS["Rare"]={8:"罕见"}
+WORDS["Common"]={8:"共同"}
+WORDS["NATHAN"]={8:"南汉"}
+WORDS["OUTLAW TWEEK"]={8:"星期三"}
+WORDS["POSEIDON STAN"]={8:"波塞冬斯坦"}
+WORDS["GUNSLINGER KYLE"]={8:"贡斯林格·凯尔"}
+WORDS["MARINE CRAIG"]={8:"海军陆战队"}
+WORDS["DARK MAGE CRAIG"]={8:"黑暗法师爬行"}
+WORDS["ALIEN CLYDE"]={8:"外星人克莱德"}
+WORDS["SHAMAN TOKEN"]={8:"萨满令牌"}
+WORDS["FRIAR JIMMY"]={8:"朋友吉米"}
+WORDS["BARREL DOUGIE"]={8:"巴雷·道吉"}
+WORDS["MIMSY"]={8:"美西"}
+WORDS["TERRANCE MEPHESTO"]={8:"特雷斯·麦菲斯托"}
+WORDS["NELLY"]={8:"奈莉"}
+WORDS["STARVIN' MARVIN"]={8:"斯塔文·马文"}
+WORDS["OFFICER BARBRADY"]={8:"官兵"}
+WORDS["PC PRINCIPAL"]={8:"个人电脑"}
+WORDS["MAYOR MCDANIELS"]={8:"麦克丹尼尔市长"}
+WORDS["MARY JANE RANDY"]={8:"玛丽·简·兰迪"}
+WORDS["Time Between Attacks"]={8:"两次攻击之间的时间"}
+WORDS["Range"]={8:"范围"}
+WORDS["Damage Per Second"]={8:"每秒伤害输出"}
+WORDS["Base 4-3-2-1"]={8:"基地4-3-2-1"}
+WORDS["Max 6-5-4-3"]={8:"最多6-5-4-3"}
+WORDS["Max 7-6-5-4"]={8:"最多7-6-5-4"}
+WORDS["Lvl 7"]={8:"Lvl 7"}

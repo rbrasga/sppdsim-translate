@@ -580,3 +580,234 @@ WORDS["Open"]={4:"Aperto"}
 WORDS["Closed"]={4:"Chiuso"}
 WORDS["Wooden"]={4:"Legno"}
 WORDS["Cards DPS"]={4:"Carte DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={4:'''** Benvenuto nel sito web di SPPDReplay **
+
+Stiamo partendo dai concetti per Hearthstone di HearthSim e il loro sito web [hsreplay.net] (http://hsreplay.net)
+
+Il nostro obiettivo è lo stesso: offrire ai giocatori strumenti e analisi di gioco avanzate
+
+Abbiamo questo sito web, il [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) e il [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Caratteristiche del sito web:
+* Report Meta Deck - Temi e carte
+* Filtrabile da una gamma di opzioni.
+* Ripartizione per arena (da 0-300 fino a 8500+)
+* Aggiornato ogni 24 ore.
+* Squadre (Top 2000)
+* Migliori 2000 squadre
+* Filtrabile da una gamma di opzioni.
+* Il modo migliore per cercare una nuova squadra.
+* Aggiornato ogni settimana.
+* Tutti i giocatori (in una squadra Top 2000)
+* Tutti si chiedevano se hai il maggior numero di vittorie in FF o sfide o anche donazioni?
+* Aggiornato ogni 24 ore.
+* Gestione della squadra
+* Dopo aver collegato il tuo account SPPD, il tuo team viene assegnato automaticamente.
+* Se non è assegnato automaticamente, trova la tua squadra e fai clic su "AGGIORNA" nella scheda dei membri
+* Ogni giocatore (o il caposquadra / co-leader di quel giocatore) può inserire i livelli delle carte
+* Le scelte di carte di Team Wars vengono aggiornate automaticamente quando diventano disponibili
+* Proiezioni dettagliate dei cappellini di Team Wars
+* incluso il livello medio ponderato (WAL) basato sui livelli delle carte della squadra
+* Costruttore di carte personalizzate
+
+[Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) Caratteristiche:
+* Completamente integrato con il sito web
+* Eseguilo sul mio server cloud per 2 $ al mese.
+* OPPURE sul tuo PC Windows. Nessuna configurazione, scarica ed esegui. Solo email / password di Google Play richiesti.
+* Analisi della staffa TVT
+* Inclusi aggiornamenti via email ogni volta che cambia un punteggio
+* Tieni traccia di chi ha speso i limiti dove | chi ha richiesto cosa | chi ha donato cosa | punti evento del fine settimana | storia della guerra di squadra
+* Accetta / rifiuta automaticamente i membri del team in base a white-list / black-list
+* E assegna loro automaticamente il ruolo designato
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Caratteristiche:
+* Gioca come un professionista! Tieni traccia delle carte che tu e il tuo avversario giocate con una sovrapposizione di gioco.
+* Tieni traccia dei contenuti che raccogli tramite armadietti e pacchetti
+* (Facoltativo) Carica automaticamente i tuoi dati sul sito Web SPPDReplay
+* Le partite caricate includono i veri livelli delle carte dell'avversario, aiuto con i metadati delle sfide e altro ancora.
+
+Caratteristiche in sospeso:
+* SPPD Deck Tracker come applicazione mobile (nessuna configurazione richiesta) - incluso l'accesso universale (android <-> ios)
+* Supporta eventualmente il caricamento opzionale di pacchetti / armadietti per supportare analisi avanzate su tassi di rilascio epici / leggendari per ogni tipo di pacchetto per livello
+* Costruttore di mazzi
+
+** Unisciti a [SPPD Sim Discord] (https://discord.gg/j4Wchza) per maggiori dettagli. **'''}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={4:'''Ecco le carte basate sul danno al secondo (DPS).
+
+* Filtra per tema, costo, rarità.
+* Il merito di questi dati va a `Da_Lemming # 6110`'''}
+WORDS["CARD STATS"]={4:"STATISTICHE DELLA CARTA"}
+WORDS["Adventure"]={4:"Avventura"}
+WORDS["Sci-Fi"]={4:"Sci-Fi"}
+WORDS["Mystical"]={4:"Mistico"}
+WORDS["Fantasy"]={4:"Fantasia"}
+WORDS["Superheroes"]={4:"Supereroi"}
+WORDS["Neutral"]={4:"Neutro"}
+WORDS["Legendary"]={4:"Leggendario"}
+WORDS["Epic"]={4:"Epico"}
+WORDS["Rare"]={4:"Raro"}
+WORDS["Common"]={4:"Comune"}
+WORDS["NATHAN"]={4:"NATHAN"}
+WORDS["OUTLAW TWEEK"]={4:"TWEEK FUORILEGGE"}
+WORDS["POSEIDON STAN"]={4:"POSEIDON STAN"}
+WORDS["GUNSLINGER KYLE"]={4:"GUNSLINGER KYLE"}
+WORDS["MARINE CRAIG"]={4:"MARINE CRAIG"}
+WORDS["DARK MAGE CRAIG"]={4:"DARK MAGE CRAIG"}
+WORDS["ALIEN CLYDE"]={4:"CLYDE ALIENO"}
+WORDS["SHAMAN TOKEN"]={4:"GETTONE SCIAMANO"}
+WORDS["FRIAR JIMMY"]={4:"FRATE JIMMY"}
+WORDS["BARREL DOUGIE"]={4:"BARREL DOUGIE"}
+WORDS["MIMSY"]={4:"MIMSY"}
+WORDS["TERRANCE MEPHESTO"]={4:"TERRANCE MEPHESTO"}
+WORDS["NELLY"]={4:"NELLY"}
+WORDS["STARVIN' MARVIN"]={4:"STARVIN 'MARVIN"}
+WORDS["OFFICER BARBRADY"]={4:"UFFICIALE BARBRADY"}
+WORDS["PC PRINCIPAL"]={4:"PRINCIPALE PC"}
+WORDS["MAYOR MCDANIELS"]={4:"SINDACO MCDANIELS"}
+WORDS["Time Between Attacks"]={4:"Tempo tra gli attacchi"}
+WORDS["Range"]={4:"Gamma"}
+WORDS["Damage Per Second"]={4:"Danno per secondo"}
+WORDS["Base 4-3-2-1"]={4:"Base 4-3-2-1"}
+WORDS["Max 6-5-4-3"]={4:"Massimo 6-5-4-3"}
+WORDS["Max 7-6-5-4"]={4:"Max 7-6-5-4"}
+WORDS["Lvl 7"]={4:"Livello 7"}
+WORDS["Deck Builder"]={4:"Deck Builder"}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity, and Type.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={4:'''Ecco le carte basate sul danno al secondo (DPS).
+
+* Filtra per tema, costo, rarità e tipo.
+* Il merito di questi dati va a `Da_Lemming # 6110`'''}
+WORDS["MARY JANE RANDY"]={4:"MARY JANE RANDY"}
+WORDS["Unknown,mys,sup"]={4:"Sconosciuto, mys, sup"}
+WORDS["Unknown,adv,sup"]={4:"Unknown, adv, sup"}
+WORDS["Unknown,sci,sup"]={4:"Sconosciuto, sci, sup"}
+WORDS["Unknown,fan,sup"]={4:"Sconosciuto, fan, sup"}
+WORDS["Unknown,fan,sup"]={4:"Sconosciuto, fan, sup"}
+WORDS["All Live Brackets"]={4:"Tutti i Live Brackets"}
+WORDS['''
+		
+		At least one player on one team in a bracket is using the SPPD Team Manager App.
+		
+		If you want to see your bracket:
+		
+		* **Run the Team Manager App 24/7 in the CLOUD for 2$ per month.**
+		* OR [Download](https://sppdreplay.net/downloads) the SPPD Team Manager App and run it on your own PC.
+		
+		Click the Bracket ID to see that specific bracket and subscribe for email updates.
+		
+	''']={4:'''Almeno un giocatore di una squadra in un girone sta usando l'app SPPD Team Manager.
+
+Se vuoi vedere la tua staffa:
+
+* ** Esegui l'app Team Manager 24 ore su 24, 7 giorni su 7 nel CLOUD per 2 $ al mese. **
+* OPPURE [Scarica] (https://sppdreplay.net/downloads) l'app SPPD Team Manager ed eseguila sul tuo PC.
+
+Fare clic sull'ID staffa per visualizzare quella staffa specifica e iscriversi agli aggiornamenti tramite posta elettronica.'''}
+WORDS["Silver"]={4:"Argento"}
+WORDS["Bronze"]={4:"Bronzo"}
+WORDS["Wood"]={4:"Legna"}
+WORDS["Summary"]={4:"Sommario"}
+WORDS['''
+	
+		Here is deck builder using real-world data based on the win rate of themes and cards over 80k+ PVP matches.
+		
+		You can become a contributor by download the SPPD Deck Tracker and uploading your matches.
+		
+		* No one might be using this exact deck.
+		* This data is from ALL Ranks at the moment.
+		* Specific data sets will be coming in the future, so you can narrow down card win rate by Arena.
+		
+		How To Use:
+		
+		* To build your best deck, select your favorite theme or themes.
+		* If you have one or more favorite cards, you can select those too.
+		* If you want to specifically counter one or more cards or themes, select those in your opponent's deck.
+		
+	''']={4:'''Ecco il deck builder che utilizza dati del mondo reale basati sul tasso di vincita di temi e carte oltre 80k + partite PVP.
+
+Puoi diventare un collaboratore scaricando l'SPPD Deck Tracker e caricando le tue partite.
+
+* Nessuno potrebbe usare questo mazzo esatto.
+* Questi dati provengono da TUTTI i ranghi al momento.
+* In futuro saranno disponibili set di dati specifici, quindi puoi restringere la percentuale di vincite delle carte per Arena.
+
+Come usare:
+
+* Per creare il tuo mazzo migliore, seleziona il tuo tema oi temi preferiti.
+* Se hai una o più carte preferite, puoi selezionare anche quelle.
+* Se vuoi neutralizzare specificamente una o più carte o temi, seleziona quelli nel mazzo del tuo avversario.'''}
+WORDS["Your Themes"]={4:"I tuoi temi"}
+WORDS["Opponent's Themes"]={4:"Temi dell'avversario"}
+WORDS["Your Cards"]={4:"Le tue carte"}
+WORDS["Blacklist Cards"]={4:"Carte nella lista nera"}
+WORDS["Opponent's Cards"]={4:"Carte dell'avversario"}
+WORDS["HYPERDRIVE"]={4:"HYPERDRIVE"}
+WORDS["LAVA!"]={4:"LAVA!"}
+WORDS["UNKNOWN"]={4:"SCONOSCIUTO"}
+WORDS["Unknown,sup"]={4:"Sconosciuto, sup"}

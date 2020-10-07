@@ -506,3 +506,273 @@ WORDS['''
 * Vos matchs avec d'autres joueurs sont répertoriés ici, s'ils ont téléchargé le match avec le SPPD Deck Tracker.'''}
 WORDS["MY MATCHES"]={3:"MES MATCHS"}
 WORDS["Cards DPS"]={3:"Cartes DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={3:'''** Bienvenue sur le site Web de SPPDReplay **
+
+Nous développons les concepts de Hearthstone par HearthSim et leur site Web [hsreplay.net] (http://hsreplay.net)
+
+Notre objectif est le même: apporter aux joueurs des analyses et des outils de jeu avancés
+
+Nous avons ce site Web, le [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) et le [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+Caractéristiques du site Web:
+* Rapport Meta Deck - Thèmes et cartes
+* Filtrable par une gamme d'options.
+* Répartition par arène (de 0-300 à 8500+)
+* Mis à jour toutes les 24 heures.
+* Équipes (Top 2000)
+* Top 2000 équipes
+* Filtrable par une gamme d'options.
+* Meilleur moyen de rechercher une nouvelle équipe.
+* Mis à jour chaque semaine.
+* Tous les joueurs (sur une équipe des 2000 meilleures)
+* Chacun se demandait si vous aviez le plus de victoires FF ou de gains de défis, ou même de dons?
+* Mis à jour toutes les 24 heures.
+* Gestion d'équipe
+* Une fois que vous avez lié votre compte SPPD, votre équipe est automatiquement attribuée.
+* S'il n'est pas attribué automatiquement, recherchez votre équipe et cliquez sur `REFRESH` sous l'onglet Membre
+* Chaque joueur (ou le chef d'équipe / co-chefs de ce joueur) peut saisir les niveaux des cartes
+* Les choix de cartes Team Wars sont automatiquement mis à jour lorsqu'ils deviennent disponibles
+* Projections détaillées des casquettes Team Wars
+* y compris le niveau moyen pondéré (WAL) basé sur les niveaux de carte de l'équipe
+* Générateur de cartes personnalisées
+
+[Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) Caractéristiques:
+* Entièrement intégré au site Web
+* Exécutez-le sur mon serveur cloud pour 2 $ par mois.
+* OU sur votre propre PC Windows. Aucune configuration, il suffit de télécharger et d'exécuter. Seul l'e-mail / mot de passe Google Play est requis.
+* Analyse du support TVT
+* Y compris les mises à jour par e-mail chaque fois qu'un score change
+* Suivre qui a dépensé des bouchons où | qui a demandé quoi | qui a donné quoi | points d'événements du week-end | histoire de la guerre d'équipe
+* Accepter / rejeter automatiquement les membres de l'équipe en fonction de la liste blanche / liste noire
+* Et leur attribuer automatiquement leur rôle désigné
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Caractéristiques:
+* Jouez comme un pro! Gardez une trace des cartes que vous et votre adversaire jouez grâce à une superposition en jeu.
+* Gardez une trace du contenu que vous collectez à travers des casiers et des packs
+* (Facultatif) Téléchargez automatiquement vos données sur le site Web SPPDReplay
+* Les matchs téléchargés incluent les vrais niveaux de cartes de l'adversaire, l'aide avec les Meta Reports de défi, et plus encore.
+
+Caractéristiques en attente:
+* SPPD Deck Tracker en tant qu'application mobile (aucune configuration requise) - y compris la connexion universelle (android <-> ios)
+* Finalement, prend en charge le téléchargement facultatif pour les packs / casiers pour prendre en charge des analyses avancées sur les taux de chute épiques / légendaires pour chaque type de pack par niveau
+* Constructeur de terrasse
+
+** Rejoignez le [SPPD Sim Discord] (https://discord.gg/j4Wchza) pour plus de détails. **'''}
+WORDS["Deck Builder"]={3:"Constructeur de terrasse"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={3:'''Voici les méta decks construits à l'aide d'un algorithme qui trouve les combinaisons de cartes les plus appariées par thème.
+
+* Personne ne pourrait utiliser ce deck exact.
+* La meilleure estimation à quoi s'attendre si votre adversaire exécutait ces combinaisons de thèmes.
+* Fortement affecté par le mode défi et les événements d'utilisation de la carte, alors vérifiez ici tous les jours.
+* Actualisé tous les jours.'''}
+WORDS["mys,sci"]={3:"mys, sci"}
+WORDS["Unknown,mys,sup"]={3:"Inconnu, mys, sup"}
+WORDS["adv,mys"]={3:"adv, mys"}
+WORDS["adv,sci"]={3:"adv, sci"}
+WORDS["Unknown,adv,sup"]={3:"Inconnu, adv, sup"}
+WORDS["adv,fan"]={3:"adv, fan"}
+WORDS["fan,sci"]={3:"fan, sci"}
+WORDS["fan,mys"]={3:"fan, mys"}
+WORDS["Unknown,sci,sup"]={3:"Inconnu, sci, sup"}
+WORDS["Unknown,fan,sup"]={3:"Inconnu, fan, sup"}
+WORDS["mys,sup"]={3:"mon, sup"}
+WORDS["fan,sup"]={3:"ventilateur, sup"}
+WORDS["adv,sup"]={3:"adv, sup"}
+WORDS["Average Deck Cost"]={3:"Coût moyen du deck"}
+WORDS["Energy"]={3:"Énergie"}
+WORDS["Theme"]={3:"Thème"}
+WORDS["Percent"]={3:"Pour cent"}
+WORDS["Team Name"]={3:"Nom de l'équipe"}
+WORDS["Runs"]={3:"Courses"}
+WORDS["Average"]={3:"Moyenne"}
+WORDS["Projected"]={3:"Projeté"}
+WORDS["All Live Brackets"]={3:"Tous les supports en direct"}
+WORDS["Maximum"]={3:"Maximum"}
+WORDS['''
+		
+		At least one player on one team in a bracket is using the SPPD Team Manager App.
+		
+		If you want to see your bracket:
+		
+		* **Run the Team Manager App 24/7 in the CLOUD for 2$ per month.**
+		* OR [Download](https://sppdreplay.net/downloads) the SPPD Team Manager App and run it on your own PC.
+		
+		Click the Bracket ID to see that specific bracket and subscribe for email updates.
+		
+	''']={3:'''Au moins un joueur d'une équipe dans un support utilise l'application SPPD Team Manager.
+
+Si vous souhaitez voir votre support:
+
+* ** Exécutez l'application Team Manager 24/7 dans le CLOUD pour 2 $ par mois. **
+* OU [Téléchargez] (https://sppdreplay.net/downloads) l'application SPPD Team Manager et exécutez-la sur votre propre PC.
+
+Cliquez sur l'ID du support pour voir ce support spécifique et abonnez-vous aux mises à jour par e-mail.'''}
+WORDS["Wood"]={3:"Bois"}
+WORDS["Summary"]={3:"Résumé"}
+WORDS['''
+	
+		Here is the player leader, including all active players on a top 2000 team.
+		
+		* Top 1000 Players Refreshed every day.
+		* Others are Refreshed every month or so.
+		* Search by name (must be 5 characters minimum)
+		
+	''']={3:'''Voici le joueur leader, y compris tous les joueurs actifs d'une des 2000 meilleures équipes.
+
+* Top 1000 joueurs actualisés tous les jours.
+* D'autres sont actualisés tous les mois environ.
+* Recherche par nom (doit contenir au moins 5 caractères)'''}
+WORDS["Team"]={3:"Équipe"}
+WORDS["MMR"]={3:"MMR"}
+WORDS["NK"]={3:"NK"}
+WORDS["Donated"]={3:"Don"}
+WORDS["TW Caps"]={3:"Casquettes TW"}
+WORDS["WINS"]={3:"GAGNE"}
+WORDS["PVP"]={3:"PVP"}
+WORDS["PVP Perfect"]={3:"PVP parfait"}
+WORDS["CHLG"]={3:"CHLG"}
+WORDS["TW"]={3:"TW"}
+WORDS["FF"]={3:"FF"}
+WORDS["FF Perfect"]={3:"FF parfait"}
+WORDS["New Kid Level"]={3:"Nouveau niveau enfant"}
+WORDS['''
+	
+		Here is your collection. You must input this information manually.
+		
+		* Linked to the SPPD account you set as your primary.
+		* Allows your team to make better decisions about card levels during team wars.
+		* Stored on every change (no need to click save)
+		
+	''']={3:'''Voici votre collection. Vous devez saisir ces informations manuellement.
+
+* Lié au compte SPPD que vous avez défini comme votre compte principal.
+* Permet à votre équipe de prendre de meilleures décisions sur les niveaux de cartes pendant les guerres d'équipe.
+* Stocké à chaque changement (pas besoin de cliquer sur Enregistrer)'''}
+WORDS["MY CARDS"]={3:"MES CARTES"}
+WORDS['''
+	
+		Here is deck builder using real-world data based on the win rate of themes and cards over 80k+ PVP matches.
+		
+		You can become a contributor by download the SPPD Deck Tracker and uploading your matches.
+		
+		* No one might be using this exact deck.
+		* This data is from ALL Ranks at the moment.
+		* Specific data sets will be coming in the future, so you can narrow down card win rate by Arena.
+		
+		How To Use:
+		
+		* To build your best deck, select your favorite theme or themes.
+		* If you have one or more favorite cards, you can select those too.
+		* If you want to specifically counter one or more cards or themes, select those in your opponent's deck.
+		
+	''']={3:'''Voici le constructeur de deck utilisant des données du monde réel basées sur le taux de victoire des thèmes et des cartes sur plus de 80 000 matchs PVP.
+
+Vous pouvez devenir contributeur en téléchargeant le Deck Tracker SPPD et en téléchargeant vos matchs.
+
+* Personne ne pourrait utiliser ce deck exact.
+* Ces données proviennent de TOUS les rangs pour le moment.
+* Des ensembles de données spécifiques arriveront dans le futur, vous pouvez donc réduire le taux de victoire par carte par Arena.
+
+Comment utiliser:
+
+* Pour créer votre meilleur deck, sélectionnez votre ou vos thèmes préférés.
+* Si vous avez une ou plusieurs cartes favorites, vous pouvez également les sélectionner.
+* Si vous souhaitez contrer spécifiquement une ou plusieurs cartes ou thèmes, sélectionnez ceux du deck de votre adversaire.'''}
+WORDS["CARD STATS"]={3:"STATS DE CARTE"}
+WORDS["Adventure"]={3:"Aventure"}
+WORDS["Sci-Fi"]={3:"Science-fiction"}
+WORDS["Mystical"]={3:"Mystique"}
+WORDS["Fantasy"]={3:"Fantaisie"}
+WORDS["Superheroes"]={3:"Super héros"}
+WORDS["Neutral"]={3:"Neutre"}
+WORDS["Legendary"]={3:"Légendaire"}
+WORDS["Epic"]={3:"Épique"}
+WORDS["Rare"]={3:"Rare"}
+WORDS["Common"]={3:"Commun"}
+WORDS["Your Themes"]={3:"Vos thèmes"}
+WORDS["Opponent's Themes"]={3:"Thèmes de l'adversaire"}
+WORDS["Your Cards"]={3:"Vos cartes"}
+WORDS["Blacklist Cards"]={3:"Cartes de la liste noire"}
+WORDS["Opponent's Cards"]={3:"Cartes de l'adversaire"}
+WORDS["NELLY"]={3:"NELLY"}
+WORDS["MAYOR MCDANIELS"]={3:"MAIRE MCDANIELS"}
+WORDS["NATHAN"]={3:"NATHAN"}
+WORDS["PC PRINCIPAL"]={3:"PC PRINCIPAL"}
+WORDS["STARVIN' MARVIN"]={3:"STARVIN 'MARVIN"}
+WORDS["TERRANCE MEPHESTO"]={3:"TERRANCE MEPHESTO"}
+WORDS["MIMSY"]={3:"MIMSY"}
+WORDS["OFFICER BARBRADY"]={3:"OFFICIER BARBRADY"}
+WORDS["GUNSLINGER KYLE"]={3:"GUNSLINGER KYLE"}
+WORDS["SHAMAN TOKEN"]={3:"JETON SHAMAN"}
+WORDS["OUTLAW TWEEK"]={3:"OUTLAW TWEEK"}
+WORDS["ALIEN CLYDE"]={3:"ALIEN CLYDE"}
+WORDS["HYPERDRIVE"]={3:"HYPERDRIVE"}
+WORDS["MARINE CRAIG"]={3:"CRAIG MARIN"}
+WORDS["FRIAR JIMMY"]={3:"FRIAR JIMMY"}
+WORDS["POSEIDON STAN"]={3:"POSEIDON STAN"}
+WORDS["DARK MAGE CRAIG"]={3:"CRAIG MAGE FONCÉ"}
+WORDS["LAVA!"]={3:"LAVE!"}
+WORDS["MARY JANE RANDY"]={3:"MARY JANE RANDY"}
+WORDS["UNKNOWN"]={3:"INCONNUE"}

@@ -228,3 +228,112 @@ WORDS["Name"]={6:"이름"}
 WORDS["Last Refresh"]={6:"마지막 새로 고침"}
 WORDS["Total Decks"]={6:"총 덱"}
 WORDS["Rank"]={6:"계급"}
+WORDS["Settings"]={6:"설정"}
+WORDS["Logout"]={6:"로그 아웃"}
+WORDS["Deck Builder"]={6:"덱 빌더"}
+WORDS["Cards DPS"]={6:"카드 DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={6:'''** SPPDReplay 웹 사이트에 오신 것을 환영합니다 **
+
+우리는 HearthSim과 웹 사이트 [hsreplay.net] (http://hsreplay.net)의 하스 스톤 개념을 구축하고 있습니다.
+
+우리의 목표는 동일합니다 : 플레이어에게 고급 게임 분석 및 도구 제공
+
+이 웹 사이트, [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) 및 [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager ).
+
+웹 사이트 특징 :
+* 메타 덱 보고서-테마 및 카드
+* 다양한 옵션으로 필터링 가능.
+* 아레나 별 분석 (0-300에서 8500+까지)
+* 24 시간마다 업데이트됩니다.
+* 팀 (상위 2000 명)
+* 상위 2000 개 팀
+* 다양한 옵션으로 필터링 가능.
+* 새 팀을 검색하는 가장 좋은 방법.
+* 매주 업데이트됩니다.
+* 모든 선수 (상위 2000 팀)
+* FF 우승 또는 도전 우승 또는 기부금이 가장 많은지 궁금하십니까?
+* 24 시간마다 업데이트됩니다.
+* 팀 관리
+* SPPD 계정을 연결하면 팀이 자동 할당됩니다.
+* 자동 할당되지 않은 경우 팀을 찾아 멤버 탭에서 '새로 고침'을 클릭하세요.
+* 각 플레이어 (또는 해당 플레이어의 팀 리더 / 공동 리더)는 카드 레벨을 입력 할 수 있습니다.
+* Team Wars 카드 선택이 가능 해지면 자동으로 업데이트됩니다.
+* 자세한 팀 전쟁 모자 투영
+* 팀의 카드 레벨에 따른 가중 평균 레벨 (WAL) 포함
+* 맞춤형 카드 빌더
+
+[팀 관리자] (https://github.com/rbrasga/SPPD-Team-Manager) 기능 :
+* 웹 사이트와 완전히 통합됨
+* 내 클라우드 서버에서 월 2 달러로 실행하세요.
+* 또는 자신의 Windows PC에서. 설정없이 다운로드하고 실행하기 만하면됩니다. Google Play 이메일 / 비밀번호 만 필요합니다.
+* TVT 브래킷 분석
+* 점수가 변경 될 때마다 이메일 업데이트 포함
+* 누가 어디에 모자를 쓴지 추적 | 누가 무엇을 요청했는지 | 기부 한 사람 | 주말 이벤트 포인트 | 팀전 역사
+* 화이트리스트 / 블랙리스트에 따라 팀원 자동 수락 / 거부
+* 그리고 그들에게 지정된 역할을 자동 할당
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) 기능 :
+* 프로처럼 플레이하세요! 게임 내 오버레이로 나와 상대방이 플레이하는 카드를 추적하세요.
+* 보관함과 팩을 통해 수집 한 콘텐츠를 추적하세요
+* (선택 사항) SPPDReplay 웹 사이트에 데이터를 자동으로 업로드
+* 업로드 된 매치에는 상대의 실제 카드 레벨, 챌린지 메타 보고서 지원 등이 포함됩니다.
+
+보류중인 기능 :
+* 모바일 애플리케이션으로서의 SPPD Deck Tracker (설정 필요 없음)-범용 로그인 포함 (android <-> ios)
+* 궁극적으로 팩 / 라커에 대한 선택적 업로드를 지원하여 계층 별 각 팩 유형에 대한 에픽 / 전설적인 드롭률에 대한 고급 분석을 지원합니다.
+* 덱 빌더
+
+** 자세한 내용은 [SPPD Sim Discord] (https://discord.gg/j4Wchza)에 참여하세요. **'''}

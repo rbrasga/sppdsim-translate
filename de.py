@@ -513,3 +513,161 @@ WORDS["FF"]={2:"FF"}
 WORDS["FF Perfect"]={2:"FF Perfekt"}
 WORDS["Percent"]={2:"Prozent"}
 WORDS["New Kid Level"]={2:"Neues Kinderlevel"}
+WORDS["Deck Builder"]={2:"Deck Builder"}
+WORDS["Cards DPS"]={2:"Karten DPS"}
+WORDS['''	
+		**Welcome to the SPPDReplay Website**
+		
+		We are building off of the concepts for Hearthstone by HearthSim and their website [hsreplay.net](http://hsreplay.net)
+		
+		Our object is the same: Bring advanced gaming analytics and tools to the players
+		
+		We have this website, the [Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker), and the [Team Manager](https://github.com/rbrasga/SPPD-Team-Manager).
+		
+		Website Features:
+		* Meta Deck Report - Themes & Cards
+		   * Filterable by a range of options.
+		   * Breakdown by Arena (From 0-300 up to 8500+)
+		   * Updated every 24 hours.
+		* Teams (Top 2000)
+		   * Top 2000 Teams
+		   * Filterable by a range of options.
+		   * Best way to search for a new team.
+		   * Updated each week.
+		* All Players (on a Top 2000 Team)
+		   * Every wondered if you have the most FF wins or challenge wins, or even donations?
+		   * Updated every 24 hours.
+		* Team Management
+		   * Once you link your SPPD account, your team is auto-assigned.
+		      * If it's not auto-assigned, then find your team and Click `REFRESH` under the Member's Tab
+		   * Each player (or that player's team leader/co-leaders) can input card levels
+		   * Team Wars Card Choices automatically updated when they become available
+		      * Detailed Team Wars Caps Projections
+			  * including Weighted Average Level (WAL) based on team's card levels
+		* Custom Card Builder
+		
+		[Team Manager](https://github.com/rbrasga/SPPD-Team-Manager) Features:
+		* Fully-Integrated with the website
+		   * Run it on my cloud server for 2$ per month.
+		   * OR on your own Windows PC. No setup, just download and run. Only Google Play email/password required.
+		   * TVT Bracket Analytics
+		      * Including email updates each time a score changes
+		   * Track who spent caps where | who requested what | who donated what | weekend event points | teamwar history
+		   * Auto-accept/reject team members based on white-list/black-list
+		      * And auto-assign them their designated role
+
+		[Deck Tracker](https://github.com/rbrasga/SPPD-Deck-Tracker) Features:
+		   * Play like a pro! Keep track of the cards you and your opponent play with an in-game overlay.
+		   * Keep track of the content you collect through lockers and packs
+		   * (Optional) Automatically upload your data to the SPPDReplay website
+		      * Uploaded Matches include opponent's true card levels, help with Challenge Meta Reports, and more.
+
+		Pending Features:
+		* SPPD Deck Tracker as a mobile application (no setup required) - including universal login (android <-> ios)
+		* Eventually support optional upload for packs/lockers to support advanced analytics on epic/legendary drop rates for each pack type by tier
+		* Deck builder
+
+		**Join the [SPPD Sim Discord](https://discord.gg/j4Wchza) for more details.**
+	''']={2:'''** Willkommen auf der SPPDReplay-Website **
+
+Wir bauen auf den Konzepten für Hearthstone von HearthSim und ihrer Website [hsreplay.net] (http://hsreplay.net) auf.
+
+Unser Ziel ist dasselbe: Bringen Sie den Spielern fortschrittliche Spielanalysen und Tools
+
+Wir haben diese Website, den [Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) und den [Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) ).
+
+Website-Funktionen:
+* Meta Deck Report - Themen & Karten
+* Filterbar nach einer Reihe von Optionen.
+* Aufschlüsselung nach Arena (von 0-300 bis 8500+)
+* Alle 24 Stunden aktualisiert.
+* Teams (Top 2000)
+* Top 2000 Teams
+* Filterbar nach einer Reihe von Optionen.
+* Beste Möglichkeit, nach einem neuen Team zu suchen.
+* Jede Woche aktualisiert.
+* Alle Spieler (in einem Top 2000 Team)
+* Jeder fragte sich, ob Sie die meisten FF-Gewinne oder Herausforderungsgewinne oder sogar Spenden haben?
+* Alle 24 Stunden aktualisiert.
+* Team Management
+* Sobald Sie Ihr SPPD-Konto verknüpft haben, wird Ihr Team automatisch zugewiesen.
+* Wenn es nicht automatisch zugewiesen wird, suchen Sie Ihr Team und klicken Sie auf "REFRESH" unter der Registerkarte "Mitglied"
+* Jeder Spieler (oder der Teamleiter / Co-Leiter dieses Spielers) kann Kartenlevel eingeben
+* Team Wars-Kartenoptionen werden automatisch aktualisiert, sobald sie verfügbar sind
+* Detaillierte Team Wars Caps-Projektionen
+* einschließlich WAL (Weighted Average Level) basierend auf den Kartenlevels des Teams
+* Benutzerdefinierter Kartenersteller
+
+[Team Manager] (https://github.com/rbrasga/SPPD-Team-Manager) Funktionen:
+* Vollständig in die Website integriert
+* Führen Sie es auf meinem Cloud-Server für 2 $ pro Monat aus.
+* ODER auf Ihrem eigenen Windows-PC. Kein Setup, nur herunterladen und ausführen. Nur Google Play E-Mail / Passwort erforderlich.
+* TVT Bracket Analytics
+* Einschließlich E-Mail-Updates bei jeder Änderung einer Punktzahl
+* Verfolgen Sie, wer wo Kappen ausgegeben hat | wer hat was angefordert | wer hat was gespendet | Wochenendveranstaltungspunkte | Teamwar Geschichte
+* Teammitglieder basierend auf der weißen Liste / schwarzen Liste automatisch akzeptieren / ablehnen
+* Und weisen Sie ihnen automatisch ihre festgelegte Rolle zu
+
+[Deck Tracker] (https://github.com/rbrasga/SPPD-Deck-Tracker) Funktionen:
+* Spiele wie ein Profi! Behalten Sie die Karten im Auge, die Sie und Ihr Gegner mit einer Überlagerung im Spiel spielen.
+* Verfolgen Sie den Inhalt, den Sie über Schließfächer und Pakete sammeln
+* (Optional) Laden Sie Ihre Daten automatisch auf die SPPDReplay-Website hoch
+* Hochgeladene Matches beinhalten die wahren Kartenlevel des Gegners, Hilfe bei Challenge Meta Reports und vieles mehr.
+
+Ausstehende Funktionen:
+* SPPD Deck Tracker als mobile Anwendung (kein Setup erforderlich) - einschließlich universeller Anmeldung (Android <-> ios)
+* Unterstützt eventuell den optionalen Upload für Packs / Schließfächer, um erweiterte Analysen zu epischen / legendären Drop-Raten für jeden Pack-Typ nach Tier zu unterstützen
+* Deck Builder
+
+** Treten Sie dem [SPPD Sim Discord] (https://discord.gg/j4Wchza) bei, um weitere Informationen zu erhalten. **'''}
+WORDS['''
+	
+		Thank you for using my website. I originally designed this project to make my life easier, but I'm happy to see that it makes other people's lives easier as well.
+		
+		All these services (website) and apps (Deck Tracker, Team Manager) were written by me, in my free time...
+		Occasionally with a sleeping baby strapped to my chest.
+		
+		I work full-time supporting my wife and three boys. Here's a picture of Me and My Boys:
+		
+		![Me and My Boys](https://i.imgur.com/Kq0M6Oj.jpg)
+		
+		
+		I pay for everything out of my own pocket. And I feel that it would be really nice if some of you guys could help a father out with some donations, so that my hobby could finally stop taking money out of my pocket.
+		
+		If your team uses my services, please consider a $1.00 donation per month...
+		OR donate 1$ per month to your favorite charity and share the receipt with me on the [SPPD Sim Discord](https://discord.gg/j4Wchza).
+		
+		My goal for this project was to improve the community by bringing everyone together, not to make a fortune.
+		
+		Sincerely,
+		-Remington
+		
+	''']={2:'''Vielen Dank für die Nutzung meiner Website. Ich habe dieses Projekt ursprünglich entworfen, um mein Leben leichter zu machen, aber ich bin froh zu sehen, dass es auch das Leben anderer Menschen erleichtert.
+
+Alle diese Dienste (Website) und Apps (Deck Tracker, Team Manager) wurden von mir in meiner Freizeit geschrieben ...
+Gelegentlich mit einem schlafenden Baby an meiner Brust.
+
+Ich arbeite hauptberuflich und unterstütze meine Frau und drei Jungen. Hier ist ein Bild von mir und meinen Jungs:
+
+! [Ich und meine Jungs] (https://i.imgur.com/Kq0M6Oj.jpg)
+
+
+Ich bezahle alles aus eigener Tasche. Und ich denke, es wäre wirklich schön, wenn einige von euch einem Vater mit Spenden helfen könnten, damit mein Hobby endlich aufhören könnte, Geld aus meiner Tasche zu ziehen.
+
+Wenn Ihr Team meine Dienste nutzt, erwägen Sie bitte eine Spende von 1,00 USD pro Monat ...
+ODER spenden Sie 1 $ pro Monat an Ihre bevorzugte Wohltätigkeitsorganisation und teilen Sie mir die Quittung auf der [SPPD Sim Discord] (https://discord.gg/j4Wchza) mit.
+
+Mein Ziel für dieses Projekt war es, die Gemeinschaft zu verbessern, indem ich alle zusammenbringe und kein Vermögen mache.
+
+Mit freundlichen Grüßen,
+-Remington'''}
+WORDS["Silver"]={2:"Silber"}
+WORDS["League"]={2:"Liga"}
+WORDS["Min New Kid Level"]={2:"Min New Kid Level"}
+WORDS["Description"]={2:"Beschreibung"}
+WORDS["Team Details"]={2:"Teamdetails"}
+WORDS["Team Events"]={2:"Teamevents"}
+WORDS["Requests"]={2:"Anfragen"}
+WORDS["Applications"]={2:"Anwendungen"}
+WORDS["Bronze"]={2:"Bronze"}
+WORDS["Gold"]={2:"Gold"}

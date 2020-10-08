@@ -811,3 +811,15 @@ WORDS["HYPERDRIVE"]={4:"HYPERDRIVE"}
 WORDS["LAVA!"]={4:"LAVA!"}
 WORDS["UNKNOWN"]={4:"SCONOSCIUTO"}
 WORDS["Unknown,sup"]={4:"Sconosciuto, sup"}
+WORDS['''
+	
+		Here are your matches.
+		
+		* The SPPD Deck Tracker can optionally upload your matches.
+		* Your matches with other players are listed here, if they uploaded the match with the SPPD Deck Tracker.
+		
+	''']={4:'''Ecco le tue partite.
+
+* L'SPPD Deck Tracker può opzionalmente caricare le tue partite.
+* Le tue partite con altri giocatori sono elencate qui, se hanno caricato la partita con l'SPPD Deck Tracker.'''}
+WORDS["MY MATCHES"]={4:"LE MIE PARTITE"}

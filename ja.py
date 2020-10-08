@@ -948,3 +948,25 @@ HearthSimとそのウェブサイト[hsreplay.net]（http://hsreplay.net）に�
 **詳細については、[SPPD Sim Discord]（https://discord.gg/j4Wchza）に参加してください。**'''}
 WORDS["Gold"]={12:"ゴールド"}
 WORDS["Open"]={12:"開いた"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={12:'''これは、テーマごとに最もペアになっているカードの組み合わせを見つけるアルゴリズムを使用して構築されたメタデッキです。
+
+*誰もこの正確なデッキを使用していない可能性があります。
+*対戦相手がこれらのテーマの組み合わせを実行している場合に何を期待するかについての最良の推測。
+*チャレンジモードとカード使用イベントの影響を強く受けるため、毎日ここをチェックしてください。
+*毎日更新されます。'''}
+WORDS["mys,sup"]={12:"mys、sup"}
+WORDS["mys,sci"]={12:"mys、sci"}
+WORDS["fan,sci"]={12:"ファン、科学"}
+WORDS["adv,sci"]={12:"adv、sci"}
+WORDS["Average Deck Cost"]={12:"平均デッキコスト"}
+WORDS["Energy"]={12:"エネルギー"}
+WORDS["Theme"]={12:"テーマ"}

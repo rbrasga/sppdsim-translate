@@ -786,3 +786,31 @@ WORDS["Please allow up to 30 seconds to generate the image."]={5:"Espere hasta 3
 WORDS["Please allow up to 30 seconds to generate the image."]={5:"Espere hasta 30 segundos para generar la imagen."}
 WORDS["Thanks to PichuZapper#8383 for the materials"]={5:"Gracias a PichuZapper # 8383 por los materiales"}
 WORDS["Thanks to PichuZapper#8383 for the materials"]={5:"Gracias a PichuZapper # 8383 por los materiales"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={5:'''Aquí están los metadecks construidos usando un algoritmo que encuentra las combinaciones de cartas más emparejadas por tema.
+
+* Es posible que nadie esté usando este mazo exacto.
+* La mejor estimación de qué esperar si tu oponente estuviera ejecutando estas combinaciones de temas.
+* Muy afectado por el modo de desafío y los eventos de uso de tarjetas, así que consulte aquí todos los días.
+* Refrescado todos los días.'''}
+WORDS["mys,sup"]={5:"mis, sup"}
+WORDS["mys,sci"]={5:"mis, ciencia"}
+WORDS["fan,sci"]={5:"ventilador, ciencia"}
+WORDS["adv,sci"]={5:"adv, ciencia"}
+WORDS["Average Deck Cost"]={5:"Costo promedio de la cubierta"}
+WORDS["Energy"]={5:"Energía"}
+WORDS["adv,mys"]={5:"adv, mis"}
+WORDS["fan,sup"]={5:"ventilador, sup"}
+WORDS["fan,mys"]={5:"fan, mis"}
+WORDS["adv,fan"]={5:"adv, fan"}
+WORDS["Unknown,mys,sup"]={5:"Desconocido, mis, sup"}
+WORDS["adv,sup"]={5:"adv, sup"}
+WORDS["sci,sup"]={5:"ciencia, sup"}

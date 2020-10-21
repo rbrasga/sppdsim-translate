@@ -814,3 +814,374 @@ WORDS["adv,fan"]={5:"adv, fan"}
 WORDS["Unknown,mys,sup"]={5:"Desconocido, mis, sup"}
 WORDS["adv,sup"]={5:"adv, sup"}
 WORDS["sci,sup"]={5:"ciencia, sup"}
+WORDS['''
+	
+		Here are the most recent matches.
+		
+		* Matches uploaded using the SPPD Deck Tracker.
+		* Filter by wide range of choices!
+		   * Ranked OR Challenge Mode
+		   * Specific Rank, like 8500+
+		* Live! - See the matches as soon as they complete.
+		
+	''']={5:'''Aquí están los partidos más recientes.
+
+* Partidos cargados usando SPPD Deck Tracker.
+* ¡Filtra por una amplia gama de opciones!
+* Modo clasificado O Desafío
+* Rango específico, como 8500+
+* ¡En Vivo! - Ver los partidos tan pronto como se completen.'''}
+WORDS["MATCHES"]={5:"PARTIDOS"}
+WORDS["8500+"]={5:"8500+"}
+WORDS["7500-8500"]={5:"7500-8500"}
+WORDS["6500-7500"]={5:"6500-7500"}
+WORDS["5500-6500"]={5:"5500-6500"}
+WORDS["4500-5500"]={5:"4500-5500"}
+WORDS["3500-4500"]={5:"3500-4500"}
+WORDS["2500-3500"]={5:"2500-3500"}
+WORDS["1500-2500"]={5:"1500-2500"}
+WORDS["500-1500"]={5:"500-1500"}
+WORDS["-500-500"]={5:"-500-500"}
+WORDS["Match Type"]={5:"Tipo de concordancia"}
+WORDS["Time"]={5:"Hora"}
+WORDS["Player 1"]={5:"Jugador 1"}
+WORDS["MMR1"]={5:"MMR1"}
+WORDS["NK1"]={5:"NK1"}
+WORDS["Player 2"]={5:"Jugador 2"}
+WORDS["MMR2"]={5:"MMR2"}
+WORDS["NK2"]={5:"NK2"}
+WORDS["Win Rate"]={5:"Ratio de victorias"}
+WORDS["New Kid"]={5:"Chico nuevo"}
+WORDS["Scores"]={5:"Puntuaciones"}
+WORDS['''
+	
+		Here is your collection. You must input this information manually.
+		
+		* Linked to the SPPD account you set as your primary.
+		* Allows your team to make better decisions about card levels during team wars.
+		* Stored on every change (no need to click save)
+		
+	''']={5:'''Aquí está tu colección. Debe ingresar esta información manualmente.
+
+* Vinculado a la cuenta SPPD que estableció como su principal.
+* Permite a tu equipo tomar mejores decisiones sobre los niveles de las cartas durante las guerras en equipo.
+* Almacenado en cada cambio (no es necesario hacer clic en guardar)'''}
+WORDS["MY CARDS"]={5:"MIS TARJETAS"}
+WORDS["Plantmania"]={5:"Plantmania"}
+WORDS["Team War - Week 90 - MYSSUP"]={5:"Team War - Semana 90 - MYSSUP"}
+WORDS["Human Kite"]={5:"Cometa humana"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={5:"No afiliado a Ubisoft / Redlynx."}
+WORDS["Support"]={5:"Apoyo"}
+WORDS["Contact Us"]={5:"Contáctenos"}
+WORDS["About Us"]={5:"Sobre nosotros"}
+WORDS["UNLEASH YOUR POTENTIAL"]={5:"DESATA TU POTENCIAL"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={5:"ENCUENTRA LA MEJOR BARAJA PARA TU RANGO"}
+WORDS["Top Cards"]={5:"Tarjetas principales"}
+WORDS["Live Matches"]={5:"Partidos en vivo"}
+WORDS["Your Themes"]={5:"Tus Temas"}
+WORDS["Theme Matchups"]={5:"Emparejamientos temáticos"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={5:"¡Encuentra el mostrador! Descubre los temas que vencerán a tu oponente."}
+WORDS["Team Name"]={5:"Nombre del equipo"}
+WORDS["Runs"]={5:"Carreras"}
+WORDS["Average"]={5:"Promedio"}
+WORDS["Projected"]={5:"Proyectado"}
+WORDS["Maximum"]={5:"Máximo"}
+WORDS["Team Wars Brackets"]={5:"Soportes de Team Wars"}
+WORDS["The Best Deck"]={5:"La mejor baraja"}
+WORDS["Games Last 7 Days: "]={5:"Juegos de los últimos 7 días:"}
+WORDS["The best deck in"]={5:"La mejor baraja de"}
+WORDS["Games Today: "]={5:"Juegos de hoy:"}
+WORDS["Contributors: "]={5:"Colaboradores:"}
+WORDS["Become a Contributor"]={5:"Conviértete en colaborador"}
+WORDS["fan,neu"]={5:"ventilador, neu"}
+WORDS["Medusa Bebe"]={5:"Medusa bebe"}
+WORDS["Card History"]={5:"Historial de la tarjeta"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={5:'''Aquí están las combinaciones de metatemas por nivel y período de tiempo.
+
+* Dependiendo del período de tiempo, el informe puede verse afectado por el modo de desafío o los eventos de uso de la tarjeta.
+* ¡Filtra por una amplia gama de opciones!
+* Refrescado todos los días.'''}
+WORDS["THEMES"]={5:"TEMAS"}
+WORDS["Unknown,adv,sup"]={5:"Desconocido, adv, sup"}
+WORDS["Unknown,sci,sup"]={5:"Desconocido, ciencia, sup"}
+WORDS["Unknown,fan,sup"]={5:"Desconocido, fan, sup"}
+WORDS["sup,neu"]={5:"sup, neu"}
+WORDS["Unknown,sup"]={5:"Desconocido, sup"}
+WORDS["You"]={5:"Tú"}
+WORDS["Opponent"]={5:"Adversario"}
+WORDS["adv,neu"]={5:"adv, neu"}
+WORDS["MARY JANE RANDY"]={5:"MARY JANE RANDY"}
+WORDS["MIMSY"]={5:"MIMSY"}
+WORDS["POSEIDON STAN"]={5:"POSEIDON STAN"}
+WORDS["DARK MAGE CRAIG"]={5:"DARK MAGE CRAIG"}
+WORDS["SHAMAN TOKEN"]={5:"TOKEN DE CHAMÁN"}
+WORDS["ALIEN CLYDE"]={5:"CLYDE EXTRANJERO"}
+WORDS["FRIAR JIMMY"]={5:"FRAIL JIMMY"}
+WORDS["BARREL DOUGIE"]={5:"DOUGIE DE BARRIL"}
+WORDS["STARVIN' MARVIN"]={5:"STARVIN 'MARVIN"}
+WORDS["LAVA!"]={5:"¡LAVA!"}
+WORDS["PC PRINCIPAL"]={5:"PRINCIPAL DE PC"}
+WORDS["NELLY"]={5:"NELLY"}
+WORDS["GUNSLINGER KYLE"]={5:"GUNSLINGER KYLE"}
+WORDS['''
+	
+		Thank you for using my website. I originally designed this project to make my life easier, but I'm happy to see that it makes other people's lives easier as well.
+		
+		All these services (website) and apps (Deck Tracker, Team Manager) were written by me, in my free time...
+		Occasionally with a sleeping baby strapped to my chest.
+		
+		I work full-time supporting my wife and three boys. Here's a picture of Me and My Boys:
+		
+		![Me and My Boys](https://i.imgur.com/Kq0M6Oj.jpg)
+		
+		
+		I pay for everything out of my own pocket. And I feel that it would be really nice if some of you guys could help a father out with some donations, so that my hobby could finally stop taking money out of my pocket.
+		
+		If your team uses my services, please consider a $1.00 donation per month...
+		OR donate 1$ per month to your favorite charity and share the receipt with me on the [SPPD Sim Discord](https://discord.gg/j4Wchza).
+		
+		My goal for this project was to improve the community by bringing everyone together, not to make a fortune.
+		
+		Sincerely,
+		-Remington
+		
+	''']={5:'''Gracias por usar mi sitio web. Originalmente diseñé este proyecto para hacer mi vida más fácil, pero me alegra ver que también facilita la vida de otras personas.
+
+Todos estos servicios (sitio web) y aplicaciones (Deck Tracker, Team Manager) fueron escritos por mí, en mi tiempo libre ...
+De vez en cuando con un bebé dormido atado a mi pecho.
+
+Trabajo a tiempo completo manteniendo a mi esposa y mis tres hijos. Aquí hay una foto de mis hijos y yo:
+
+! [Mis hijos y yo] (https://i.imgur.com/Kq0M6Oj.jpg)
+
+
+Pago todo de mi propio bolsillo. Y siento que sería muy bueno si algunos de ustedes pudieran ayudar a un padre con algunas donaciones, para que mi pasatiempo finalmente deje de sacar dinero de mi bolsillo.
+
+Si su equipo utiliza mis servicios, considere una donación de $ 1.00 por mes ...
+O dona 1 $ por mes a tu organización benéfica favorita y comparte el recibo conmigo en [SPPD Sim Discord] (https://discord.gg/j4Wchza).
+
+Mi objetivo para este proyecto era mejorar la comunidad uniendo a todos, no hacer una fortuna.
+
+Sinceramente,
+-Remington'''}
+WORDS['''
+	
+		Here is deck builder using real-world data based on the win rate of themes and cards over 80k+ PVP matches.
+		
+		You can become a contributor by download the SPPD Deck Tracker and uploading your matches.
+		
+		* No one might be using this exact deck.
+		* This data is from ALL Ranks at the moment.
+		* Specific data sets will be coming in the future, so you can narrow down card win rate by Arena.
+		
+		How To Use:
+		
+		* To build your best deck, select your favorite theme or themes.
+		* If you have one or more favorite cards, you can select those too.
+		* If you want to specifically counter one or more cards or themes, select those in your opponent's deck.
+		
+	''']={5:'''Aquí está el creador de mazos que utiliza datos del mundo real basados ​​en la tasa de victorias de temas y cartas en más de 80k partidas PVP.
+
+Puede convertirse en colaborador descargando SPPD Deck Tracker y cargando sus partidas.
+
+* Es posible que nadie esté usando este mazo exacto.
+* Estos datos son de TODOS los rangos en este momento.
+* En el futuro vendrán conjuntos de datos específicos, por lo que puede reducir la tasa de ganancia de tarjetas por Arena.
+
+Cómo utilizar:
+
+* Para construir su mejor mazo, seleccione su tema o temas favoritos.
+* Si tiene una o más tarjetas favoritas, también puede seleccionarlas.
+* Si quieres contrarrestar específicamente una o más cartas o temas, selecciona los del mazo de tu oponente.'''}
+WORDS["CARD STATS"]={5:"ESTADÍSTICAS DE TARJETA"}
+WORDS["Superheroes"]={5:"Superhéroes"}
+WORDS["Opponent's Themes"]={5:"Temas del oponente"}
+WORDS["Your Cards"]={5:"Tus cartas"}
+WORDS["Blacklist Cards"]={5:"Tarjetas de lista negra"}
+WORDS["Opponent's Cards"]={5:"Cartas del oponente"}
+WORDS["MAYOR MCDANIELS"]={5:"ALCALDE MCDANIELS"}
+WORDS["NATHAN"]={5:"NATHAN"}
+WORDS["TERRANCE MEPHESTO"]={5:"TERRANCIA MEPHESTO"}
+WORDS["OFFICER BARBRADY"]={5:"OFICIAL BARBRADY"}
+WORDS["OUTLAW TWEEK"]={5:"PROHIBIDO TWEEK"}
+WORDS["HYPERDRIVE"]={5:"HYPERDRIVE"}
+WORDS["MARINE CRAIG"]={5:"CRAIG MARINA"}
+WORDS["UNKNOWN"]={5:"DESCONOCIDO"}
+WORDS['''
+	
+		Download South Park Phone Destroyer™ - Battle Card Game
+		   * [For Android](https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+		   * [For iOS](https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+	
+		Download the SPPD Deck Tracker
+		   * [For PC](https://github.com/rbrasga/SPPD-Deck-Tracker)
+			  * Log your matches/packs/lockers
+		      * Link to your iOS or Android device
+			  * Installation instructions are listed in the link.
+	
+		Download the Team Manager
+		   * [For PC](https://github.com/rbrasga/SPPD-Team-Manager)
+			  * Track Team War History, Upgrade Spending, Bracket Details
+		      * Track Card Requests/Donations
+		      * Track Team Event Participation
+		      * Auto-Accept/Reject team members and assign roles
+		      * Uploads data to this website for easy viewing anywhere.
+			  * Installation instructions are listed in the link.
+		   * Or for 2$ per month, I will host your team manager instance in the cloud, running non-stop. 
+		
+		[Join the discord](https://discord.gg/m95hg3S)!
+		   * Help installing
+		   * Answer questions
+		   * Request features
+		   * Report Bugs
+			
+	''']={5:'''Descargar South Park Phone Destroyer ™ - Juego de cartas de batalla
+* [Para Android] (https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+* [Para iOS] (https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+
+Descarga SPPD Deck Tracker
+* [Para PC] (https://github.com/rbrasga/SPPD-Deck-Tracker)
+* Registra tus partidos / paquetes / casilleros
+* Enlace a su dispositivo iOS o Android
+* Las instrucciones de instalación se enumeran en el enlace.
+
+Descarga el Team Manager
+* [Para PC] (https://github.com/rbrasga/SPPD-Team-Manager)
+* Seguimiento del historial de guerra del equipo, gastos de actualización, detalles del soporte
+* Seguimiento de solicitudes / donaciones de tarjetas
+* Seguimiento de la participación en eventos del equipo
+* Aceptar / rechazar automáticamente a los miembros del equipo y asignar roles
+* Carga datos en este sitio web para verlos fácilmente en cualquier lugar.
+* Las instrucciones de instalación se enumeran en el enlace.
+* O por 2 $ al mes, alojaré la instancia de su administrador de equipo en la nube, sin parar.
+
+[Únete a la discordia] (https://discord.gg/m95hg3S)!
+* Ayuda para la instalación
+* Responder preguntas
+* Solicitar características
+* Informar errores'''}
+WORDS['''
+	
+		Here is a breakdown of the TVT Deck Choices based on actual in-game data.
+		
+	''']={5:'''A continuación, se muestra un desglose de las opciones de mazos de TVT según los datos reales del juego.'''}
+WORDS["TEAMWARS"]={5:"GUERRAS DE EQUIPO"}
+WORDS["SUMMARY"]={5:"RESUMEN"}
+WORDS["GOLD"]={5:"ORO"}
+WORDS["SILVER"]={5:"PLATA"}
+WORDS["BRONZE"]={5:"BRONCE"}
+WORDS["Upgrade Days"]={5:"Días de actualización"}
+WORDS["carné de identidad"]={5:"carné de identidad"}
+WORDS["Días de actualización"]={5:"Días de actualización"}
+WORDS["Nombre"]={5:"Nombre"}
+WORDS["Connected Accounts"]={5:"Cuentas conectadas"}
+WORDS["Add Account"]={5:"Añadir cuenta"}
+WORDS["Your Tracking ID"]={5:"Su ID de seguimiento"}
+WORDS["Add"]={5:"Añadir"}
+WORDS['''
+		
+			**How do I find my TRACKING ID?**
+			
+			1. Go to SPPD's In-Game Settings
+			
+			![Settings](https://i.imgur.com/IL2VXGQ.png)
+			
+			2. Scroll to the bottom
+			
+			![Tracking ID](https://i.imgur.com/zxeD4NS.png)
+			
+			If you have any questions: [Join the discord](https://discord.gg/m95hg3S)!
+				
+		''']={5:'''** ¿Cómo encuentro mi ID DE SEGUIMIENTO? **
+
+1. Ve a la configuración del juego de SPPD
+
+! [Configuración] (https://i.imgur.com/IL2VXGQ.png)
+
+2. Desplácese hasta el final
+
+! [ID de seguimiento] (https://i.imgur.com/zxeD4NS.png)
+
+Si tiene alguna pregunta: [Únase a la discordia] (https://discord.gg/m95hg3S).'''}
+WORDS["Team War Leagues"]={5:"Ligas de guerra por equipos"}
+WORDS["Choice 1"]={5:"Opción 1"}
+WORDS["Percent 1"]={5:"Porcentaje 1"}
+WORDS["Choice 2"]={5:"Opción 2"}
+WORDS["Percent 2"]={5:"Porcentaje 2"}
+WORDS["Unknown"]={5:"Desconocido"}
+WORDS['''
+			Oops, this teamwars doesn't exist.
+		''']={5:'''Vaya, este teamwars no existe.'''}
+WORDS["All Live Brackets"]={5:"Todos los soportes en vivo"}
+WORDS['''
+		
+		At least one player on one team in a bracket is using the SPPD Team Manager App.
+		
+		If you want to see your bracket:
+		
+		* **Run the Team Manager App 24/7 in the CLOUD for 2$ per month.**
+		* OR [Download](https://sppdreplay.net/downloads) the SPPD Team Manager App and run it on your own PC.
+		
+		Click the Bracket ID to see that specific bracket and subscribe for email updates.
+		
+	''']={5:'''Al menos un jugador de un equipo en un grupo está utilizando la aplicación SPPD Team Manager.
+
+Si quieres ver tu soporte:
+
+* ** Ejecute la aplicación Team Manager 24 horas al día, 7 días a la semana en la NUBE por 2 $ al mes. **
+* O [Descargue] (https://sppdreplay.net/downloads) la aplicación SPPD Team Manager y ejecútela en su propia PC.
+
+Haga clic en el ID del soporte para ver ese soporte específico y suscríbase para recibir actualizaciones por correo electrónico.'''}
+WORDS["Wood"]={5:"Madera"}
+WORDS["Summary"]={5:"Resumen"}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity, and Type.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={5:'''Aquí están las cartas basadas en Daño por segundo (DPS).
+
+* Filtrar por tema, costo, rareza y tipo.
+* El crédito por estos datos va a `Da_Lemming # 6110`'''}
+WORDS["Time Between Attacks"]={5:"Tiempo entre ataques"}
+WORDS["Range"]={5:"Rango"}
+WORDS["Damage Per Second"]={5:"Daño por segundo"}
+WORDS["Base 4-3-2-1"]={5:"Base 4-3-2-1"}
+WORDS["Max 6-5-4-3"]={5:"Máx. 6-5-4-3"}
+WORDS["Max 7-6-5-4"]={5:"Máx. 7-6-5-4"}
+WORDS["Lvl 7"]={5:"Nivel 7"}
+WORDS["FIRKLE"]={5:"FIRKLE"}
+WORDS["Firkle"]={5:"Firkle"}
+WORDS["Team War - Week 91 - SPECIAL"]={5:"Team War - Semana 91 - ESPECIAL"}
+WORDS["Firkle and the Kindergartners"]={5:"Firkle y los niños de kindergarten"}
+WORDS["Showdown 2020 Winner"]={5:"Ganador de Showdown 2020"}
+WORDS["Total"]={5:"Total"}
+WORDS["N/A"]={5:"N / A"}
+WORDS["Number"]={5:"Número"}
+WORDS["Currency"]={5:"Moneda"}
+WORDS["Coins"]={5:"Monedas"}
+WORDS["Cash"]={5:"Efectivo"}
+WORDS["PVP Tickets"]={5:"Entradas PVP"}
+WORDS["Materials"]={5:"Materiales"}
+WORDS["Details"]={5:"Detalles"}
+WORDS["Card Usage"]={5:"Uso de la tarjeta"}
+WORDS["Packs details: Guaranteed (chance for one extra)"]={5:"Detalles de los paquetes: garantizados (posibilidad de uno extra)"}
+WORDS["Mission"]={5:"Misión"}
+WORDS["Remaining Time"]={5:"Tiempo restante"}
+WORDS["Region"]={5:"Región"}
+WORDS["Opponent Disconnected"]={5:"Oponente desconectado"}
+WORDS["WIN"]={5:"GANAR"}
+WORDS["LOSS"]={5:"PÉRDIDA"}
+WORDS["Incan Craig"]={5:"Inca Craig"}
+WORDS["Satan"]={5:"Satán"}
+WORDS["You need to log in to view this page"]={5:"Debes iniciar sesión para ver esta página"}

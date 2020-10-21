@@ -442,3 +442,29 @@ Bekleyen Özellikler:
 * Güverte hazırlayıcı
 
 ** Daha fazla ayrıntı için [SPPD Sim Discord] 'a (https://discord.gg/j4Wchza) katılın. **'''}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={11:"Ubisoft / Redlynx ile bağlantılı değildir."}
+WORDS["Support"]={11:"Destek"}
+WORDS["The best deck in"]={11:"En iyi güverte"}
+WORDS["Contact Us"]={11:"Bize Ulaşın"}
+WORDS["About Us"]={11:"Hakkımızda"}
+WORDS["Live Matches"]={11:"Canlı Maçlar"}
+WORDS["UNLEASH YOUR POTENTIAL"]={11:"POTANSİYELİNİZİ SERBEST BIRAKIN"}
+WORDS["Games Last 7 Days: "]={11:"Son 7 Gündeki Oyunlar:"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={11:"SIRALAMANIZ İÇİN EN İYİ GÜVERTE BULUN"}
+WORDS["Games Today: "]={11:"Bugünkü Oyunlar:"}
+WORDS["Contributors: "]={11:"Katkıda bulunanlar:"}
+WORDS["Top Cards"]={11:"En İyi Kartlar"}
+WORDS["Become a Contributor"]={11:"Katkıda Bulunan Olun"}
+WORDS["You"]={11:"Sen"}
+WORDS["Opponent"]={11:"Karşı taraf"}
+WORDS["Theme Matchups"]={11:"Tema Eşleştirmeleri"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={11:"Sayacı bulun! Rakibinizi yenecek temaları keşfedin."}
+WORDS["Team Name"]={11:"Takım adı"}
+WORDS["Score"]={11:"Puan"}
+WORDS["Runs"]={11:"Koşar"}
+WORDS["Average"]={11:"Ortalama"}
+WORDS["Members"]={11:"Üyeler"}
+WORDS["Projected"]={11:"Öngörülen"}
+WORDS["Maximum"]={11:"Maksimum"}
+WORDS["Team Wars Brackets"]={11:"Takım Savaşları Parantezleri"}
+WORDS["The Best Deck"]={11:"En İyi Deste"}

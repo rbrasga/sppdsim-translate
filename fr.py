@@ -776,3 +776,189 @@ WORDS["DARK MAGE CRAIG"]={3:"CRAIG MAGE FONCÉ"}
 WORDS["LAVA!"]={3:"LAVE!"}
 WORDS["MARY JANE RANDY"]={3:"MARY JANE RANDY"}
 WORDS["UNKNOWN"]={3:"INCONNUE"}
+WORDS["Connected Accounts"]={3:"Comptes connectés"}
+WORDS["Add Account"]={3:"Ajouter un compte"}
+WORDS["Your Tracking ID"]={3:"Votre identifiant de suivi"}
+WORDS["Add"]={3:"Ajouter"}
+WORDS['''
+		
+			**How do I find my TRACKING ID?**
+			
+			1. Go to SPPD's In-Game Settings
+			
+			![Settings](https://i.imgur.com/IL2VXGQ.png)
+			
+			2. Scroll to the bottom
+			
+			![Tracking ID](https://i.imgur.com/zxeD4NS.png)
+			
+			If you have any questions: [Join the discord](https://discord.gg/m95hg3S)!
+				
+		''']={3:'''** Comment puis-je trouver mon ID DE SUIVI? **
+
+1. Accédez aux paramètres de jeu de SPPD
+
+! [Paramètres] (https://i.imgur.com/IL2VXGQ.png)
+
+2. Faites défiler vers le bas
+
+! [ID de suivi] (https://i.imgur.com/zxeD4NS.png)
+
+Si vous avez des questions: [Rejoignez la discorde] (https://discord.gg/m95hg3S)!'''}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={3:"Non affilié à Ubisoft / Redlynx."}
+WORDS["Support"]={3:"Soutien"}
+WORDS["Contact Us"]={3:"Nous contacter"}
+WORDS["About Us"]={3:"À propos de nous"}
+WORDS["UNLEASH YOUR POTENTIAL"]={3:"LIBÉREZ VOTRE POTENTIEL"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={3:"TROUVEZ LE MEILLEUR PONT POUR VOTRE RANG"}
+WORDS["Top Cards"]={3:"Meilleures cartes"}
+WORDS["Live Matches"]={3:"Matchs en direct"}
+WORDS["Theme Matchups"]={3:"Correspondances de thèmes"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={3:"Trouvez le comptoir! Découvrez les thèmes qui battront votre adversaire."}
+WORDS["Team Wars Brackets"]={3:"Supports Team Wars"}
+WORDS["The Best Deck"]={3:"Le meilleur deck"}
+WORDS["The best deck in"]={3:"Le meilleur deck de"}
+WORDS["Games Last 7 Days: "]={3:"Jeux 7 derniers jours:"}
+WORDS["Games Today: "]={3:"Jeux d'aujourd'hui:"}
+WORDS["Contributors: "]={3:"Contributeurs:"}
+WORDS["Become a Contributor"]={3:"Devenez contributeur"}
+WORDS["Stan of Many Moons"]={3:"Stan de nombreuses lunes"}
+WORDS["Card History"]={3:"Historique des cartes"}
+WORDS["You"]={3:"Tu"}
+WORDS["Opponent"]={3:"Adversaire"}
+WORDS['''
+	
+		Here are the most recent matches.
+		
+		* Matches uploaded using the SPPD Deck Tracker.
+		* Filter by wide range of choices!
+		   * Ranked OR Challenge Mode
+		   * Specific Rank, like 8500+
+		* Live! - See the matches as soon as they complete.
+		
+	''']={3:'''Voici les matchs les plus récents.
+
+* Correspondances téléchargées à l'aide du SPPD Deck Tracker.
+* Filtrer par large éventail de choix!
+* Mode classé OU défi
+* Rang spécifique, comme 8500+
+* Vivre! - Voir les matchs dès qu'ils sont terminés.'''}
+WORDS["MATCHES"]={3:"ALLUMETTES"}
+WORDS["8500+"]={3:"8500+"}
+WORDS["7500-8500"]={3:"7500-8500"}
+WORDS["6500-7500"]={3:"6500-7500"}
+WORDS["5500-6500"]={3:"5500-6500"}
+WORDS["4500-5500"]={3:"4500-5500"}
+WORDS["3500-4500"]={3:"3500-4500"}
+WORDS["2500-3500"]={3:"2500-3500"}
+WORDS["1500-2500"]={3:"1500-2500"}
+WORDS["500-1500"]={3:"500-1500"}
+WORDS["-500-500"]={3:"-500-500"}
+WORDS["Match Type"]={3:"Type de match"}
+WORDS["Time"]={3:"Temps"}
+WORDS["Player 1"]={3:"Joueur 1"}
+WORDS["MMR1"]={3:"MMR1"}
+WORDS["NK1"]={3:"NK1"}
+WORDS["Player 2"]={3:"Joueur 2"}
+WORDS["MMR2"]={3:"MMR2"}
+WORDS["NK2"]={3:"NK2"}
+WORDS["Win Rate"]={3:"Taux de réussite"}
+WORDS["New Kid"]={3:"Nouvel enfant"}
+WORDS["Scores"]={3:"Les scores"}
+WORDS["sci,sup"]={3:"sci, sup"}
+WORDS["adv,neu"]={3:"adv, neu"}
+WORDS["CARD BUILDER"]={3:"CONSTRUCTEUR DE CARTES"}
+WORDS["Superheros"]={3:"Super héros"}
+WORDS["Assassin"]={3:"Assassin"}
+WORDS["Fighter"]={3:"Combattant"}
+WORDS["Ranged"]={3:"À distance"}
+WORDS["Spell"]={3:"Épeler"}
+WORDS["Tank"]={3:"Réservoir"}
+WORDS["Totem"]={3:"Totem"}
+WORDS["Trap"]={3:"Prendre au piège"}
+WORDS["Level"]={3:"Niveau"}
+WORDS["Health"]={3:"Santé"}
+WORDS["Attack"]={3:"Attaque"}
+WORDS["Drag and Drop or "]={3:"Glisser-déposer ou"}
+WORDS["Select a File"]={3:"Sélectionner un fichier"}
+WORDS["Apply"]={3:"Appliquer"}
+WORDS["Please allow up to 30 seconds to generate the image."]={3:"Veuillez prévoir jusqu'à 30 secondes pour générer l'image."}
+WORDS["Thanks to PichuZapper#8383 for the materials"]={3:"Merci à PichuZapper # 8383 pour les matériaux"}
+WORDS['''
+	
+		Here are the most recent Challenges (Chaos Mode).
+		
+		* Meta Report updated every hour if new matches were uploaded.
+		
+	''']={3:'''Voici les défis les plus récents (mode Chaos).
+
+* Meta Report mis à jour toutes les heures si de nouvelles correspondances ont été téléchargées.'''}
+WORDS["CHALLENGE"]={3:"DÉFI"}
+WORDS["Chaos: Plantmania"]={3:"Chaos: Plantmania"}
+WORDS["Chaos: The Marsh Family"]={3:"Chaos: la famille des marais"}
+WORDS["Chaos: Showdown 2020"]={3:"Chaos: Showdown 2020"}
+WORDS["Chaos: Draw Your Bows!"]={3:"Chaos: dessinez vos arcs!"}
+WORDS["Chaos: Heavy Butters"]={3:"Chaos: beurres lourds"}
+WORDS["Chaos: Flying Higher"]={3:"Chaos: voler plus haut"}
+WORDS["Chaos: Ultra Speed Crew"]={3:"Chaos: Ultra Speed ​​Crew"}
+WORDS["Chaos: Witches & Healers"]={3:"Chaos: sorcières et guérisseurs"}
+WORDS["Chaos: Come on Down to South Park"]={3:"Chaos: Descendez à South Park"}
+WORDS["Chaos: Elves vs Aliens"]={3:"Chaos: Elfes vs Aliens"}
+WORDS["Chaos: Chaos Critters"]={3:"Chaos: créatures du chaos"}
+WORDS["Chaos: Tornado"]={3:"Chaos: Tornade"}
+WORDS["Chaos: Adventurous Heroes"]={3:"Chaos: héros aventureux"}
+WORDS["Chaos: The Dark Angel's Gift"]={3:"Chaos: le cadeau de l'ange noir"}
+WORDS['''
+	
+		Download South Park Phone Destroyer™ - Battle Card Game
+		   * [For Android](https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+		   * [For iOS](https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+	
+		Download the SPPD Deck Tracker
+		   * [For PC](https://github.com/rbrasga/SPPD-Deck-Tracker)
+			  * Log your matches/packs/lockers
+		      * Link to your iOS or Android device
+			  * Installation instructions are listed in the link.
+	
+		Download the Team Manager
+		   * [For PC](https://github.com/rbrasga/SPPD-Team-Manager)
+			  * Track Team War History, Upgrade Spending, Bracket Details
+		      * Track Card Requests/Donations
+		      * Track Team Event Participation
+		      * Auto-Accept/Reject team members and assign roles
+		      * Uploads data to this website for easy viewing anywhere.
+			  * Installation instructions are listed in the link.
+		   * Or for 2$ per month, I will host your team manager instance in the cloud, running non-stop. 
+		
+		[Join the discord](https://discord.gg/m95hg3S)!
+		   * Help installing
+		   * Answer questions
+		   * Request features
+		   * Report Bugs
+			
+	''']={3:'''Télécharger South Park Phone Destroyer ™ - Battle Card Game
+* [Pour Android] (https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+* [Pour iOS] (https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+
+Téléchargez le Deck Tracker SPPD
+* [Pour PC] (https://github.com/rbrasga/SPPD-Deck-Tracker)
+* Enregistrez vos matchs / packs / casiers
+* Lien vers votre appareil iOS ou Android
+* Les instructions d'installation sont répertoriées dans le lien.
+
+Téléchargez le Team Manager
+* [Pour PC] (https://github.com/rbrasga/SPPD-Team-Manager)
+* Suivre l'historique de la guerre de l'équipe, les dépenses de mise à niveau, les détails du support
+* Suivi des demandes de cartes / dons
+* Suivre la participation aux événements de l'équipe
+* Accepter / rejeter automatiquement les membres de l'équipe et attribuer des rôles
+* Télécharge des données sur ce site Web pour une visualisation facile n'importe où.
+* Les instructions d'installation sont répertoriées dans le lien.
+* Ou pour 2 $ par mois, j'hébergerai votre instance de team manager dans le cloud, en continu.
+
+[Rejoignez la discorde] (https://discord.gg/m95hg3S)!
+* Aide à l'installation
+* Répondez aux questions
+* Demander des fonctionnalités
+* Signaler les bogues'''}
+WORDS["FIRKLE"]={3:"FIRKLE"}

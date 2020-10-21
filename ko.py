@@ -337,3 +337,31 @@ WORDS['''
 * 덱 빌더
 
 ** 자세한 내용은 [SPPD Sim Discord] (https://discord.gg/j4Wchza)에 참여하세요. **'''}
+WORDS["UNLEASH YOUR POTENTIAL"]={6:"잠재력 발휘"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={6:"Ubisoft / Redlynx와 관련이 없습니다."}
+WORDS["Live Matches"]={6:"라이브 경기"}
+WORDS["The best deck in"]={6:"최고의 데크"}
+WORDS["Support"]={6:"지원하다"}
+WORDS["The best deck in"]={6:"최고의 데크"}
+WORDS["Contact Us"]={6:"문의하기"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={6:"자신의 직급에 가장 적합한 데크 찾기"}
+WORDS["Games Last 7 Days: "]={6:"지난 7 일 동안의 게임 :"}
+WORDS["Games Today: "]={6:"오늘의 게임 :"}
+WORDS["About Us"]={6:"회사 소개"}
+WORDS["Top Cards"]={6:"탑 카드"}
+WORDS["Contributors: "]={6:"기여자 :"}
+WORDS["Become a Contributor"]={6:"기여자되기"}
+WORDS["Your Themes"]={6:"테마"}
+WORDS["Theme Matchups"]={6:"테마 대결"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={6:"카운터를 찾아라! 상대를 이길 테마를 발견하십시오."}
+WORDS["Team Name"]={6:"팀 이름"}
+WORDS["Score"]={6:"점수"}
+WORDS["Runs"]={6:"달리기"}
+WORDS["Average"]={6:"평균"}
+WORDS["Members"]={6:"회원"}
+WORDS["Projected"]={6:"예상"}
+WORDS["Maximum"]={6:"최고"}
+WORDS["Team Wars Brackets"]={6:"팀 전쟁 대진표"}
+WORDS["The Best Deck"]={6:"최고의 덱"}
+WORDS["You"]={6:"당신"}
+WORDS["Opponent"]={6:"상대"}

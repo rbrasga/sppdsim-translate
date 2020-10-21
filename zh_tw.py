@@ -444,3 +444,29 @@ WORDS['''
 *甲板建造者
 
 **加入[SPPD Sim Discord]（https://discord.gg/j4Wchza）了解更多信息。**'''}
+WORDS["UNLEASH YOUR POTENTIAL"]={7:"釋放您的潛力"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={7:"不屬於Ubisoft / Redlynx。"}
+WORDS["Support"]={7:"支持"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={7:"尋找最適合您的排名"}
+WORDS["Contact Us"]={7:"聯繫我們"}
+WORDS["The best deck in"]={7:"最好的甲板"}
+WORDS["Live Matches"]={7:"現場比賽"}
+WORDS["About Us"]={7:"關於我們"}
+WORDS["Games Last 7 Days: "]={7:"過去7天的遊戲："}
+WORDS["Top Cards"]={7:"熱門卡片"}
+WORDS["Games Today: "]={7:"今日遊戲："}
+WORDS["You"]={7:"您"}
+WORDS["Contributors: "]={7:"貢獻者："}
+WORDS["Opponent"]={7:"對手"}
+WORDS["Become a Contributor"]={7:"成為貢獻者"}
+WORDS["Theme Matchups"]={7:"主題對決"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={7:"找到櫃檯！發現將擊敗對手的主題。"}
+WORDS["Team Name"]={7:"隊名"}
+WORDS["Score"]={7:"得分了"}
+WORDS["Runs"]={7:"運行"}
+WORDS["Average"]={7:"平均"}
+WORDS["Members"]={7:"會員"}
+WORDS["Projected"]={7:"預計的"}
+WORDS["Maximum"]={7:"最大值"}
+WORDS["Team Wars Brackets"]={7:"團隊戰爭支架"}
+WORDS["The Best Deck"]={7:"最好的甲板"}

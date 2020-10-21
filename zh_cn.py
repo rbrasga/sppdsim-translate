@@ -501,3 +501,201 @@ WORDS["Base 4-3-2-1"]={8:"基地4-3-2-1"}
 WORDS["Max 6-5-4-3"]={8:"最多6-5-4-3"}
 WORDS["Max 7-6-5-4"]={8:"最多7-6-5-4"}
 WORDS["Lvl 7"]={8:"Lvl 7"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={8:"不属于Ubisoft / Redlynx。"}
+WORDS["Support"]={8:"支持"}
+WORDS["Contact Us"]={8:"联系我们"}
+WORDS["Live Matches"]={8:"现场比赛"}
+WORDS["About Us"]={8:"关于我们"}
+WORDS["Deck Builder"]={8:"甲板建造者"}
+WORDS["Games Last 7 Days: "]={8:"过去7天的游戏："}
+WORDS["The best deck in"]={8:"最好的甲板"}
+WORDS["UNLEASH YOUR POTENTIAL"]={8:"释放您的潜力"}
+WORDS["Games Today: "]={8:"今日游戏："}
+WORDS["Contributors: "]={8:"贡献者："}
+WORDS["Become a Contributor"]={8:"成为贡献者"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={8:"寻找最适合您的排名"}
+WORDS["Top Cards"]={8:"热门卡片"}
+WORDS["You"]={8:"您"}
+WORDS["Opponent"]={8:"对手"}
+WORDS["Theme Matchups"]={8:"主题对决"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={8:"找到柜台！发现将击败对手的主题。"}
+WORDS["Team Name"]={8:"队名"}
+WORDS["Runs"]={8:"运行"}
+WORDS["Average"]={8:"平均"}
+WORDS["Projected"]={8:"预计的"}
+WORDS["Maximum"]={8:"最大值"}
+WORDS["Team Wars Brackets"]={8:"团队战争支架"}
+WORDS["The Best Deck"]={8:"最好的甲板"}
+WORDS["CARD BUILDER"]={8:"卡制造商"}
+WORDS["Theme"]={8:"主题"}
+WORDS["Superheros"]={8:"超级英雄"}
+WORDS["Assassin"]={8:"刺客"}
+WORDS["Fighter"]={8:"战斗机"}
+WORDS["Ranged"]={8:"射程"}
+WORDS["Spell"]={8:"拼写"}
+WORDS["Tank"]={8:"坦克"}
+WORDS["Totem"]={8:"图腾"}
+WORDS["Trap"]={8:"陷阱"}
+WORDS["Level"]={8:"水平"}
+WORDS["Health"]={8:"健康"}
+WORDS["Attack"]={8:"攻击"}
+WORDS["Drag and Drop or "]={8:"拖放或"}
+WORDS["Select a File"]={8:"选择一个文件"}
+WORDS["Apply"]={8:"应用"}
+WORDS["Please allow up to 30 seconds to generate the image."]={8:"请最多等待30秒以生成图像。"}
+WORDS["Thanks to PichuZapper#8383 for the materials"]={8:"感谢PichuZapper＃8383提供的材料"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={8:'''以下是使用算法构建的元卡片组，该算法可按主题查找配对最多的卡片组合。
+
+*可能没有人使用这个确切的牌组。
+*最好的猜测是如果您的对手运行这些主题组合会发生什么。
+*受挑战模式和卡使用事件的影响很大，因此请每天在此处检查。
+*每天刷新。'''}
+WORDS["adv,sci"]={8:"adv，sci"}
+WORDS["mys,sci"]={8:"mys，sci"}
+WORDS["adv,mys"]={8:"adv，mys"}
+WORDS["fan,sci"]={8:"风扇，科学"}
+WORDS["adv,fan"]={8:"副词"}
+WORDS["mys,sup"]={8:"我的，一口"}
+WORDS["fan,mys"]={8:"风扇，我的"}
+WORDS["adv,sup"]={8:"副词"}
+WORDS["sci,sup"]={8:"科学，技术"}
+WORDS["fan,sup"]={8:"风扇，一口"}
+WORDS["Average Deck Cost"]={8:"平均甲板成本"}
+WORDS["Energy"]={8:"能源"}
+WORDS["Percent"]={8:"百分"}
+WORDS['''
+	
+		Here is deck builder using real-world data based on the win rate of themes and cards over 80k+ PVP matches.
+		
+		You can become a contributor by download the SPPD Deck Tracker and uploading your matches.
+		
+		* No one might be using this exact deck.
+		* This data is from ALL Ranks at the moment.
+		* Specific data sets will be coming in the future, so you can narrow down card win rate by Arena.
+		
+		How To Use:
+		
+		* To build your best deck, select your favorite theme or themes.
+		* If you have one or more favorite cards, you can select those too.
+		* If you want to specifically counter one or more cards or themes, select those in your opponent's deck.
+		
+	''']={8:'''这是根据主题和纸牌超过80k + PVP比赛的获胜率使用真实数据的套牌制造商。
+
+您可以通过下载SPPD Deck Tracker并上传您的比赛来成为贡献者。
+
+*可能没有人使用这个确切的牌组。
+*此数据目前来自所有等级。
+*将来会有特定的数据集，因此您可以按Arena来缩小卡赢率。
+
+如何使用：
+
+*要建立最好的套牌，请选择您喜欢的一个或多个主题。
+*如果您有一张或多张喜欢的卡，也可以选择它们。
+*如果您想专门对抗一张或多张纸牌或主题，请选择对手卡组中的那些。'''}
+WORDS["Your Themes"]={8:"您的主题"}
+WORDS["Opponent's Themes"]={8:"对手的主题"}
+WORDS["Your Cards"]={8:"您的卡"}
+WORDS["Blacklist Cards"]={8:"黑名单卡"}
+WORDS["Opponent's Cards"]={8:"对手卡"}
+WORDS["FIRKLE"]={8:"菲克尔"}
+WORDS["HYPERDRIVE"]={8:"超级驱动器"}
+WORDS["LAVA!"]={8:"岩浆！"}
+WORDS["UNKNOWN"]={8:"未知"}
+WORDS["Time"]={8:"时间"}
+WORDS["Remaining Time"]={8:"剩余时间"}
+WORDS["Region"]={8:"地区"}
+WORDS["Opponent Disconnected"]={8:"对手断开"}
+WORDS["Team"]={8:"球队"}
+WORDS["NK"]={8:"NK"}
+WORDS["MMR"]={8:"MMR"}
+WORDS["PVP"]={8:"PVP"}
+WORDS["WIN"]={8:"赢得"}
+WORDS["LOSS"]={8:"失利"}
+WORDS['''
+	
+		Download South Park Phone Destroyer™ - Battle Card Game
+		   * [For Android](https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+		   * [For iOS](https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+	
+		Download the SPPD Deck Tracker
+		   * [For PC](https://github.com/rbrasga/SPPD-Deck-Tracker)
+			  * Log your matches/packs/lockers
+		      * Link to your iOS or Android device
+			  * Installation instructions are listed in the link.
+	
+		Download the Team Manager
+		   * [For PC](https://github.com/rbrasga/SPPD-Team-Manager)
+			  * Track Team War History, Upgrade Spending, Bracket Details
+		      * Track Card Requests/Donations
+		      * Track Team Event Participation
+		      * Auto-Accept/Reject team members and assign roles
+		      * Uploads data to this website for easy viewing anywhere.
+			  * Installation instructions are listed in the link.
+		   * Or for 2$ per month, I will host your team manager instance in the cloud, running non-stop. 
+		
+		[Join the discord](https://discord.gg/m95hg3S)!
+		   * Help installing
+		   * Answer questions
+		   * Request features
+		   * Report Bugs
+			
+	''']={8:'''下载South Park Phone Destroyer™-战斗纸牌游戏
+* [对于Android]（https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire）
+* [适用于iOS]（https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030）
+
+下载SPPD甲板跟踪器
+* [对于PC]（https://github.com/rbrasga/SPPD-Deck-Tracker）
+*记录您的火柴/包装/储物柜
+*链接到您的iOS或Android设备
+*安装说明在链接中列出。
+
+下载团队经理
+* [对于PC]（https://github.com/rbrasga/SPPD-Team-Manager）
+*跟踪团队战争历史，升级支出，支架详细信息
+*跟踪卡请求/捐赠
+*跟踪团队活动的参与
+*自动接受/拒绝团队成员并分配角色
+*将数据上传到此网站，以便随时随地查看。
+*安装说明在链接中列出。
+*或每月2美元，我将在云中托管您的团队经理实例，并且不间断运行。
+
+[加入不和谐]（https://discord.gg/m95hg3S）！
+*帮助安装
+* 回答问题
+*请求功能
+*报告错误'''}
+WORDS['''
+	
+		Here is your collection. You must input this information manually.
+		
+		* Linked to the SPPD account you set as your primary.
+		* Allows your team to make better decisions about card levels during team wars.
+		* Stored on every change (no need to click save)
+		
+	''']={8:'''这是您的收藏。您必须手动输入此信息。
+
+*链接到您设置为主要帐户的SPPD帐户。
+*使您的团队在团队战争中可以对卡级别做出更好的决策。
+*存储在每个更改上（无需单击保存）'''}
+WORDS["MY CARDS"]={8:"我的卡"}
+WORDS['''
+	
+		Here are your matches.
+		
+		* The SPPD Deck Tracker can optionally upload your matches.
+		* Your matches with other players are listed here, if they uploaded the match with the SPPD Deck Tracker.
+		
+	''']={8:'''这是您的比赛。
+
+* SPPD Deck Tracker可以选择上传您的比赛。
+*如果您与其他球员的比赛通过SPPD甲板追踪器上传，则此处列出了您与他们的比赛。'''}
+WORDS["MY MATCHES"]={8:"我的比赛"}

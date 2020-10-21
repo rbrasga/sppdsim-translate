@@ -823,3 +823,28 @@ WORDS['''
 * L'SPPD Deck Tracker può opzionalmente caricare le tue partite.
 * Le tue partite con altri giocatori sono elencate qui, se hanno caricato la partita con l'SPPD Deck Tracker.'''}
 WORDS["MY MATCHES"]={4:"LE MIE PARTITE"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={4:"Non affiliato con Ubisoft / Redlynx."}
+WORDS["Support"]={4:"Supporto"}
+WORDS["Contact Us"]={4:"Contattaci"}
+WORDS["About Us"]={4:"Riguardo a noi"}
+WORDS["UNLEASH YOUR POTENTIAL"]={4:"LIBERA IL TUO POTENZIALE"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={4:"TROVA IL MIGLIOR MAZZO PER IL TUO GRADO"}
+WORDS["The best deck in"]={4:"Il miglior mazzo in"}
+WORDS["Live Matches"]={4:"Partite in diretta"}
+WORDS["Top Cards"]={4:"Migliori carte"}
+WORDS["Games Last 7 Days: "]={4:"Giochi negli ultimi 7 giorni:"}
+WORDS["Games Today: "]={4:"Giochi oggi:"}
+WORDS["You"]={4:"voi"}
+WORDS["Contributors: "]={4:"Contributori:"}
+WORDS["Opponent"]={4:"Avversario"}
+WORDS["Become a Contributor"]={4:"Diventa un collaboratore"}
+WORDS["Theme Matchups"]={4:"Abbinamenti a tema"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={4:"Trova il bancone! Scopri i temi che batteranno il tuo avversario."}
+WORDS["Team Name"]={4:"Nome della squadra"}
+WORDS["Runs"]={4:"Corre"}
+WORDS["Average"]={4:"Media"}
+WORDS["Projected"]={4:"Progettato"}
+WORDS["Maximum"]={4:"Massimo"}
+WORDS["Team Wars Brackets"]={4:"Staffe Team Wars"}
+WORDS["The Best Deck"]={4:"Il miglior mazzo"}
+WORDS["FIRKLE"]={4:"FIRKLE"}

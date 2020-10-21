@@ -592,3 +592,193 @@ WORDS["FRIAR JIMMY"]={10:"FRIAR JIMMY"}
 WORDS["BARREL DOUGIE"]={10:"BARREL DOUGIE"}
 WORDS["LAVA!"]={10:"LAWA!"}
 WORDS["SHAMAN TOKEN"]={10:"ŻETON SZAMANA"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={10:"Nie jest powiązany z Ubisoft / Redlynx."}
+WORDS["Support"]={10:"Wsparcie"}
+WORDS["Contact Us"]={10:"Skontaktuj się z nami"}
+WORDS["About Us"]={10:"O nas"}
+WORDS["UNLEASH YOUR POTENTIAL"]={10:"UWOLNIJ SWÓJ POTENCJAŁ"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={10:"ZNAJDŹ NAJLEPSZĄ TALĘ DLA SWOJEJ RANKI"}
+WORDS["Top Cards"]={10:"Najlepsze karty"}
+WORDS["Live Matches"]={10:"Mecze na żywo"}
+WORDS["Your Themes"]={10:"Twoje motywy"}
+WORDS["Theme Matchups"]={10:"Tematyczne pojedynki"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={10:"Znajdź licznik! Odkryj motywy, które pokonają Twojego przeciwnika."}
+WORDS["Team Name"]={10:"Nazwa drużyny"}
+WORDS["Runs"]={10:"Działa"}
+WORDS["Average"]={10:"Średni"}
+WORDS["Projected"]={10:"Przewidywane"}
+WORDS["Maximum"]={10:"Maksymalny"}
+WORDS["Team Wars Brackets"]={10:"Wsporniki Team Wars"}
+WORDS["The Best Deck"]={10:"Najlepsza talia"}
+WORDS["Games Last 7 Days: "]={10:"Gry w ostatnich 7 dniach:"}
+WORDS["Games Today: "]={10:"Gry dzisiaj:"}
+WORDS["The best deck in"]={10:"Najlepsza talia"}
+WORDS["Contributors: "]={10:"Współtwórcy:"}
+WORDS["Become a Contributor"]={10:"Zostań współtwórcą"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={10:'''Oto kombinacje meta motywów według poziomu i ram czasowych.
+
+* W zależności od ram czasowych, na raport może mieć wpływ tryb wyzwania lub zdarzenia związane z użyciem karty.
+* Filtruj według szerokiej gamy opcji!
+* Odświeżane każdego dnia.'''}
+WORDS["THEMES"]={10:"TEMATY"}
+WORDS["mys,sci"]={10:"mys, sci"}
+WORDS["adv,mys"]={10:"adv, mys"}
+WORDS["adv,sci"]={10:"adv, sci"}
+WORDS["adv,fan"]={10:"adv, fan"}
+WORDS["fan,sci"]={10:"fan, sci"}
+WORDS["fan,mys"]={10:"fan, mys"}
+WORDS["Unknown,mys,sup"]={10:"Nieznane, mys, sup"}
+WORDS["Unknown,adv,sup"]={10:"Nieznane, przysł"}
+WORDS["mys,sup"]={10:"mys, co tam"}
+WORDS["adv,sup"]={10:"przysł"}
+WORDS["sci,sup"]={10:"sci, sup"}
+WORDS["fan,sup"]={10:"wentylator, sup"}
+WORDS["Unknown,sci,sup"]={10:"Nieznane, sci, sup"}
+WORDS["Unknown,fan,sup"]={10:"Nieznany, fan, sup"}
+WORDS["sup,neu"]={10:"sup, neu"}
+WORDS["Unknown,sup"]={10:"Nieznane, sup"}
+WORDS["fan,neu"]={10:"fan, neu"}
+WORDS["All Live Brackets"]={10:"Wszystkie wsporniki na żywo"}
+WORDS['''
+		
+		At least one player on one team in a bracket is using the SPPD Team Manager App.
+		
+		If you want to see your bracket:
+		
+		* **Run the Team Manager App 24/7 in the CLOUD for 2$ per month.**
+		* OR [Download](https://sppdreplay.net/downloads) the SPPD Team Manager App and run it on your own PC.
+		
+		Click the Bracket ID to see that specific bracket and subscribe for email updates.
+		
+	''']={10:'''Co najmniej jeden zawodnik jednej drużyny w drabince korzysta z aplikacji SPPD Team Manager.
+
+Jeśli chcesz zobaczyć swój nawias:
+
+* ** Uruchom aplikację Team Manager 24 godziny na dobę, 7 dni w tygodniu w chmurze za 2 $ miesięcznie. **
+* LUB [Pobierz] (https://sppdreplay.net/downloads) aplikację SPPD Team Manager i uruchom ją na swoim komputerze.
+
+Kliknij identyfikator nawiasu, aby zobaczyć ten konkretny nawias i zasubskrybuj aktualizacje e-mail.'''}
+WORDS["Gold"]={10:"Złoto"}
+WORDS["Bronze"]={10:"Brązowy"}
+WORDS["Wood"]={10:"Drewno"}
+WORDS["Summary"]={10:"streszczenie"}
+WORDS["Showdown 2020!"]={10:"Showdown 2020!"}
+WORDS["Solo+Team"]={10:"Solo + Team"}
+WORDS["Team War - Week 90 - MYSSUP"]={10:"Wojna drużynowa - tydzień 90 - MYSSUP"}
+WORDS["Solo"]={10:"Solo"}
+WORDS["Plantmania"]={10:"Plantmania"}
+WORDS["Human Kite"]={10:"Human Kite"}
+WORDS["Mary Jane Randy"]={10:"Mary Jane Randy"}
+WORDS["The Marsh Family"]={10:"Rodzina Marshów"}
+WORDS["Team War - Week 89 - SCIFANSUP"]={10:"Wojna drużynowa - tydzień 89 - SCIFANSUP"}
+WORDS["Crafting Table"]={10:"Stół Rzemieślniczy"}
+WORDS["City Wok Guy"]={10:"Miasto Wok Guy"}
+WORDS["Coins Galore!"]={10:"Bród monet!"}
+WORDS["Team War - Week 88 - ADVMYS"]={10:"Wojna drużynowa - tydzień 88 - ADVMYS"}
+WORDS["The Thunderbird"]={10:"Thunderbird"}
+WORDS["Draw Your Bows!"]={10:"Narysuj swoje łuki!"}
+WORDS["Upgrade Frenzy!"]={10:"Upgrade Frenzy!"}
+WORDS["Team War - Week 87 - ADVSCIMYS"]={10:"Wojna drużynowa - tydzień 87 - ADVSCIMYS"}
+WORDS["Choirboy Butters"]={10:"Choirboy Butters"}
+WORDS["Heavy Butters"]={10:"Masła ciężkie"}
+WORDS["Team War - Week 86 - SCIFAN"]={10:"Wojna drużynowa - tydzień 86 - SCIFAN"}
+WORDS["Solo/Team"]={10:"Solo / Team"}
+WORDS["Start"]={10:"Początek"}
+WORDS["End"]={10:"Koniec"}
+WORDS["Total Packs"]={10:"Razem paczek"}
+WORDS["Points Required For Pack"]={10:"Punkty wymagane za pakiet"}
+WORDS["1"]={10:"1"}
+WORDS["2"]={10:"2"}
+WORDS["3"]={10:"3"}
+WORDS["4"]={10:"4"}
+WORDS["5"]={10:"5"}
+WORDS["6"]={10:"6"}
+WORDS["7"]={10:"7"}
+WORDS["8"]={10:"8"}
+WORDS["Today's Events"]={10:"Dzisiejsze wydarzenia"}
+WORDS["Events History - 1 Month"]={10:"Historia wydarzeń - 1 miesiąc"}
+WORDS["Total"]={10:"Całkowity"}
+WORDS["N/A"]={10:"Nie dotyczy"}
+WORDS["Number"]={10:"Numer"}
+WORDS["Common"]={10:"Wspólny"}
+WORDS["Rare"]={10:"Rzadko spotykany"}
+WORDS["Epic"]={10:"Epicki"}
+WORDS["Legendary"]={10:"Legendarny"}
+WORDS["Currency"]={10:"Waluta"}
+WORDS["Coins"]={10:"Monety"}
+WORDS["Cash"]={10:"Gotówka"}
+WORDS["PVP Tickets"]={10:"Bilety PVP"}
+WORDS["Materials"]={10:"Materiały"}
+WORDS["Details"]={10:"Detale"}
+WORDS["Mission"]={10:"Misja"}
+WORDS["Packs details: Guaranteed (chance for one extra)"]={10:"Szczegóły pakietów: gwarantowane (szansa na jeden dodatkowy)"}
+WORDS["You"]={10:"ty"}
+WORDS["Opponent"]={10:"Przeciwnik"}
+WORDS["Showdown 2020 Winner"]={10:"Zwycięzca Showdown 2020"}
+WORDS["Team War - Week 91 - SPECIAL"]={10:"Wojna drużynowa - tydzień 91 - SPECJALNA"}
+WORDS["Card Usage"]={10:"Wykorzystanie karty"}
+WORDS['''
+	
+		Here is your collection. You must input this information manually.
+		
+		* Linked to the SPPD account you set as your primary.
+		* Allows your team to make better decisions about card levels during team wars.
+		* Stored on every change (no need to click save)
+		
+	''']={10:'''Oto twoja kolekcja. Musisz wprowadzić te informacje ręcznie.
+
+* Powiązane z kontem SPPD, które ustawiłeś jako podstawowe.
+* Pozwala twojemu zespołowi podejmować lepsze decyzje dotyczące poziomów kart podczas wojen drużyn.
+* Przechowywane przy każdej zmianie (nie trzeba klikać przycisku Zapisz)'''}
+WORDS["MY CARDS"]={10:"MOJE KARTY"}
+WORDS['''
+	
+		Thank you for using my website. I originally designed this project to make my life easier, but I'm happy to see that it makes other people's lives easier as well.
+		
+		All these services (website) and apps (Deck Tracker, Team Manager) were written by me, in my free time...
+		Occasionally with a sleeping baby strapped to my chest.
+		
+		I work full-time supporting my wife and three boys. Here's a picture of Me and My Boys:
+		
+		![Me and My Boys](https://i.imgur.com/Kq0M6Oj.jpg)
+		
+		
+		I pay for everything out of my own pocket. And I feel that it would be really nice if some of you guys could help a father out with some donations, so that my hobby could finally stop taking money out of my pocket.
+		
+		If your team uses my services, please consider a $1.00 donation per month...
+		OR donate 1$ per month to your favorite charity and share the receipt with me on the [SPPD Sim Discord](https://discord.gg/j4Wchza).
+		
+		My goal for this project was to improve the community by bringing everyone together, not to make a fortune.
+		
+		Sincerely,
+		-Remington
+		
+	''']={10:'''Dziękuję za skorzystanie z mojej strony. Pierwotnie zaprojektowałem ten projekt, aby ułatwić sobie życie, ale cieszę się, że ułatwia to życie innym ludziom.
+
+Wszystkie te usługi (strona internetowa) i aplikacje (Deck Tracker, Team Manager) zostały napisane przeze mnie w wolnym czasie ...
+Czasami ze śpiącym dzieckiem przypiętym do piersi.
+
+Pracuję na pełny etat, wspierając żonę i trzech chłopców. Oto zdjęcie przedstawiające mnie i moich chłopców:
+
+! [Ja i moi chłopcy] (https://i.imgur.com/Kq0M6Oj.jpg)
+
+
+Płacę za wszystko z własnej kieszeni. I czuję, że byłoby naprawdę miło, gdyby niektórzy z was pomogli ojcu przekazując darowizny, aby moje hobby w końcu przestało wyciągać pieniądze z kieszeni.
+
+Jeśli Twój zespół korzysta z moich usług, rozważ darowiznę w wysokości 1,00 USD miesięcznie ...
+LUB przekaż 1 $ miesięcznie na swoją ulubioną organizację charytatywną i udostępnij mi rachunek na [SPPD Sim Discord] (https://discord.gg/j4Wchza).
+
+Moim celem w tym projekcie było polepszenie społeczności poprzez zjednoczenie wszystkich, a nie zbicie fortuny.
+
+Z poważaniem,
+-Remington'''}
+WORDS["Firkle"]={10:"Firkle"}
+WORDS["Firkle and the Kindergartners"]={10:"Firkle i przedszkolaki"}

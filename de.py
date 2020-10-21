@@ -671,3 +671,289 @@ WORDS["Requests"]={2:"Anfragen"}
 WORDS["Applications"]={2:"Anwendungen"}
 WORDS["Bronze"]={2:"Bronze"}
 WORDS["Gold"]={2:"Gold"}
+WORDS["Not affiliated with Ubisoft/Redlynx."]={2:"Nicht mit Ubisoft / Redlynx verbunden."}
+WORDS["UNLEASH YOUR POTENTIAL"]={2:"ENTFERNEN SIE IHR POTENZIAL"}
+WORDS["Support"]={2:"Unterstützung"}
+WORDS["Contact Us"]={2:"Kontaktiere uns"}
+WORDS["FIND THE BEST DECK FOR YOUR RANK"]={2:"Finden Sie das beste Deck für Ihren Rang"}
+WORDS["About Us"]={2:"Über uns"}
+WORDS["Top Cards"]={2:"Top Karten"}
+WORDS["Live Matches"]={2:"Live-Spiele"}
+WORDS["Your Themes"]={2:"Ihre Themen"}
+WORDS["Theme Matchups"]={2:"Theme Matchups"}
+WORDS["Find the counter! Discover the themes that will beat your opponent."]={2:"Finde den Schalter! Entdecken Sie die Themen, die Ihren Gegner schlagen werden."}
+WORDS["Team Name"]={2:"Teamname"}
+WORDS["Runs"]={2:"Läuft"}
+WORDS["Average"]={2:"Durchschnittlich"}
+WORDS["Projected"]={2:"Projiziert"}
+WORDS["Maximum"]={2:"Maximal"}
+WORDS["Team Wars Brackets"]={2:"Team Wars Klammern"}
+WORDS["The Best Deck"]={2:"Das beste Deck"}
+WORDS["The best deck in"]={2:"Das beste Deck in"}
+WORDS["Games Last 7 Days: "]={2:"Spiele der letzten 7 Tage:"}
+WORDS["Games Today: "]={2:"Spiele heute:"}
+WORDS["Contributors: "]={2:"Mitwirkende:"}
+WORDS["Become a Contributor"]={2:"Werden Sie Mitwirkender"}
+WORDS["You"]={2:"Du"}
+WORDS["Opponent"]={2:"Gegner"}
+WORDS["Unknown,mys,sup"]={2:"Unbekannt, mys, sup"}
+WORDS["Unknown,adv,sup"]={2:"Unbekannt, adv, sup"}
+WORDS["Unknown,sci,sup"]={2:"Unbekannt, sci, sup"}
+WORDS["Unknown,fan,sup"]={2:"Unbekannt, Fan, sup"}
+WORDS["Unknown,sup"]={2:"Unbekannt, sup"}
+WORDS["fan,neu"]={2:"Fan, neu"}
+WORDS['''
+	
+		Here are the most recent matches.
+		
+		* Matches uploaded using the SPPD Deck Tracker.
+		* Filter by wide range of choices!
+		   * Ranked OR Challenge Mode
+		   * Specific Rank, like 8500+
+		* Live! - See the matches as soon as they complete.
+		
+	''']={2:'''Hier sind die letzten Spiele.
+
+* Übereinstimmungen, die mit dem SPPD Deck Tracker hochgeladen wurden.
+* Filtern Sie nach einer großen Auswahl!
+* Ranglisten- ODER Herausforderungsmodus
+* Spezifischer Rang, wie 8500+
+* Wohnen! - Sehen Sie die Spiele, sobald sie abgeschlossen sind.'''}
+WORDS["MATCHES"]={2:"STREICHHÖLZER"}
+WORDS["8500+"]={2:"8500+"}
+WORDS["7500-8500"]={2:"7500-8500"}
+WORDS["6500-7500"]={2:"6500-7500"}
+WORDS["5500-6500"]={2:"5500-6500"}
+WORDS["4500-5500"]={2:"4500-5500"}
+WORDS["3500-4500"]={2:"3500-4500"}
+WORDS["2500-3500"]={2:"2500-3500"}
+WORDS["1500-2500"]={2:"1500-2500"}
+WORDS["500-1500"]={2:"500-1500"}
+WORDS["-500-500"]={2:"-500-500"}
+WORDS["Match Type"]={2:"Übereinstimmungstyp"}
+WORDS["Time"]={2:"Zeit"}
+WORDS["Player 1"]={2:"Spieler 1"}
+WORDS["MMR1"]={2:"MMR1"}
+WORDS["NK1"]={2:"NK1"}
+WORDS["Player 2"]={2:"Spieler 2"}
+WORDS["MMR2"]={2:"MMR2"}
+WORDS["NK2"]={2:"NK2"}
+WORDS["Win Rate"]={2:"Gewinnrate"}
+WORDS["New Kid"]={2:"Neues Kind"}
+WORDS["Scores"]={2:"Scores"}
+WORDS["Wooden"]={2:"Hölzern"}
+WORDS['''
+	
+		Here is deck builder using real-world data based on the win rate of themes and cards over 80k+ PVP matches.
+		
+		You can become a contributor by download the SPPD Deck Tracker and uploading your matches.
+		
+		* No one might be using this exact deck.
+		* This data is from ALL Ranks at the moment.
+		* Specific data sets will be coming in the future, so you can narrow down card win rate by Arena.
+		
+		How To Use:
+		
+		* To build your best deck, select your favorite theme or themes.
+		* If you have one or more favorite cards, you can select those too.
+		* If you want to specifically counter one or more cards or themes, select those in your opponent's deck.
+		
+	''']={2:'''Hier ist der Deckbauer, der reale Daten verwendet, die auf der Gewinnrate von Themen und Karten über 80.000 PVP-Übereinstimmungen basieren.
+
+Sie können einen Beitrag leisten, indem Sie den SPPD Deck Tracker herunterladen und Ihre Übereinstimmungen hochladen.
+
+* Niemand könnte genau dieses Deck verwenden.
+* Diese Daten stammen derzeit aus ALLEN Rängen.
+* Spezifische Datensätze werden in Zukunft verfügbar sein, sodass Sie die Kartengewinnrate nach Arena eingrenzen können.
+
+Wie benutzt man:
+
+* Um dein bestes Deck zu erstellen, wähle dein Lieblingsthema oder deine Lieblingsthemen aus.
+* Wenn Sie eine oder mehrere Lieblingskarten haben, können Sie diese auch auswählen.
+* Wenn Sie eine oder mehrere Karten oder Themen gezielt kontern möchten, wählen Sie diese im Deck Ihres Gegners aus.'''}
+WORDS["CARD STATS"]={2:"KARTENSTATISTIKEN"}
+WORDS["Adventure"]={2:"Abenteuer"}
+WORDS["Sci-Fi"]={2:"Sci-Fi"}
+WORDS["Mystical"]={2:"Mystisch"}
+WORDS["Fantasy"]={2:"Fantasie"}
+WORDS["Superheroes"]={2:"Superhelden"}
+WORDS["Neutral"]={2:"Neutral"}
+WORDS["Legendary"]={2:"Legendär"}
+WORDS["Epic"]={2:"Epos"}
+WORDS["Rare"]={2:"Selten"}
+WORDS["Common"]={2:"Verbreitet"}
+WORDS["Opponent's Themes"]={2:"Themen des Gegners"}
+WORDS["Your Cards"]={2:"Deine Karten"}
+WORDS["Blacklist Cards"]={2:"Blacklist-Karten"}
+WORDS["Opponent's Cards"]={2:"Karten des Gegners"}
+WORDS["NELLY"]={2:"NELLY"}
+WORDS["MAYOR MCDANIELS"]={2:"BÜRGERMEISTER MCDANIELS"}
+WORDS["NATHAN"]={2:"NATHAN"}
+WORDS["PC PRINCIPAL"]={2:"PC PRINCIPAL"}
+WORDS["STARVIN' MARVIN"]={2:"STARVIN 'MARVIN"}
+WORDS["TERRANCE MEPHESTO"]={2:"TERRANCE MEPHESTO"}
+WORDS["MIMSY"]={2:"MIMSY"}
+WORDS["OFFICER BARBRADY"]={2:"OFFIZIER BARBRADY"}
+WORDS["GUNSLINGER KYLE"]={2:"GUNSLINGER KYLE"}
+WORDS["SHAMAN TOKEN"]={2:"Schamane"}
+WORDS["BARREL DOUGIE"]={2:"FASS DOUGIE"}
+WORDS["OUTLAW TWEEK"]={2:"OUTLAW TWEEK"}
+WORDS["ALIEN CLYDE"]={2:"ALIEN CLYDE"}
+WORDS["HYPERDRIVE"]={2:"HYPERDRIVE"}
+WORDS["MARINE CRAIG"]={2:"MARINE CRAIG"}
+WORDS["FRIAR JIMMY"]={2:"Bruder Jimy"}
+WORDS["POSEIDON STAN"]={2:"POSEIDON STAN"}
+WORDS["DARK MAGE CRAIG"]={2:"DARK MAGE CRAIG"}
+WORDS["LAVA!"]={2:"LAVA!"}
+WORDS["MARY JANE RANDY"]={2:"MARY JANE RANDY"}
+WORDS["UNKNOWN"]={2:"UNBEKANNT"}
+WORDS['''
+	
+		Here are the meta decks built using an algorithm that finds the most paired card combinations by theme.
+		
+		* No one might be using this exact deck.
+		* Best guess for what to expect if your opponent were running these theme combinations.
+		* Strongly affected by challenge mode and card usage events, so check here daily.
+		* Refreshed every day.
+		
+	''']={2:'''Hier sind die Meta-Decks, die mit einem Algorithmus erstellt wurden, der die am häufigsten gepaarten Kartenkombinationen nach Thema findet.
+
+* Niemand könnte genau dieses Deck verwenden.
+* Beste Vermutung, was zu erwarten ist, wenn Ihr Gegner diese Themenkombinationen ausführt.
+* Stark vom Herausforderungsmodus und Kartennutzungsereignissen betroffen. Überprüfen Sie dies daher täglich hier.
+* Jeden Tag aktualisiert.'''}
+WORDS["Average Deck Cost"]={2:"Durchschnittliche Deckkosten"}
+WORDS["Energy"]={2:"Energie"}
+WORDS["Theme"]={2:"Thema"}
+WORDS["FIRKLE"]={2:"FIRKLE"}
+WORDS['''
+	
+		Download South Park Phone Destroyer™ - Battle Card Game
+		   * [For Android](https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+		   * [For iOS](https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+	
+		Download the SPPD Deck Tracker
+		   * [For PC](https://github.com/rbrasga/SPPD-Deck-Tracker)
+			  * Log your matches/packs/lockers
+		      * Link to your iOS or Android device
+			  * Installation instructions are listed in the link.
+	
+		Download the Team Manager
+		   * [For PC](https://github.com/rbrasga/SPPD-Team-Manager)
+			  * Track Team War History, Upgrade Spending, Bracket Details
+		      * Track Card Requests/Donations
+		      * Track Team Event Participation
+		      * Auto-Accept/Reject team members and assign roles
+		      * Uploads data to this website for easy viewing anywhere.
+			  * Installation instructions are listed in the link.
+		   * Or for 2$ per month, I will host your team manager instance in the cloud, running non-stop. 
+		
+		[Join the discord](https://discord.gg/m95hg3S)!
+		   * Help installing
+		   * Answer questions
+		   * Request features
+		   * Report Bugs
+			
+	''']={2:'''Laden Sie das South Park Phone Destroyer ™ - Battle-Kartenspiel herunter
+* [Für Android] (https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire)
+* [Für iOS] (https://apps.apple.com/us/app/south-park-phone-destroyer/id1106442030)
+
+Laden Sie den SPPD Deck Tracker herunter
+* [Für PC] (https://github.com/rbrasga/SPPD-Deck-Tracker)
+* Protokollieren Sie Ihre Streichhölzer / Packs / Schließfächer
+* Link zu Ihrem iOS- oder Android-Gerät
+* Installationsanweisungen sind im Link aufgeführt.
+
+Laden Sie den Team Manager herunter
+* [Für PC] (https://github.com/rbrasga/SPPD-Team-Manager)
+* Verfolgen Sie die Team-Kriegshistorie, die Upgrade-Ausgaben und die Bracket-Details
+* Track Card Anfragen / Spenden
+* Verfolgen Sie die Teilnahme an Team-Events
+* Teammitglieder automatisch akzeptieren / ablehnen und Rollen zuweisen
+* Lädt Daten auf diese Website hoch, um sie überall einfach anzeigen zu können.
+* Installationsanweisungen sind im Link aufgeführt.
+* Oder für 2 $ pro Monat werde ich Ihre Teammanager-Instanz in der Cloud hosten und ohne Unterbrechung ausführen.
+
+[Tritt der Zwietracht bei] (https://discord.gg/m95hg3S)!
+* Hilfe bei der Installation
+* Fragen beantworten
+* Funktionen anfordern
+* Fehler melden'''}
+WORDS['''
+	
+		Here is your collection. You must input this information manually.
+		
+		* Linked to the SPPD account you set as your primary.
+		* Allows your team to make better decisions about card levels during team wars.
+		* Stored on every change (no need to click save)
+		
+	''']={2:'''Hier ist deine Sammlung. Sie müssen diese Informationen manuell eingeben.
+
+* Verknüpft mit dem SPPD-Konto, das Sie als primäres Konto festgelegt haben.
+* Ermöglicht Ihrem Team, während Teamkriegen bessere Entscheidungen über Kartenlevel zu treffen.
+* Bei jeder Änderung gespeichert (kein Speichern erforderlich)'''}
+WORDS["MY CARDS"]={2:"MEINE KARTEN"}
+WORDS["Connected Accounts"]={2:"Verbundene Konten"}
+WORDS["Add Account"]={2:"Konto hinzufügen"}
+WORDS["Your Tracking ID"]={2:"Ihre Tracking-ID"}
+WORDS["Add"]={2:"Hinzufügen"}
+WORDS['''
+		
+			**How do I find my TRACKING ID?**
+			
+			1. Go to SPPD's In-Game Settings
+			
+			![Settings](https://i.imgur.com/IL2VXGQ.png)
+			
+			2. Scroll to the bottom
+			
+			![Tracking ID](https://i.imgur.com/zxeD4NS.png)
+			
+			If you have any questions: [Join the discord](https://discord.gg/m95hg3S)!
+				
+		''']={2:'''** Wie finde ich meine TRACKING ID? **
+
+1. Gehen Sie zu den SPPD-Einstellungen im Spiel
+
+! [Einstellungen] (https://i.imgur.com/IL2VXGQ.png)
+
+2. Scrollen Sie nach unten
+
+! [Tracking ID] (https://i.imgur.com/zxeD4NS.png)
+
+Wenn Sie Fragen haben: [Treten Sie der Zwietracht bei] (https://discord.gg/m95hg3S)!'''}
+WORDS["CARD BUILDER"]={2:"Kartenbauer"}
+WORDS["Superheros"]={2:"Superhelden"}
+WORDS["Assassin"]={2:"Attentäter"}
+WORDS["Fighter"]={2:"Kämpfer"}
+WORDS["Ranged"]={2:"Fernkampf"}
+WORDS["Spell"]={2:"Buchstabieren"}
+WORDS["Tank"]={2:"Panzer"}
+WORDS["Totem"]={2:"Totem"}
+WORDS["Trap"]={2:"Falle"}
+WORDS["Level"]={2:"Niveau"}
+WORDS["Health"]={2:"Gesundheit"}
+WORDS["Attack"]={2:"Attacke"}
+WORDS["Drag and Drop or "]={2:"Drag and Drop oder"}
+WORDS["Select a File"]={2:"Wählen Sie eine Datei aus"}
+WORDS["Apply"]={2:"Anwenden"}
+WORDS["Please allow up to 30 seconds to generate the image."]={2:"Bitte erlauben Sie bis zu 30 Sekunden, um das Bild zu erzeugen."}
+WORDS["Thanks to PichuZapper#8383 for the materials"]={2:"Vielen Dank an PichuZapper # 8383 für die Materialien"}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity, and Type.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={2:'''Hier sind die Karten basierend auf Damage Per Second (DPS).
+
+* Filtern nach Thema, Kosten, Seltenheit und Typ.
+* Die Gutschrift für diese Daten geht an "Da_Lemming # 6110"'''}
+WORDS["Time Between Attacks"]={2:"Zeit zwischen Angriffen"}
+WORDS["Range"]={2:"Reichweite"}
+WORDS["Damage Per Second"]={2:"Schaden pro Sekunde"}
+WORDS["Base 4-3-2-1"]={2:"Basis 4-3-2-1"}
+WORDS["Max 6-5-4-3"]={2:"Max 6-5-4-3"}
+WORDS["Max 7-6-5-4"]={2:"Max 7-6-5-4"}
+WORDS["Lvl 7"]={2:"Stufe 7"}

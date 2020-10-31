@@ -848,3 +848,19 @@ WORDS["Maximum"]={4:"Massimo"}
 WORDS["Team Wars Brackets"]={4:"Staffe Team Wars"}
 WORDS["The Best Deck"]={4:"Il miglior mazzo"}
 WORDS["FIRKLE"]={4:"FIRKLE"}
+WORDS['''
+	
+		Here is a breakdown of the TVT Deck Choices based on actual in-game data.
+		
+	''']={4:'''Ecco una ripartizione delle scelte del mazzo TVT in base ai dati di gioco effettivi.'''}
+WORDS["TEAMWARS"]={4:"TEAMWAR"}
+WORDS["SUMMARY"]={4:"SOMMARIO"}
+WORDS["GOLD"]={4:"ORO"}
+WORDS["SILVER"]={4:"ARGENTO"}
+WORDS["BRONZE"]={4:"BRONZO"}
+WORDS["Upgrade Days"]={4:"Giorni di aggiornamento"}
+WORDS["Giorni di aggiornamento"]={4:"Giorni di aggiornamento"}
+WORDS["Nome"]={4:"Nome"}
+WORDS["adv,neu"]={4:"adv, neu"}
+WORDS["All Cards"]={4:"Tutte le carte"}
+WORDS["Compare"]={4:"Confrontare"}

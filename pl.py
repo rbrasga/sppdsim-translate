@@ -782,3 +782,9 @@ Z poważaniem,
 -Remington'''}
 WORDS["Firkle"]={10:"Firkle"}
 WORDS["Firkle and the Kindergartners"]={10:"Firkle i przedszkolaki"}
+WORDS["Sorceress Liane"]={10:"Czarodziejka Liane"}
+WORDS["Team War - Week 92 - ADVSUP"]={10:"Wojna drużynowa - tydzień 92 - ADVSUP"}
+WORDS["Lucky 7"]={10:"Szczęście 7"}
+WORDS["Team War - Week 93 - MYSFAN"]={10:"Wojna drużynowa - tydzień 93 - MYSFAN"}
+WORDS["A Witch Hunt"]={10:"Polowanie na czarownice"}
+WORDS["Locker Tokens"]={10:"Tokeny do szafek"}

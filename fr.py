@@ -962,3 +962,144 @@ Téléchargez le Team Manager
 * Demander des fonctionnalités
 * Signaler les bogues'''}
 WORDS["FIRKLE"]={3:"FIRKLE"}
+WORDS["MICHAEL"]={3:"MICHAEL"}
+WORDS['''
+	
+		Here are the meta theme combinations by tier and time frame.
+		
+		* Depending on the time frame, the report may be affected by challenge mode or card usage events.
+		* Filter by wide range of choices!
+		* Refreshed every day.
+		
+	''']={3:'''Voici les combinaisons de méta-thèmes par niveau et par période.
+
+* Selon la période, le rapport peut être affecté par le mode défi ou les événements d'utilisation de la carte.
+* Filtrer par large éventail de choix!
+* Actualisé tous les jours.'''}
+WORDS["THEMES"]={3:"THÈMES"}
+WORDS["sup,neu"]={3:"sup, neu"}
+WORDS['''
+			Oops, this teamwars doesn't exist.
+		''']={3:'''Oups, ce teamwars n'existe pas.'''}
+WORDS["Remaining Time"]={3:"Temps restant"}
+WORDS["Region"]={3:"Région"}
+WORDS["Opponent Disconnected"]={3:"Adversaire déconnecté"}
+WORDS["LOSS"]={3:"PERTE"}
+WORDS["WIN"]={3:"GAGNER"}
+WORDS["Players Per Team"]={3:"Joueurs par équipe"}
+WORDS["WOOD"]={3:"BOIS"}
+WORDS["All Cards"]={3:"Toutes les cartes"}
+WORDS["Compare"]={3:"Comparer"}
+WORDS['''
+	
+		Compare 1 or more cards.
+		
+		* All data is updated frequently.
+		
+	''']={3:'''Comparez une ou plusieurs cartes.
+
+* Toutes les données sont mises à jour fréquemment.'''}
+WORDS["Select Cards"]={3:"Sélectionner des cartes"}
+WORDS["A COCK"]={3:"Une bite"}
+WORDS["ARROWSTORM CASTER"]={3:"ROULETTES ARROWSTORM"}
+WORDS["LIGHTNING BOLT CASTER"]={3:"ROULETTE À BOULON FOUDRE"}
+WORDS["TANK KID"]={3:"RÉSERVOIR ENFANT"}
+WORDS["INDIAN BRAVE"]={3:"BRAVE INDIEN"}
+WORDS["INDIAN WARRIOR"]={3:"GUERRIER INDIEN"}
+WORDS["INDIAN HUNTER"]={3:"CHASSEUR INDIEN"}
+WORDS["ROYAL ARCHER"]={3:"ARCHER ROYAL"}
+WORDS["ARROW TOWER"]={3:"TOUR FLÈCHE"}
+WORDS["INDIAN BRUTE"]={3:"BRUTE INDIENNE"}
+WORDS["AUTO-VACUUM"]={3:"AUTO-VIDE"}
+WORDS["SPACE ASSASSIN"]={3:"ASSASSIN DE L'ESPACE"}
+WORDS["SPACE GRUNT"]={3:"ESPACE GRUNT"}
+WORDS["SPACE GUNNER"]={3:"SPACE GUNNER"}
+WORDS["TOXIC PYLON"]={3:"PYLON TOXIQUE"}
+WORDS["TURBO SPACE GRUNT"]={3:"TURBO SPACE GRUNT"}
+WORDS["CYBORG TOWER"]={3:"TOUR CYBORG"}
+WORDS["SUBZERO TITAN"]={3:"SUBZERO TITAN"}
+WORDS["CYBORG TITAN"]={3:"CYBORG TITAN"}
+WORDS["SNAKE"]={3:"SERPENT"}
+WORDS["LITTLE CHOIRBOY"]={3:"PETIT CHOIRBOY"}
+WORDS["HEALING FOUNTAIN"]={3:"FONTAINE DE GUÉRISON"}
+WORDS["HOLY DEFENDER TOWER"]={3:"TOUR DU SAINT-DÉFENSEUR"}
+WORDS["ZIONIST RANGER"]={3:"RANGER SIONISTE"}
+WORDS["MORMON MISSIONARY"]={3:"MISSIONNAIRE MORMON"}
+WORDS["BEAST MODE"]={3:"MODE BEAST"}
+WORDS["INVINCIBILITY"]={3:"INVINCIBILITÉ"}
+WORDS["NATIVE HUNTER"]={3:"CHASSEUR NATIF"}
+WORDS["RUNE TOTEM"]={3:"RUNE TOTEM"}
+WORDS["SQUIRE"]={3:"ÉCUYER"}
+WORDS["CASLE DEFENDER"]={3:"DÉFENSEUR DU CHÂTEAU"}
+WORDS["CRUSADER"]={3:"CROISÉ"}
+WORDS["MOSQUITO SWARM"]={3:"SWARM DE MOSQUITO"}
+WORDS["POTTED PLANT"]={3:"PLANTE EN POT"}
+WORDS["Select one or more cards"]={3:"Sélectionnez une ou plusieurs cartes"}
+WORDS["mys,neu"]={3:"mys, nouveau"}
+WORDS['''
+	
+		Here are almost all of the cards in the game, including single player.
+		
+		* All data is updated frequently.
+		
+	''']={3:'''Voici presque toutes les cartes du jeu, y compris un joueur unique.
+
+* Toutes les données sont mises à jour fréquemment.'''}
+WORDS["ALL CARDS"]={3:"TOUTES LES CARTES"}
+WORDS["tower"]={3:"la tour"}
+WORDS["rangetower"]={3:"rangetower"}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity, and Type.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={3:'''Voici les cartes basées sur les dégâts par seconde (DPS).
+
+* Filtrer par thème, coût, rareté et type.
+* Le crédit pour ces données va à `Da_Lemming # 6110`'''}
+WORDS["Time Between Attacks"]={3:"Temps entre les attaques"}
+WORDS["Range"]={3:"Gamme"}
+WORDS["Damage Per Second"]={3:"Dommage par seconde"}
+WORDS["Base 4-3-2-1"]={3:"Base 4-3-2-1"}
+WORDS["Max 6-5-4-3"]={3:"Max 6-5-4-3"}
+WORDS["Max 7-6-5-4"]={3:"Max 7-6-5-4"}
+WORDS["Lvl 7"]={3:"Niv 7"}
+WORDS["Base"]={3:"Base"}
+WORDS["Max"]={3:"Max"}
+WORDS["Michael's Advocates"]={3:"Les avocats de Michael"}
+WORDS["Solo"]={3:"Solo"}
+WORDS["Team War - Week 93 - MYSFAN"]={3:"Team War - Semaine 93 - MYSFAN"}
+WORDS["A Witch Hunt"]={3:"Une chasse aux sorcières"}
+WORDS["Sorceress Liane"]={3:"Sorcière Liane"}
+WORDS["Lucky 7"]={3:"Chanceux 7"}
+WORDS["Team War - Week 92 - ADVSUP"]={3:"Team War - Semaine 92 - ADVSUP"}
+WORDS["Crafting Table"]={3:"Table d'artisanat"}
+WORDS["Firkle"]={3:"Firkle"}
+WORDS["Solo+Team"]={3:"Solo + Équipe"}
+WORDS["Firkle and the Kindergartners"]={3:"Firkle et les jardins d'enfants"}
+WORDS["Showdown 2020 Winner"]={3:"Gagnant du Showdown 2020"}
+WORDS["Team War - Week 91 - SPECIAL"]={3:"Team War - Semaine 91 - SPÉCIAL"}
+WORDS["Showdown 2020!"]={3:"Showdown 2020!"}
+WORDS["Plantmania"]={3:"Plantmania"}
+WORDS["Team War - Week 90 - MYSSUP"]={3:"Team War - Semaine 90 - MYSSUP"}
+WORDS["Human Kite"]={3:"Cerf-volant humain"}
+WORDS["Mary Jane Randy"]={3:"Mary Jane Randy"}
+WORDS["The Marsh Family"]={3:"La famille Marsh"}
+WORDS["Team War - Week 89 - SCIFANSUP"]={3:"Team War - Semaine 89 - SCIFANSUP"}
+WORDS["Solo/Team"]={3:"Solo / Équipe"}
+WORDS["Start"]={3:"Début"}
+WORDS["End"]={3:"Fin"}
+WORDS["Total Packs"]={3:"Packs totaux"}
+WORDS["Points Required For Pack"]={3:"Points requis pour le pack"}
+WORDS["1"]={3:"1"}
+WORDS["2"]={3:"2"}
+WORDS["3"]={3:"3"}
+WORDS["4"]={3:"4"}
+WORDS["5"]={3:"5"}
+WORDS["6"]={3:"6"}
+WORDS["7"]={3:"7"}
+WORDS["8"]={3:"8"}
+WORDS["Today's Events"]={3:"Événements du jour"}
+WORDS["Events History - 1 Month"]={3:"Historique des événements - 1 mois"}

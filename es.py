@@ -1185,3 +1185,41 @@ WORDS["LOSS"]={5:"PÉRDIDA"}
 WORDS["Incan Craig"]={5:"Inca Craig"}
 WORDS["Satan"]={5:"Satán"}
 WORDS["You need to log in to view this page"]={5:"Debes iniciar sesión para ver esta página"}
+WORDS["Sorceress Liane"]={5:"Hechicera liane"}
+WORDS["Team War - Week 92 - ADVSUP"]={5:"Team War - Semana 92 ​​- ADVSUP"}
+WORDS["Lucky 7"]={5:"Suerte 7"}
+WORDS["MICHAEL"]={5:"MIGUEL"}
+WORDS['''
+	
+		Here are the most recent Challenges (Chaos Mode).
+		
+		* Meta Report updated every hour if new matches were uploaded.
+		
+	''']={5:'''Estos son los desafíos más recientes (modo Caos).
+
+* Meta Informe actualizado cada hora si se cargaban nuevas coincidencias.'''}
+WORDS["CHALLENGE"]={5:"DESAFÍO"}
+WORDS["Chaos: Lucky 7"]={5:"Caos: Suerte 7"}
+WORDS["Chaos: Firkle Premiere"]={5:"Caos: estreno de Firkle"}
+WORDS["Chaos: Plantmania"]={5:"Caos: Plantmania"}
+WORDS["Chaos: The Marsh Family"]={5:"Caos: la familia Marsh"}
+WORDS["Chaos: Showdown 2020"]={5:"Caos: Showdown 2020"}
+WORDS["Chaos: Draw Your Bows!"]={5:"Caos: ¡Dibuja tus arcos!"}
+WORDS["Chaos: Heavy Butters"]={5:"Caos: Mantequillas pesadas"}
+WORDS["Chaos: Flying Higher"]={5:"Caos: Volando más alto"}
+WORDS["Chaos: Ultra Speed Crew"]={5:"Caos: Tripulación ultrarrápida"}
+WORDS["Chaos: Witches & Healers"]={5:"Caos: brujas y curanderos"}
+WORDS["Chaos: Come on Down to South Park"]={5:"Caos: vamos a South Park"}
+WORDS["Chaos: Elves vs Aliens"]={5:"Caos: Elfos contra alienígenas"}
+WORDS["Chaos: Chaos Critters"]={5:"Caos: criaturas del caos"}
+WORDS["Chaos: Tornado"]={5:"Caos: Tornado"}
+WORDS["Chaos: Adventurous Heroes"]={5:"Caos: héroes aventureros"}
+WORDS["Chaos: The Dark Angel's Gift"]={5:"Caos: el regalo del ángel oscuro"}
+WORDS["All Cards"]={5:"Todas las cartas"}
+WORDS["Compare"]={5:"Comparar"}
+WORDS["LITTLE CHOIRBOY"]={5:"PEQUEÑO CHOIRBOY"}
+WORDS["INDIAN BRAVE"]={5:"VALIENTE INDIO"}
+WORDS["A COCK"]={5:"UNA POLLA"}
+WORDS["SNAKE"]={5:"SERPIENTE"}
+WORDS["MOSQUITO SWARM"]={5:"ENJAMBRE DE MOSQUITOS"}
+WORDS["AUTO-VACUUM"]={5:"AUTO-VACÍO"}

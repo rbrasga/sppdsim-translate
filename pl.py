@@ -802,3 +802,7 @@ WORDS["HYPERDRIVE"]={10:"HYPERDRIVE"}
 WORDS["ALIEN CLYDE"]={10:"ALIEN CLYDE"}
 WORDS["NATHAN"]={10:"NATHAN"}
 WORDS["Closed"]={10:"Zamknięte"}
+WORDS["mys,neu"]={10:"mys, neu"}
+WORDS["adv,neu"]={10:"adv, neu"}
+WORDS["Michael"]={10:"Michael"}
+WORDS["Michael's Advocates"]={10:"Michael's Advocates"}

@@ -1266,3 +1266,92 @@ WORDS["A COCK"]={1:"ПЕТУХ"}
 WORDS["SNAKE"]={1:"ЗМЕЯ"}
 WORDS["MOSQUITO SWARM"]={1:"МОСКИТСКИЙ РЫЧ"}
 WORDS["AUTO-VACUUM"]={1:"АВТО-ВАКУУМ"}
+WORDS["Chaos: Candy Smasher"]={1:"Хаос: Крушитель конфет"}
+WORDS['''
+	
+		Here are almost all of the cards in the game, including single player.
+		
+		* All data is updated frequently.
+		
+	''']={1:'''Здесь представлены практически все карты в игре, в том числе для одиночной игры.
+
+* Все данные часто обновляются.'''}
+WORDS["INDIAN HUNTER"]={1:"ИНДИЙСКИЙ ОХОТНИК"}
+WORDS["ALL CARDS"]={1:"ВСЕ КАРТЫ"}
+WORDS["ARROW TOWER"]={1:"СТРЕЛКА БАШНЯ"}
+WORDS["tower"]={1:"башня"}
+WORDS["INDIAN BRUTE"]={1:"ИНДИЙСКИЙ БРУТ"}
+WORDS["SPACE GRUNT"]={1:"КОСМИЧЕСКИЙ ГРУНТ"}
+WORDS["SPACE GUNNER"]={1:"КОСМИЧЕСКИЙ ПИСТОЛЕТ"}
+WORDS["CYBORG TITAN"]={1:"КИБОРГ ТИТАН"}
+WORDS["rangetower"]={1:"дальномер"}
+WORDS["ZIONIST RANGER"]={1:"Сионистский рейнджер"}
+WORDS["ZIONIST RANGER"]={1:"Сионистский рейнджер"}
+WORDS["SPACE ASSASSIN"]={1:"Космический убийца"}
+WORDS["SPACE ASSASSIN"]={1:"Космический убийца"}
+WORDS["MORMON MISSIONARY"]={1:"МОРМОНСКИЙ МИССИОНЕР"}
+WORDS["MORMON MISSIONARY"]={1:"МОРМОНСКИЙ МИССИОНЕР"}
+WORDS["SUBZERO TITAN"]={1:"СУБЗЕРО ТИТАН"}
+WORDS["SUBZERO TITAN"]={1:"СУБЗЕРО ТИТАН"}
+WORDS["ROYAL ARCHER"]={1:"КОРОЛЕВСКИЙ АРЧЕР"}
+WORDS["ROYAL ARCHER"]={1:"КОРОЛЕВСКИЙ АРЧЕР"}
+WORDS["TURBO SPACE GRUNT"]={1:"TURBO SPACE GRUNT"}
+WORDS["TURBO SPACE GRUNT"]={1:"TURBO SPACE GRUNT"}
+WORDS["TANK KID"]={1:"TANK KID"}
+WORDS["TANK KID"]={1:"TANK KID"}
+WORDS["INDIAN WARRIOR"]={1:"ИНДИЙСКИЙ ВОИН"}
+WORDS["INDIAN WARRIOR"]={1:"ИНДИЙСКИЙ ВОИН"}
+WORDS["BEAST MODE"]={1:"РЕЖИМ ЗВЕРЯ"}
+WORDS["BEAST MODE"]={1:"РЕЖИМ ЗВЕРЯ"}
+WORDS["INVINCIBILITY"]={1:"НЕПОБЕДИМОСТЬ"}
+WORDS["INVINCIBILITY"]={1:"НЕПОБЕДИМОСТЬ"}
+WORDS["HEALING FOUNTAIN"]={1:"ЛЕЧЕБНЫЙ ФОНТАН"}
+WORDS["HEALING FOUNTAIN"]={1:"ЛЕЧЕБНЫЙ ФОНТАН"}
+WORDS["TOXIC PYLON"]={1:"ТОКСИЧНЫЙ ПИЛОН"}
+WORDS["TOXIC PYLON"]={1:"ТОКСИЧНЫЙ ПИЛОН"}
+WORDS["RUNE TOTEM"]={1:"РУНА ТОТЕМ"}
+WORDS["RUNE TOTEM"]={1:"РУНА ТОТЕМ"}
+WORDS["CYBORG TOWER"]={1:"КИБОРГ БАШНЯ"}
+WORDS["CYBORG TOWER"]={1:"КИБОРГ БАШНЯ"}
+WORDS["HOLY DEFENDER TOWER"]={1:"СВЯТОЙ ЗАЩИТНИК БАШНЯ"}
+WORDS["HOLY DEFENDER TOWER"]={1:"СВЯТОЙ ЗАЩИТНИК БАШНЯ"}
+WORDS["CASLE DEFENDER"]={1:"ЗАМОК ЗАЩИТНИК"}
+WORDS["CASLE DEFENDER"]={1:"ЗАМОК ЗАЩИТНИК"}
+WORDS["SQUIRE"]={1:"SQUIRE"}
+WORDS["SQUIRE"]={1:"SQUIRE"}
+WORDS["NATIVE HUNTER"]={1:"РОДНЫЙ ОХОТНИК"}
+WORDS["NATIVE HUNTER"]={1:"РОДНЫЙ ОХОТНИК"}
+WORDS["CRUSADER"]={1:"CRUSADER"}
+WORDS["CRUSADER"]={1:"CRUSADER"}
+WORDS["ARROWSTORM CASTER"]={1:"КАСТЕР СТРЕЛКИ"}
+WORDS["ARROWSTORM CASTER"]={1:"КАСТЕР СТРЕЛКИ"}
+WORDS["LIGHTNING BOLT CASTER"]={1:"МОЛНИЯ БОЛТА"}
+WORDS["LIGHTNING BOLT CASTER"]={1:"МОЛНИЯ БОЛТА"}
+WORDS["POTTED PLANT"]={1:"РАСТЕНИЕ В ГОРШКЕ"}
+WORDS["POTTED PLANT"]={1:"РАСТЕНИЕ В ГОРШКЕ"}
+WORDS["Select one or more cards"]={1:"Выберите одну или несколько карт"}
+WORDS['''
+	
+		Compare 1 or more cards.
+		
+		* All data is updated frequently.
+		
+	''']={1:'''Сравните 1 или несколько карт.
+
+* Все данные часто обновляются.'''}
+WORDS["Select Cards"]={1:"Выбрать карты"}
+WORDS["Health0"]={1:"Здоровье0"}
+WORDS["Attack0"]={1:"Атака0"}
+WORDS["Attack0"]={1:"Атака0"}
+WORDS["DPS0"]={1:"DPS0"}
+WORDS["DPS0"]={1:"DPS0"}
+WORDS["Level-Upgrade"]={1:"Повышение уровня"}
+WORDS["Health1"]={1:"Здоровье1"}
+WORDS["Attack1"]={1:"Атака1"}
+WORDS["Power Damage1"]={1:"Мощность Урон1"}
+WORDS["3 Year Anniversary"]={1:"3-летний юбилей"}
+WORDS["The Chaos Cup"]={1:"Чаша Хаоса"}
+WORDS["Team War - Week 94 - ADVSCISUP"]={1:"Командная война - 94-я неделя - ADVSCISUP"}
+WORDS["Candy Smasher"]={1:"Candy Smasher"}
+WORDS["Michael"]={1:"Майкл"}
+WORDS["Michael's Advocates"]={1:"Адвокаты Майкла"}

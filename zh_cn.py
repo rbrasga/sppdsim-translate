@@ -699,3 +699,23 @@ WORDS['''
 * SPPD Deck Tracker可以选择上传您的比赛。
 *如果您与其他球员的比赛通过SPPD甲板追踪器上传，则此处列出了您与他们的比赛。'''}
 WORDS["MY MATCHES"]={8:"我的比赛"}
+WORDS["All Cards"]={8:"所有卡"}
+WORDS["Compare"]={8:"相比"}
+WORDS['''
+	
+		Here are the cards based on Damage Per Second (DPS).
+		
+		* Filter by Theme, Cost, Rarity, and Type.		
+		* Credit for this data goes to `Da_Lemming#6110`
+		
+	''']={8:'''这是基于每秒伤害（DPS）的卡。
+
+*按主题，成本，稀有度和类型过滤。
+*此数据归功于“ Da_Lemming＃6110”'''}
+WORDS["LITTLE CHOIRBOY"]={8:"小巧的男孩"}
+WORDS["INDIAN BRAVE"]={8:"印度勇敢"}
+WORDS["A COCK"]={8:"公鸡"}
+WORDS["SNAKE"]={8:"蛇"}
+WORDS["MOSQUITO SWARM"]={8:"蚊子群"}
+WORDS["AUTO-VACUUM"]={8:"自动真空"}
+WORDS["MICHAEL"]={8:"迈克尔"}

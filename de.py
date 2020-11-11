@@ -1006,3 +1006,58 @@ WORDS["Events History - 1 Month"]={2:"Ereignisverlauf - 1 Monat"}
 WORDS["adv,neu"]={2:"adv, neu"}
 WORDS["All Cards"]={2:"Alle Karten"}
 WORDS["Compare"]={2:"Vergleichen Sie"}
+WORDS["The Chaos Cup"]={2:"Der Chaos Cup"}
+WORDS["mys,neu"]={2:"mys, neu"}
+WORDS['''
+	
+		Here is a breakdown of the TVT Deck Choices based on actual in-game data.
+		
+	''']={2:'''Hier ist eine Aufschlüsselung der TVT-Deck-Auswahl basierend auf den tatsächlichen Daten im Spiel.'''}
+WORDS["TEAMWARS"]={2:"TEAMWARS"}
+WORDS["SUMMARY"]={2:"ZUSAMMENFASSUNG"}
+WORDS["GOLD"]={2:"GOLD"}
+WORDS["SILVER"]={2:"SILBER"}
+WORDS["BRONZE"]={2:"BRONZE"}
+WORDS["Upgrade Days"]={2:"Upgrade-Tage"}
+WORDS["Ich würde"]={2:"Ich würde"}
+WORDS["Upgrade-Tage"]={2:"Upgrade-Tage"}
+WORDS['''
+	
+		Here are the most recent Challenges (Chaos Mode).
+		
+		* Meta Report updated every hour if new matches were uploaded.
+		
+	''']={2:'''Hier sind die neuesten Herausforderungen (Chaos-Modus).
+
+* Der Meta-Bericht wird stündlich aktualisiert, wenn neue Übereinstimmungen hochgeladen wurden.'''}
+WORDS["CHALLENGE"]={2:"HERAUSFORDERUNG"}
+WORDS["Chaos Cup v2"]={2:"Chaos Cup v2"}
+WORDS["Chaos: Candy Smasher"]={2:"Chaos: Candy Smasher"}
+WORDS["Chaos: Michael Premiere"]={2:"Chaos: Michael Premiere"}
+WORDS["Chaos: Lucky 7"]={2:"Chaos: Glück 7"}
+WORDS["Chaos: Firkle Premiere"]={2:"Chaos: Firkle Premiere"}
+WORDS["Chaos: Plantmania"]={2:"Chaos: Plantmania"}
+WORDS["Chaos: The Marsh Family"]={2:"Chaos: Die Sumpffamilie"}
+WORDS["Chaos: Showdown 2020"]={2:"Chaos: Showdown 2020"}
+WORDS["Chaos: Draw Your Bows!"]={2:"Chaos: Zieh deine Bögen!"}
+WORDS["Chaos: Draw Your Bows!"]={2:"Chaos: Zieh deine Bögen!"}
+WORDS["Chaos: Heavy Butters"]={2:"Chaos: Heavy Butters"}
+WORDS["Chaos: Heavy Butters"]={2:"Chaos: Heavy Butters"}
+WORDS["Chaos: Flying Higher"]={2:"Chaos: Höher fliegen"}
+WORDS["Chaos: Flying Higher"]={2:"Chaos: Höher fliegen"}
+WORDS["Chaos: Ultra Speed Crew"]={2:"Chaos: Ultra Speed ​​Crew"}
+WORDS["Chaos: Ultra Speed Crew"]={2:"Chaos: Ultra Speed ​​Crew"}
+WORDS["Chaos: Witches & Healers"]={2:"Chaos: Hexen & Heiler"}
+WORDS["Chaos: Witches & Healers"]={2:"Chaos: Hexen & Heiler"}
+WORDS["Chaos: Come on Down to South Park"]={2:"Chaos: Komm runter nach South Park"}
+WORDS["Chaos: Come on Down to South Park"]={2:"Chaos: Komm runter nach South Park"}
+WORDS["Chaos: Elves vs Aliens"]={2:"Chaos: Elfen gegen Außerirdische"}
+WORDS["Chaos: Elves vs Aliens"]={2:"Chaos: Elfen gegen Außerirdische"}
+WORDS["Chaos: Chaos Critters"]={2:"Chaos: Chaos Critters"}
+WORDS["Chaos: Chaos Critters"]={2:"Chaos: Chaos Critters"}
+WORDS["Chaos: Tornado"]={2:"Chaos: Tornado"}
+WORDS["Chaos: Tornado"]={2:"Chaos: Tornado"}
+WORDS["Chaos: Adventurous Heroes"]={2:"Chaos: Abenteuerlustige Helden"}
+WORDS["Chaos: Adventurous Heroes"]={2:"Chaos: Abenteuerlustige Helden"}
+WORDS["Chaos: The Dark Angel's Gift"]={2:"Chaos: Das Geschenk des dunklen Engels"}
+WORDS["Chaos: The Dark Angel's Gift"]={2:"Chaos: Das Geschenk des dunklen Engels"}

@@ -1105,3 +1105,4 @@ WORDS["Today's Events"]={3:"Événements du jour"}
 WORDS["Events History - 1 Month"]={3:"Historique des événements - 1 mois"}
 WORDS["Michael"]={3:"Michael"}
 WORDS["Wooden"]={3:"En bois"}
+WORDS["neu,neu"]={3:"neu, neu"}

@@ -1262,3 +1262,21 @@ WORDS["CASLE DEFENDER"]={5:"DEFENSOR DEL CASTILLO"}
 WORDS["CRUSADER"]={5:"CRUZADO"}
 WORDS["POTTED PLANT"]={5:"PLANTA EN MACETA"}
 WORDS["Select one or more cards"]={5:"Seleccione una o más tarjetas"}
+WORDS["Simple"]={5:"Sencillo"}
+WORDS["Detailed"]={5:"Detallado"}
+WORDS["Base"]={5:"Base"}
+WORDS["Max"]={5:"Max"}
+WORDS[">10000"]={5:"> 10000"}
+WORDS[">700"]={5:"> 700"}
+WORDS['''
+	
+		Here are almost all of the cards in the game, including single player.
+		
+		* All data is updated frequently.
+		
+	''']={5:'''Aquí están casi todas las cartas del juego, incluido un jugador.
+
+* Todos los datos se actualizan con frecuencia.'''}
+WORDS["ALL CARDS"]={5:"TODAS LAS TARJETAS"}
+WORDS["tower"]={5:"torre"}
+WORDS["rangetower"]={5:"torre de rango"}

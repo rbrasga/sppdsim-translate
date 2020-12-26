@@ -1280,3 +1280,8 @@ WORDS['''
 WORDS["ALL CARDS"]={5:"TODAS LAS TARJETAS"}
 WORDS["tower"]={5:"torre"}
 WORDS["rangetower"]={5:"torre de rango"}
+WORDS["Note: Tracking ID is A-F and 0-9."]={5:"Nota: el ID de seguimiento es A-F y 0-9."}
+WORDS["PETE"]={5:"PETE"}
+WORDS["HENRIETTA"]={5:"HENRIETTA"}
+WORDS["mys,neu"]={5:"mis, neu"}
+WORDS["Unknown,adv,mys"]={5:"Desconocido, adv, mis"}

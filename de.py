@@ -1061,3 +1061,66 @@ WORDS["Chaos: Adventurous Heroes"]={2:"Chaos: Abenteuerlustige Helden"}
 WORDS["Chaos: Adventurous Heroes"]={2:"Chaos: Abenteuerlustige Helden"}
 WORDS["Chaos: The Dark Angel's Gift"]={2:"Chaos: Das Geschenk des dunklen Engels"}
 WORDS["Chaos: The Dark Angel's Gift"]={2:"Chaos: Das Geschenk des dunklen Engels"}
+WORDS["MICHAEL"]={2:"Michael"}
+WORDS["PETE"]={2:"PETE"}
+WORDS["Select one or more cards"]={2:"Wählen Sie eine oder mehrere Karten aus"}
+WORDS['''
+	
+		Here are almost all of the cards in the game, including single player.
+		
+		* All data is updated frequently.
+		
+	''']={2:'''Hier sind fast alle Karten im Spiel, einschließlich Einzelspieler.
+
+* Alle Daten werden regelmäßig aktualisiert.'''}
+WORDS["ALL CARDS"]={2:"ALLE KARTEN"}
+WORDS["INDIAN HUNTER"]={2:"INDISCHER JÄGER"}
+WORDS["LITTLE CHOIRBOY"]={2:"KLEINER CHOIRBOY"}
+WORDS["ARROW TOWER"]={2:"PFEILTURM"}
+WORDS["tower"]={2:"Turm"}
+WORDS["INDIAN BRUTE"]={2:"INDIAN BRUTE"}
+WORDS["SPACE GRUNT"]={2:"SPACE GRUNT"}
+WORDS["SPACE GUNNER"]={2:"SPACE GUNNER"}
+WORDS["CYBORG TITAN"]={2:"CYBORG TITAN"}
+WORDS["INDIAN BRAVE"]={2:"INDIAN BRAVE"}
+WORDS["A COCK"]={2:"Ein Schwanz"}
+WORDS["rangetower"]={2:"Rangetower"}
+WORDS["ZIONIST RANGER"]={2:"ZIONIST RANGER"}
+WORDS["SPACE ASSASSIN"]={2:"SPACE ASSASSIN"}
+WORDS["MORMON MISSIONARY"]={2:"MORMON MISSIONARY"}
+WORDS["SUBZERO TITAN"]={2:"SUBZERO TITAN"}
+WORDS["ROYAL ARCHER"]={2:"ROYAL ARCHER"}
+WORDS["TURBO SPACE GRUNT"]={2:"TURBO SPACE GRUNT"}
+WORDS["TANK KID"]={2:"TANK KID"}
+WORDS["INDIAN WARRIOR"]={2:"INDISCHER KRIEGER"}
+WORDS["BEAST MODE"]={2:"TIERMODUS"}
+WORDS["INVINCIBILITY"]={2:"UNBESIEGBARKEIT"}
+WORDS["HEALING FOUNTAIN"]={2:"Heilbrunnen"}
+WORDS["TOXIC PYLON"]={2:"GIFTIGES PYLON"}
+WORDS["RUNE TOTEM"]={2:"RUNE TOTEM"}
+WORDS["CYBORG TOWER"]={2:"CYBORG TOWER"}
+WORDS["HOLY DEFENDER TOWER"]={2:"HEILIGER VERTEIDIGERSTURM"}
+WORDS["CASLE DEFENDER"]={2:"SCHLOSSVERTEIDIGER"}
+WORDS["SQUIRE"]={2:"KNAPPE"}
+WORDS["NATIVE HUNTER"]={2:"NATIVER JÄGER"}
+WORDS["CRUSADER"]={2:"KREUZRITTER"}
+WORDS["ARROWSTORM CASTER"]={2:"ARROWSTORM CASTER"}
+WORDS["LIGHTNING BOLT CASTER"]={2:"BLITZBOLZEN-CASTER"}
+WORDS["SNAKE"]={2:"SCHLANGE"}
+WORDS["MOSQUITO SWARM"]={2:"MOSQUITO SWARM"}
+WORDS["AUTO-VACUUM"]={2:"AUTO-VAKUUM"}
+WORDS["POTTED PLANT"]={2:"TOPFPFLANZE"}
+WORDS["GIZMO IKE CLONE"]={2:"GIZMO IKE CLONE"}
+WORDS["neu,neu"]={2:"neu, neu"}
+WORDS['''
+	
+		Here are your matches.
+		
+		* The SPPD Deck Tracker can optionally upload your matches.
+		* Your matches with other players are listed here, if they uploaded the match with the SPPD Deck Tracker.
+		
+	''']={2:'''Hier sind deine Streichhölzer.
+
+* Der SPPD Deck Tracker kann optional Ihre Übereinstimmungen hochladen.
+* Ihre Matches mit anderen Spielern werden hier aufgelistet, wenn sie das Match mit dem SPPD Deck Tracker hochgeladen haben.'''}
+WORDS["MY MATCHES"]={2:"MEINE STREICHHÖLZER"}

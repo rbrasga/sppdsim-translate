@@ -914,3 +914,83 @@ WORDS["AUTO-VACUUM"]={4:"AUTO-VACUUM"}
 WORDS["POTTED PLANT"]={4:"PIANTA IN VASO"}
 WORDS["MICHAEL"]={4:"MICHAEL"}
 WORDS["Select one or more cards"]={4:"Seleziona una o più carte"}
+WORDS["PETE"]={4:"PETE"}
+WORDS['''
+	
+		Here are the most recent matches.
+		
+		* Matches uploaded using the SPPD Deck Tracker.
+		* Filter by wide range of choices!
+		   * Ranked OR Challenge Mode
+		   * Specific Rank, like 8500+
+		* Live! - See the matches as soon as they complete.
+		
+	''']={4:'''Ecco le partite più recenti.
+
+* Partite caricate utilizzando l'SPPD Deck Tracker.
+* Filtra per un'ampia gamma di scelte!
+* Modalità Classificata O Sfida
+* Grado specifico, come 8500+
+* Vivere! - Guarda le partite non appena si completano.'''}
+WORDS["MATCHES"]={4:"PARTITE"}
+WORDS["8500+"]={4:"8500+"}
+WORDS["7500-8500"]={4:"7500-8500"}
+WORDS["6500-7500"]={4:"6500-7500"}
+WORDS["5500-6500"]={4:"5500-6500"}
+WORDS["4500-5500"]={4:"4500-5500"}
+WORDS["3500-4500"]={4:"3500-4500"}
+WORDS["2500-3500"]={4:"2500-3500"}
+WORDS["1500-2500"]={4:"1500-2500"}
+WORDS["500-1500"]={4:"500-1500"}
+WORDS["-500-500"]={4:"-500-500"}
+WORDS["Match Type"]={4:"Tipo di corrispondenza"}
+WORDS["Time"]={4:"Tempo"}
+WORDS["Player 1"]={4:"Giocatore 1"}
+WORDS["MMR1"]={4:"MMR1"}
+WORDS["NK1"]={4:"NK1"}
+WORDS["Player 2"]={4:"Giocatore 2"}
+WORDS["MMR2"]={4:"MMR2"}
+WORDS["NK2"]={4:"NK2"}
+WORDS["Win Rate"]={4:"Tasso di vittoria"}
+WORDS["New Kid"]={4:"New Kid"}
+WORDS["Scores"]={4:"Punteggi"}
+WORDS["Team War - Week 97 - ADVMYS"]={4:"Team War - Settimana 97 - ADVMYS"}
+WORDS["Solo"]={4:"Assolo"}
+WORDS["The Sharpshooter"]={4:"Il tiratore scelto"}
+WORDS["The Elven King"]={4:"Il re degli elfi"}
+WORDS["The Heist"]={4:"The Heist"}
+WORDS["Ultra Zap"]={4:"Ultra Zap"}
+WORDS["Team War - Week 96 - SCISUP"]={4:"Team War - Settimana 96 - SCISUP"}
+WORDS["Crafting Table"]={4:"Tavolo da lavoro"}
+WORDS["Pete"]={4:"Pete"}
+WORDS["Mint-berry Crunch"]={4:"Crunch alla menta e frutti di bosco"}
+WORDS["Pete's Promise"]={4:"La promessa di Pete"}
+WORDS["Incan Craig"]={4:"Inca Craig"}
+WORDS["Medusa Bebe"]={4:"Medusa Bebe"}
+WORDS["Team War - Week 95 - 3YEARS"]={4:"Team War - Settimana 95 - 3 ANNI"}
+WORDS["3 Year Anniversary"]={4:"3 anni di anniversario"}
+WORDS["The Chaos Cup"]={4:"La Coppa del Caos"}
+WORDS["Candy Smasher"]={4:"Candy Smasher"}
+WORDS["Team War - Week 94 - ADVSCISUP"]={4:"Team War - Settimana 94 - ADVSCISUP"}
+WORDS["The Coon"]={4:"The Coon"}
+WORDS["Michael"]={4:"Michael"}
+WORDS["Michael's Advocates"]={4:"Gli avvocati di Michael"}
+WORDS["Team War - Week 93 - MYSFAN"]={4:"Guerra a squadre - Settimana 93 - MYSFAN"}
+WORDS["A Witch Hunt"]={4:"Una caccia alle streghe"}
+WORDS["Sorceress Liane"]={4:"Maga Liane"}
+WORDS["Team War - Week 92 - ADVSUP"]={4:"Guerra a squadre - Settimana 92 ​​- ADVSUP"}
+WORDS["Solo/Team"]={4:"Solo / Team"}
+WORDS["Start"]={4:"Inizio"}
+WORDS["End"]={4:"Fine"}
+WORDS["Total Packs"]={4:"Confezioni totali"}
+WORDS["Points Required For Pack"]={4:"Punti richiesti per Pack"}
+WORDS["1"]={4:"1"}
+WORDS["2"]={4:"2"}
+WORDS["3"]={4:"3"}
+WORDS["4"]={4:"4"}
+WORDS["5"]={4:"5"}
+WORDS["6"]={4:"6"}
+WORDS["7"]={4:"7"}
+WORDS["8"]={4:"8"}
+WORDS["Today's Events"]={4:"Eventi di oggi"}
+WORDS["Events History - 1 Month"]={4:"Cronologia eventi - 1 mese"}

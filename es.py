@@ -750,6 +750,7 @@ WORDS["Fantasy"]={5:"Fantasía"}
 WORDS["Mystical"]={5:"Místico"}
 WORDS["Neutral"]={5:"Neutral"}
 WORDS["Sci-Fi"]={5:"Ciencia ficción"}
+WORDS["Sci-fi"]={5:"Ciencia ficción"}
 WORDS["Superheros"]={5:"Superhéroes"}
 WORDS["Common"]={5:"Común"}
 WORDS["Rare"]={5:"Raro"}
